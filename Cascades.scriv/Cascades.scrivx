@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-11-01 15:41:24 -0800">
+    <Binder>
+        <BinderItem ID="12" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Novel Format</Title>
+            <MetaData>
+                <LabelID>5</LabelID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="0" Type="DraftFolder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="4" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                    <Title>Chapter</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="6" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Scene</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateID>21</DefaultChildTemplateID>
+        </BinderItem>
+        <BinderItem ID="18" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateID>22</DefaultChildTemplateID>
+        </BinderItem>
+        <BinderItem ID="29" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Front Matter.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="30" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="11" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>564,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>142,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="31" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                    <Title>Paperback Novel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="38" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>169,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>23,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="37" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11,23</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Blank Page</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>197,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="32" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                    <Title>E-Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="34" Type="Image" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="33" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="44" Type="Folder" Created="2015-09-11 21:54:53 -0700" Modified="2015-09-11 21:55:59 -0700">
+                    <Title>NASA</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" Type="Folder" Created="2015-09-11 21:55:07 -0700" Modified="2015-09-11 21:55:23 -0700">
+                    <Title>Flight Crew</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="48" Type="Text" Created="2015-10-07 20:00:40 -0700" Modified="2015-10-07 20:01:02 -0700">
+                            <Title>“Cabin crew” vs “Flight crew</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>30,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="49" Type="WebArchive" Created="2015-10-07 20:02:47 -0700" Modified="2015-10-07 20:02:47 -0700">
+                            <Title>Flight Attendant (wikipedia)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Flight_attendant</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" Type="Text" Created="2015-10-07 20:03:30 -0700" Modified="2015-10-07 20:13:56 -0700">
+                            <Title>Flight Attendant (wikipedia)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2173,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="51" Type="Text" Created="2015-10-07 20:15:27 -0700" Modified="2015-10-07 20:16:16 -0700">
+                            <Title>Cabin chimes and overhead panel lights</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1251,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="52" Type="Folder" Created="2015-10-07 20:20:43 -0700" Modified="2015-10-07 20:20:47 -0700">
+                    <Title>Aircraft</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="53" Type="WebArchive" Created="2015-10-07 20:21:09 -0700" Modified="2015-10-07 20:21:09 -0700">
+                            <Title>Concorde</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Concorde</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="54" Type="WebArchive" Created="2015-10-07 20:52:52 -0700" Modified="2015-10-07 20:52:52 -0700">
+                            <Title>Buran</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Buran_%28spacecraft%29</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="56" Type="WebArchive" Created="2015-10-07 20:55:46 -0700" Modified="2015-10-07 20:55:46 -0700">
+                            <Title>MiG-105 1976</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-105</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="57" Type="WebArchive" Created="2015-10-07 20:59:53 -0700" Modified="2015-10-07 20:59:53 -0700">
+                            <Title>DC-10</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-10</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="59" Type="WebArchive" Created="2015-10-07 21:05:52 -0700" Modified="2015-10-07 21:05:52 -0700">
+                            <Title>List of Jet Airliners</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/List_of_jet_airliners</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="60" Type="WebArchive" Created="2015-10-07 21:06:51 -0700" Modified="2015-10-07 21:06:51 -0700">
+                            <Title>List of Regional Airliners</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/List_of_regional_airliners</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="61" Type="WebArchive" Created="2015-10-07 21:08:50 -0700" Modified="2015-10-07 21:08:50 -0700">
+                            <Title>Beechcraft 99</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Beechcraft_Model_99</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="62" Type="WebArchive" Created="2015-10-07 21:10:33 -0700" Modified="2015-10-07 21:10:33 -0700">
+                            <Title>Metroliner</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Fairchild_Swearingen_Metroliner</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="63" Type="WebArchive" Created="2015-10-07 21:11:17 -0700" Modified="2015-10-07 21:11:17 -0700">
+                            <Title>L-1011 TriStar</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Lockheed_L-1011_TriStar</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="64" Type="WebArchive" Created="2015-10-07 21:14:57 -0700" Modified="2015-10-07 21:14:57 -0700">
+                            <Title>DC-8</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Douglas_DC-8</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="65" Type="WebArchive" Created="2015-10-07 21:15:56 -0700" Modified="2015-10-07 21:15:56 -0700">
+                            <Title>Airbus A300</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Airbus_A300</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="66" Type="WebArchive" Created="2015-10-07 21:17:15 -0700" Modified="2015-10-07 21:17:15 -0700">
+                            <Title>Ilyushin Il-86</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Ilyushin_Il-86</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="67" Type="WebArchive" Created="2015-10-07 21:18:53 -0700" Modified="2015-10-07 21:18:53 -0700">
+                            <Title>Boeing 747</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Boeing_747</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="69" Type="WebArchive" Created="2015-10-07 21:20:11 -0700" Modified="2015-10-07 21:20:11 -0700">
+                            <Title>Boeing 707</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Boeing_707</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="70" Type="WebArchive" Created="2015-10-07 21:28:06 -0700" Modified="2015-10-07 21:28:06 -0700">
+                            <Title>Aircraft Livery</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Aircraft_livery</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="71" Type="WebArchive" Created="2015-10-07 21:36:11 -0700" Modified="2015-10-07 21:36:11 -0700">
+                            <Title>Boeing C-137</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://en.wikipedia.org/wiki/Boeing_C-137_Stratoliner</OriginalURL>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="46" Type="Folder" Created="2015-10-07 19:49:59 -0700" Modified="2015-10-07 19:50:05 -0700">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="47" Type="Text" Created="2015-10-07 19:50:11 -0700" Modified="2015-10-07 19:58:18 -0700">
+                            <Title>Protagonist</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>184,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="20" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="21" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="39" Type="Folder" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="43" Type="PDF" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" Type="PDF" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>9</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="41" Type="Image" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
+                            <Title>iBooks E-book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="55" Type="Text" Created="2015-10-07 20:55:24 -0700" Modified="2015-10-07 20:55:24 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="58" Type="Text" Created="2015-10-07 21:05:29 -0700" Modified="2015-10-07 21:05:29 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="68" Type="Text" Created="2015-10-07 21:19:54 -0700" Modified="2015-10-07 21:19:54 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.784753 0.815752 0.848702">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.95 0.915 0.331946">Idea</Label>
+            <Label ID="5" Color="0.8914 0.527776 0.221996">Notes</Label>
+            <Label ID="6" Color="0.913917 0.1 0.184488">Character Notes</Label>
+            <Label ID="2" Color="0.281815 0.7 0.0">Chapter</Label>
+            <Label ID="4" Color="0.276539 0.557792 1.0">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectProperties>
+        <ProjectTitle>Fail Operational - Fail Safe</ProjectTitle>
+        <AbbreviatedTitle>FO/FS</AbbreviatedTitle>
+        <FullName>Rick Osborne</FullName>
+        <LastName>Osborne</LastName>
+        <FirstName>Rick</FirstName>
+    </ProjectProperties>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2015-11-01 15:38:42 -0800"></PreviousSession>
+    </ProjectTargets>
+    <TemplateFolderID>20</TemplateFolderID>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
