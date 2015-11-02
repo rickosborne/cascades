@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-11-01 17:29:57 -0800">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-11-01 20:30:54 -0800">
     <Binder>
         <BinderItem ID="12" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
             <Title>Novel Format</Title>
@@ -30,8 +30,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="6" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-11-01 17:29:57 -0800">
-                            <Title>Scene</Title>
+                        <BinderItem ID="6" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-11-01 20:30:51 -0800">
+                            <Title>Scene 1: Cruising Altitude</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
                                 <StatusID>2</StatusID>
@@ -39,7 +39,17 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1968,0</TextSelection>
+                                <TextSelection>10106,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="77" Type="Text" Created="2015-11-01 19:37:41 -0800" Modified="2015-11-01 19:38:08 -0800">
+                            <Title>Scene 2: Service</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -730,7 +740,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="683" Characters="3700" Date="2015-11-01 15:45:08 -0800"></PreviousSession>
+        <PreviousSession Words="2655" Characters="13995" Date="2015-11-01 15:45:08 -0800"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>20</TemplateFolderID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
