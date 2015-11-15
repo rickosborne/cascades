@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-11-10 23:58:37 -0800">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.6-25480" Modified="2015-11-14 23:56:43 -0800">
     <Binder>
         <BinderItem ID="12" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
             <Title>Novel Format</Title>
@@ -30,8 +30,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="6" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-11-08 22:34:47 -0800">
-                            <Title>Scene 1: Cruising Altitude</Title>
+                        <BinderItem ID="6" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-11-14 22:21:51 -0800">
+                            <Title>1: Cruising Altitude</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
                                 <StatusID>2</StatusID>
@@ -39,11 +39,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15810,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="77" Type="Text" Created="2015-11-01 19:37:41 -0800" Modified="2015-11-01 21:42:30 -0800">
-                            <Title>Scene 2: Lily</Title>
+                        <BinderItem ID="77" Type="Text" Created="2015-11-01 19:37:41 -0800" Modified="2015-11-14 22:21:44 -0800">
+                            <Title>2: Lily</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -52,24 +52,24 @@
                                 <TextSelection>4088,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Type="Text" Created="2015-11-01 22:15:35 -0800" Modified="2015-11-01 23:41:18 -0800">
-                            <Title>Scene 3: After Service</Title>
+                        <BinderItem ID="78" Type="Text" Created="2015-11-01 22:15:35 -0800" Modified="2015-11-14 22:21:39 -0800">
+                            <Title>3: After Service</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1133,0</TextSelection>
+                                <TextSelection>5789,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="79" Type="Text" Created="2015-11-01 23:41:48 -0800" Modified="2015-11-02 21:40:25 -0800">
+                        <BinderItem ID="79" Type="Text" Created="2015-11-01 23:41:48 -0800" Modified="2015-11-14 19:24:36 -0800">
                             <Title>4: Reserve</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3099,0</TextSelection>
+                                <TextSelection>2865,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="80" Type="Text" Created="2015-11-02 21:40:45 -0800" Modified="2015-11-10 21:16:23 -0800">
@@ -79,7 +79,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5459,0</TextSelection>
+                                <TextSelection>5513,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -94,14 +94,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="82" Type="Text" Created="2015-11-02 23:01:07 -0800" Modified="2015-11-03 23:06:59 -0800">
-                            <Title>6</Title>
+                        <BinderItem ID="82" Type="Text" Created="2015-11-02 23:01:07 -0800" Modified="2015-11-14 23:35:35 -0800">
+                            <Title>6: Awake</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6453,0</TextSelection>
+                                <TextSelection>36,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="84" Type="Text" Created="2015-11-03 23:09:08 -0800" Modified="2015-11-08 22:16:10 -0800">
@@ -124,8 +124,8 @@
                                 <TextSelection>3282,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="87" Type="Text" Created="2015-11-06 23:17:45 -0800" Modified="2015-11-08 22:16:10 -0800">
-                            <Title>9</Title>
+                        <BinderItem ID="87" Type="Text" Created="2015-11-06 23:17:45 -0800" Modified="2015-11-14 22:20:44 -0800">
+                            <Title>9: Authoritative</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -134,14 +134,14 @@
                                 <TextSelection>14345,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="90" Type="Text" Created="2015-11-07 22:23:41 -0800" Modified="2015-11-08 21:14:00 -0800">
-                            <Title>10</Title>
+                        <BinderItem ID="90" Type="Text" Created="2015-11-07 22:23:41 -0800" Modified="2015-11-14 22:20:08 -0800">
+                            <Title>10: Weather</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5478,0</TextSelection>
+                                <TextSelection>6000,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -156,8 +156,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="92" Type="Text" Created="2015-11-08 00:56:13 -0800" Modified="2015-11-10 21:27:51 -0800">
-                            <Title>11</Title>
+                        <BinderItem ID="92" Type="Text" Created="2015-11-08 00:56:13 -0800" Modified="2015-11-14 22:19:30 -0800">
+                            <Title>11: Loop Two</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -166,8 +166,8 @@
                                 <TextSelection>1749,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="93" Type="Text" Created="2015-11-08 22:26:30 -0800" Modified="2015-11-08 23:25:20 -0800">
-                            <Title>12</Title>
+                        <BinderItem ID="93" Type="Text" Created="2015-11-08 22:26:30 -0800" Modified="2015-11-14 22:19:18 -0800">
+                            <Title>12: Beverage Service</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -176,8 +176,8 @@
                                 <TextSelection>4073,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="94" Type="Text" Created="2015-11-08 23:30:56 -0800" Modified="2015-11-10 23:58:35 -0800">
-                            <Title>13</Title>
+                        <BinderItem ID="94" Type="Text" Created="2015-11-08 23:30:56 -0800" Modified="2015-11-14 22:19:01 -0800">
+                            <Title>13: Manifest</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -186,14 +186,54 @@
                                 <TextSelection>12545,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="95" Type="Text" Created="2015-11-10 23:45:39 -0800" Modified="2015-11-10 23:47:13 -0800">
-                            <Title>14</Title>
+                        <BinderItem ID="95" Type="Text" Created="2015-11-10 23:45:39 -0800" Modified="2015-11-14 22:18:43 -0800">
+                            <Title>14: Before Weather</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>73,0</TextSelection>
+                                <TextSelection>4271,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="97" Type="Text" Created="2015-11-12 22:47:18 -0800" Modified="2015-11-14 22:18:12 -0800">
+                            <Title>15: Data</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2079,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="98" Type="Text" Created="2015-11-12 23:17:20 -0800" Modified="2015-11-14 22:17:54 -0800">
+                            <Title>16: After Weather</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>14120,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="99" Type="Text" Created="2015-11-14 22:17:33 -0800" Modified="2015-11-14 23:08:53 -0800">
+                            <Title>17: Names</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4349,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="100" Type="Text" Created="2015-11-14 23:09:06 -0800" Modified="2015-11-14 23:56:43 -0800">
+                            <Title>18: Daybreak</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2417,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -212,14 +252,14 @@
             </TextSettings>
             <DefaultChildTemplateID>21</DefaultChildTemplateID>
             <Children>
-                <BinderItem ID="72" Type="Text" Created="2015-11-01 15:58:05 -0800" Modified="2015-11-01 15:58:26 -0800">
+                <BinderItem ID="72" Type="Text" Created="2015-11-01 15:58:05 -0800" Modified="2015-11-14 22:27:53 -0800">
                     <Title>Lily</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>30,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="85" Type="Text" Created="2015-11-05 22:37:25 -0800" Modified="2015-11-05 22:44:45 -0800">
@@ -230,6 +270,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>103,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="96" Type="Text" Created="2015-11-11 23:05:52 -0800" Modified="2015-11-11 23:29:30 -0800">
+                    <Title>Passengers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>150,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -748,14 +798,14 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="83" Type="Text" Created="2015-11-03 22:36:33 -0800" Modified="2015-11-05 22:14:08 -0800">
+                <BinderItem ID="83" Type="Text" Created="2015-11-03 22:36:33 -0800" Modified="2015-11-14 23:33:44 -0800">
                     <Title>Timeline</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>307,0</TextSelection>
+                        <TextSelection>360,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -926,7 +976,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1981" Characters="10773" Date="2015-11-10 21:02:20 -0800"></PreviousSession>
+        <PreviousSession Words="3485" Characters="18716" Date="2015-11-14 15:51:01 -0800"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>20</TemplateFolderID>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
