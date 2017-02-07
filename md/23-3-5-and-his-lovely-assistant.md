@@ -1,31 +1,31 @@
 # And His Lovely Assistant
 
 I flipped the quarter through my fingers for the next two hours and came up with a crazy plan.
-The idea grew out of my interaction with Jim: if sight lines wouldn’t let me be unseen in the back, I’d have to do the trick in plain sight, with a bit of misdirection.
+The idea grew out of my interaction with Jim: if sight lines wouldn't let me be unseen in the back, I'd have to do the trick in plain sight, with a bit of misdirection.
 
 I caught Jim as he exited the lavatory just before lights-up.
 
-“Hey, Jim.
-Can I talk with you for a minute?”
+"Hey, Jim.
+Can I talk with you for a minute?"
 
 He cocked his head at me, but followed as I beckoned him to step into the galley.
 
-“Is something wrong?”
+"Is something wrong?"
 
 I leaned in close enough to his ear to be able to speak in a whisper.
-“I need your skills as an illusionist to help me with something.”
+"I need your skills as an illusionist to help me with something."
 
 He settled his weight against the countertop.
-“Of course.
-What can I do?”
+"Of course.
+What can I do?"
 
-“There’s a passenger in towards the back who has been acting suspicious.
+"There's a passenger in towards the back who has been acting suspicious.
 I need to keep an eye on them without being obvious.
-I need an excuse to be up towards the Smoking section looking back this way.”
+I need an excuse to be up towards the Smoking section looking back this way."
 
-“How can I help with that?”
+"How can I help with that?"
 
-“I need you to have trouble with your seatbelt.”
+"I need you to have trouble with your seatbelt."
 I reached down to the countertop and presented him with the belt we use for the safety demonstration.
 
 He took it and turned it over, examining it from every angle, clasping and unclasping the mechanism.
@@ -33,42 +33,42 @@ He took it and turned it over, examining it from every angle, clasping and uncla
 I pulled the second part of the trick literally off the top of my head: one of the dozens of bobby pins I used to keep my hair in place.
 I took the belt back from him and held the locking mechanism open.
 
-“When these belts get worn down they occasionally catch and either won’t lock or won’t unlock.”
+"When these belts get worn down they occasionally catch and either won't lock or won't unlock."
 
-I used the pin to wedge the locking mechanism open so the clasp wouldn’t engage, then tucked the pin out of sight so it was impossible to see without looking for it.
+I used the pin to wedge the locking mechanism open so the clasp wouldn't engage, then tucked the pin out of sight so it was impossible to see without looking for it.
 
-“I need you to temporarily disable your belt without anyone else seeing you do it.
+"I need you to temporarily disable your belt without anyone else seeing you do it.
 When we get on the PA you can summon me with the call button so I can come help you with it.
-I’ll spend a few minutes doing that, giving me the time to see what I need to see.”
+I'll spend a few minutes doing that, giving me the time to see what I need to see."
 
 He stared at the belt, so I offered it back to him along with the pin.
 
-“Is that something you can do for me?”
+"Is that something you can do for me?"
 
-“Can I practice?”
+"Can I practice?"
 
-“Hmm.
+"Hmm.
 If anyone sees you they could get suspicious.
-How about practicing in the lavatory?”
+How about practicing in the lavatory?"
 
-“Yes.”
+"Yes."
 He rolled up the belt and hid it in an inner coat pocket.
 
-“We’ll start our descent at 6:50.”
+"We'll start our descent at 6:50."
 I pointed to the arrival clock, which read 6:19.
-“We’re going to turn on the lights in just a moment.
-That gives you twenty minutes to practice and decide if you want to help.”
+"We're going to turn on the lights in just a moment.
+That gives you twenty minutes to practice and decide if you want to help."
 
 I turned him back to the aisle where there were already two people waiting in a line.
 
 He only needed ten before he was back out of the lavatory and slipping me the belt as he passed me in the aisle.
-He didn’t say anything, only nodded and winked as he shuffled back to his seat.
+He didn't say anything, only nodded and winked as he shuffled back to his seat.
 
 I did the opposite of what I had done in the last loop.
 Instead of staying in the galley I stayed out and visible in the Non-Smoking aisle.
 Instead of offering coffee and tea, I offered to fold and stow or collect blankets and pillows.
 I folded each blanket methodically, turning to keep the rear port rows in my periphery at all times.
-I didn’t see anything interesting, and it looked as I remembered it from last time.
+I didn't see anything interesting, and it looked as I remembered it from last time.
 
 The ladies of row 26 woke slowly, then proceeded to fix their hair and makeup via large compacts pulled from even larger purses.
 Harold Sr. woke up at the same pace, stretching and yawning his way back to reality.
@@ -79,28 +79,28 @@ I worked my way forward and made it to row 18, turning to help the port side fir
 As I turned to starboard I saw that Ernest Dearborn was pale, with a shine of perspiration glinting off his tall forehead.
 I pushed back the curtain to sidle next to 17C so I could keep him and my target in sight, kneeling to address him.
 
-“Are you okay?”
+"Are you okay?"
 
 Jennifer looked at him, waiting for him to say something.
-Mrs. Hamilton didn’t stir beneath her layers of blankets.
+Mrs. Hamilton didn't stir beneath her layers of blankets.
 
-“We’re fine, thanks,” he said with a smile so transparent as to mean the exact opposite.
+"We're fine, thanks," he said with a smile so transparent as to mean the exact opposite.
 
-I couldn’t argue with him, so I looked at Jennifer.
+I couldn't argue with him, so I looked at Jennifer.
 I could see the muscles in her neck and jaw working, but she just stared at Ernest, breathing through nostrils that flared like afterburners.
 
-Which made me notice Mrs. Hamilton, who didn’t appear to be breathing at all.
+Which made me notice Mrs. Hamilton, who didn't appear to be breathing at all.
 
 I reached out to touch her hand, but Earnest grabbed mine.
 We locked eyes, his stare frosting over.
 
-“Is she—” I couldn’t get the words out.
+"Is she—" I couldn't get the words out.
 I wrenched my hand away from his.
 
 His words came in a low hiss.
-“We’re about to land.”
+"We're about to land."
 His gaze continued to hold mine, my prior target forgotten.
-“There’s nothing to do for her now.”
+"There's nothing to do for her now."
 
 She was dead.
 Her heart had given out while she slept.
@@ -112,30 +112,30 @@ We had run drills involving passengers with heart attacks as well as crew with h
 In each case we were supposed to contact the pilot and divert to the nearest airport, administering CPR until the victim regained consciousness or until we landed.
 In this case it would be all but useless.
 
-“How long has—”
+"How long has—"
 
-“There’s _nothing to be done_,” Ernest hissed.
+"There's _nothing to be done_," Ernest hissed.
 
-“I know CPR.
-I can—”
+"I know CPR.
+I can—"
 
-“No one needs to panic,” he cut me off.
-“It’s too late for that.”
+"No one needs to panic," he cut me off.
+"It's too late for that."
 
-I couldn’t understand his attitude.
+I couldn't understand his attitude.
 
 The _ding!_ sounded and Simon made his address.
-I stood, my eyes still locked with Ernest’s.
+I stood, my eyes still locked with Ernest's.
 Terry was back in the galley and made the follow-up announcement.
 
-The words “I’ll have an ambulance waiting” were on the tip of my tongue, but I couldn’t force myself to say them.
-I could feel that I hadn’t done enough to break out of the loop.
+The words "I'll have an ambulance waiting" were on the tip of my tongue, but I couldn't force myself to say them.
+I could feel that I hadn't done enough to break out of the loop.
 I knew there would be no landing, only another explosion and restart.
 
-“Miss?
-Miss?”
+"Miss?
+Miss?"
 
-Jim’s words snapped me back to the present.
+Jim's words snapped me back to the present.
 I looked up to see him waiving one end of a seat belt at me.
 The call light over his head glowed a faint blue, though I had missed the sound it must have made.
 
@@ -143,21 +143,21 @@ I took one last look at Ernest, Jennifer, and poor Mary.
 I shook my head and strode back to 21.
 I deactivated the call light and smiled.
 
-“Yes?”
+"Yes?"
 
-“My buckle,” he held the female end of the belt out to me.
-“I cannot make it work.”
+"My buckle," he held the female end of the belt out to me.
+"I cannot make it work."
 He waved it at me, his voice trembling.
 
 I bent instead of kneeling.
-We’re not supposed to, not just because I may as well ask for some rowdy passenger to smack me on the ass.
-It’s also bad for balance—one air pocket and we could take a header into a passenger or seat.
+We're not supposed to, not just because I may as well ask for some rowdy passenger to smack me on the ass.
+It's also bad for balance—one air pocket and we could take a header into a passenger or seat.
 
-I glanced back at 27 and noticed that Irene wasn’t visible.
-Either she wasn’t in her seat or she was hunched over her papers again.
+I glanced back at 27 and noticed that Irene wasn't visible.
+Either she wasn't in her seat or she was hunched over her papers again.
 
-“Hmm.
-May I?”
+"Hmm.
+May I?"
 I asked, holding out one hand while steadying myself against the seat back with the other.
 
 Jim played his part well and took his time fumbling to slide the buckle along the belt to play out the length.
@@ -171,7 +171,7 @@ _The smoke detector._
 She had been the one to discover the marijuana smell.
 I'd completely forgotten about that.
 I made a mental note to figure out a way in the next loop to see who had done it.
-I also noted that the timing was a little off—in the previous loop Irene had mentioned it to us before Simon’s announcement.
+I also noted that the timing was a little off—in the previous loop Irene had mentioned it to us before Simon's announcement.
 But enough had changed between the two loops that the difference of a minute or two seemed reasonable.
 
 Jim waved the fully-extended belt at me.
@@ -179,7 +179,7 @@ I looked down and took my stabilizing left hand off the seat.
 
 The hairs on my arms stood up and I got a chill as I realized this was a very dumb plan.
 If the explosion happened while I was unsecured, hunched over a passenger, I was almost certain to get hurt, and likely to injure someone else.
-But if I knelt I wouldn’t be able to see anything.
+But if I knelt I wouldn't be able to see anything.
 
 I gave the belts a few attempts at mating and found that Jim had done a good job disabling the buckle.
 The pieces interacted without obvious problem, but the female end refused to lock.
@@ -187,8 +187,8 @@ The pieces interacted without obvious problem, but the female end refused to loc
 On the edges of my vision I saw Irene work her way past the Harolds.
 I glanced back to see that Terry was gone, presumably to check out the lavatory.
 
-“Hmm, yes.
-This does seem to be a problem.”
+"Hmm, yes.
+This does seem to be a problem."
 I played with the clasping mechanism, opening it and closing it while examining it as closely as I could.
 I noticed how Jim had wedged in the pin to block the spring mechanism.
 
@@ -196,7 +196,7 @@ Motion in the tail made me glance back.
 Terry walked to the storage closet and grabbed the lavatory key.
 Irene had settled back into her seat and, like everyone else, was just staring forward and waiting for the landing.
 
-“I have just the trick for this.”
+"I have just the trick for this."
 I pulled a second pin out of my hair and made a show of fiddling with the mechanism.
 I worked the first pin free and palmed it like I had been practicing.
 
@@ -205,50 +205,50 @@ Terry replaced the key in the storage closet then looked at me.
 I made a show of flipping the buckle open and closed to show it was busted.
 He nodded and started to walk forward.
 
-“There,” I said.
-“Try it now.”
+"There," I said.
+"Try it now."
 I handed the buckle back to Jim, keeping the first pin out of sight.
 I dropped them both into my pocket while he made a show of buckling and unbuckling.
 
-“That worked!
-Thank you!”
+"That worked!
+Thank you!"
 
 I could feel the pressure on my ears change as we started to descend.
 I worked my jaw out of habit.
 
-“Of course.
-I’m so sorry about that.
-We’ll have it replaced before our next flight.”
+"Of course.
+I'm so sorry about that.
+We'll have it replaced before our next flight."
 
 I walked to Terry, meeting him at row 25.
 
-“Everything all right?”
+"Everything all right?"
 
-_If things work out how I think they will, you’re going to ask me that again in just a minute._
+_If things work out how I think they will, you're going to ask me that again in just a minute._
 
-“Just a sticking buckle.
-I worked my magic on it.”
+"Just a sticking buckle.
+I worked my magic on it."
 
 He nodded.
-“Have you checked Smoking yet?”
+"Have you checked Smoking yet?"
 
-“Not yet, sorry.”
+"Not yet, sorry."
 
-“No worries.
-I’ll get it right quick.”
+"No worries.
+I'll get it right quick."
 
-“Hurry back,” I said a little louder than I needed to.
-“We need to get buckled in.”
+"Hurry back," I said a little louder than I needed to.
+"We need to get buckled in."
 
 He gave me a curious glance, not understanding why I was stating the obvious and doing it so loudly, then fast-walked past me.
 I continued a slow walk back, making a show of ensuring that each passenger was belted in.
 
-I didn’t see anything amiss in 26 or 27.
+I didn't see anything amiss in 26 or 27.
 The ladies smiled as I passed, Abigail hooking a thumb under her belt and lifting to show it was secure.
 I smiled and nodded back.
 The Harolds chatted while and Irene sat with her hands in her lap, also smiling at me as I approached.
 
-The next few seconds played out in my mind’s eye before they happened.
+The next few seconds played out in my mind's eye before they happened.
 
 I was going to step past the coat closet bulkhead and out of the periphery of anyone in 26 or 27.
 They now knew I was headed back to our jump seats.
@@ -259,7 +259,7 @@ Two steps, closet, bottle, two steps, galley, hang on.
 Got it.
 Ready?
 
-I wasn’t ready, but it’s not like I had a choice.
+I wasn't ready, but it's not like I had a choice.
 
 Time caught up with me and those seconds played out.
 
@@ -269,21 +269,21 @@ My left hand wrapped around the metal handle of the pull-out trash compartment o
 My right hand held onto the oxygen bottle by its nozzle.
 I flattened my back against the wall and held my breath, trying to see everything at once.
 
-Harold Jr. turned to look back at the thumps he’d heard.
+Harold Jr. turned to look back at the thumps he'd heard.
 He saw me and his eyes went wide, darting between my face and the green bottle in my hand.
 Harold Sr. was looking straight ahead.
 Irene was leaning forward, doubled at the waist as if about to fetch something out of the purse at her feet.
 
-The explosion wasn’t the next thing I experienced, it was the simultaneous realization of three things: my heart was racing in my chest, the drumbeat had started in my ears, and the cold numbness was creeping from my fingertips to my palms.
+The explosion wasn't the next thing I experienced, it was the simultaneous realization of three things: my heart was racing in my chest, the drumbeat had started in my ears, and the cold numbness was creeping from my fingertips to my palms.
 
 _No!
 Not yet!
 I need to see!_
 
 My pulse and the drums sped up even more, starting to block out the omnipresent sound of the engines.
-The oxygen bottle slipped from my hand but I didn’t see it hit the floor—the explosion happened at the same moment.
+The oxygen bottle slipped from my hand but I didn't see it hit the floor—the explosion happened at the same moment.
 
-What I saw didn’t make any sense, and I could see almost everything.
+What I saw didn't make any sense, and I could see almost everything.
 
 I heard the boom and even through the drumbeat I could feel its effect on my ears, which simultaneously popped from the pressure change and shuddered at the volume.
 There was a flash of light that silhouetted row 27 and its passengers, followed by a cloud of smoke and a shriek of metal.
@@ -291,13 +291,13 @@ The wall behind and floor beneath the row buckled and distorted, the wall discon
 
 Another shriek of metal and I saw them fall, Harold Jr. still looking straight at me.
 His mouth was open as he disappeared into the cloud of smoke.
-He’d been about to say something, but everything happened too fast.
+He'd been about to say something, but everything happened too fast.
 The coat closet disintegrated faster than I could follow it, coats flapping wildly in a wind that ripped them out into the atmosphere.
 And like that, in the space of a heartbeat, there was a gaping hole not three feet in front of me.
 
 The floor jerked out from beneath me and I pitched forward.
-My left hand’s grip on the handle had failed at the same time as the right’s grip on the bottle, though I hadn’t noticed.
-My arms, hands now numb to the wrists, flailed but couldn’t find purchase.
+My left hand's grip on the handle had failed at the same time as the right's grip on the bottle, though I hadn't noticed.
+My arms, hands now numb to the wrists, flailed but couldn't find purchase.
 
 I screamed as I fell face-first out of the aircraft.
 
@@ -320,7 +320,7 @@ It seemed to slow its fall, then start rising in my vision.
 It was the seat from row 27.
 
 Falling backwards like a cannonball, my spin stabilized.
-My screams abated into sobs I couldn’t hear as the drumbeat of my heart in my ears drowned out everything else.
+My screams abated into sobs I couldn't hear as the drumbeat of my heart in my ears drowned out everything else.
 I looked down to see my right half covered in blood, my uniform shredded from the gash and the wind.
 
 The numbness continued to creep in from my limbs, but I fought to stay conscious and lucid.
