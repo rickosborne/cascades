@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="osbornr3-D2FVH6" Modified="2016-03-31 10:31:10 -0700" ModID="9BCEE8AC-221D-47ED-8135-BFC02B70C5DF">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="osbornr3-D2FVH6" Modified="2016-10-16 15:51:48 -0700" ModID="0C638674-5CA9-4B38-BDDB-3DE711070498">
     <Binder>
         <BinderItem ID="12" UUID="E6D7B576-4E0E-4C23-8EF9-3579D8B7709F" Type="Text" Created="2015-09-11 21:52:11 -0700" Modified="2015-09-11 21:52:11 -0700">
             <Title>Novel Format</Title>
@@ -1204,7 +1204,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 05:24:39 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1122" Characters="6081" Date="2016-03-31 08:17:05 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2016-10-16 15:16:43 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>B84F864C-54C3-4FF1-99B9-F9E9C90AE607</TemplateFolderUUID>
     <PrintSettings PaperSize="595.275574,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
