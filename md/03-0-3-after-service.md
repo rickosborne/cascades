@@ -8,7 +8,7 @@ We stowed the cart and did one last pass through the cabin before Terry got on t
 
 "Lily's coming through the cabin now to collect any leftover service items. 
 We're going to dim the lights so everyone can get some sleep. 
-We're going to go through some weather in the next hour, so please be sure to buckle up before you nod off. 
+There's going to be some weather in the next hour, so please be sure to buckle up before you nod off. 
 Good night, and see you tomorrow morning over Florida."
 
 As I passed 18, I saw the elderly woman was asleep and the man had gone back to his magazine. 
@@ -36,22 +36,24 @@ His smile was wide behind his thick mustache.
 "Right, well, Dearborn, Hamilton, Keats."  His hand made little partitioning motions as he said each name, recreating the seating order from the aisle. 
 "It seemed like Mr. Dearborn and Mrs. Hamilton were friendly. 
 I didn't get to see Ms. Keats with them. 
-She was already in smoking by the time I got there and didn't sit down until after service."
+She was already in Smoking by the time I got there and didn't sit down again until after service."
 
 "I saw Dearborn give Mrs. Hamilton some horse pills. 
-She was asleep the next time I saw her during service."  I ran my tongue along the back of my teeth, lost in thought. 
+She was asleep the next time I saw her during service."
+I ran my tongue along the back of my teeth, lost in thought. 
 I blinked a few times and snapped out of it. 
 "Hey, I can get this cleaned up, if you want."
 
 Terry smiled but shook his head. 
 "I appreciate the offer," it came out "oh-fuh" and a part of me took a moment to appreciate that I got to work every day with people from all around the world. 
-"But I don't mind."  He pointed at the jump seats behind me. 
+"But I don't mind."
+He pointed at the jump seats behind me. 
 "Enjoy your book. 
 I've got this."
 
 In truth, I wasn't in the mood to go back to studying, but it wasn't worth discussing. 
 These overnighters could go either way. 
-Most any other flight would find her doing most of the work, as she almost always had less seniority than any of the other crew. 
+Most any other flight would find me doing most of the work, as I almost always had less seniority than any of the other crew. 
 Overnighters were, however, boring beyond belief. 
 For the next six hours or so, only a handful of passengers would be awake at any time, and their demands on the cabin crew would be minimal. 
 If Terry wanted something to do to pass the time, that was his right.
@@ -64,6 +66,7 @@ The holidays had been good for my wallet with extra lines that no one else had w
 
 Chapter 13 of "Algorithms and Architecture" was about caching, the idea that you could make the trade-off to use some fast but expensive memory to hold data that might be requested from slower but cheaper hard disk drives. 
 Caching seemed to me like something of a dark art: there was no way to guess exactly which data might be requested more often than others, making the most sense to cache, and which would just waste precious cache space.
+Like the drink cart, a cache had only so much space.
 
 My thought experiment with the drinks during service was a good example: we'd ended up using far more vodka than rum, so Terry had made a trip to restock. 
 I'd predicted poorly, so we'd lost a few minutes here and there to evicting stale cache items (rum) and replacing them with hot items (vodka).
@@ -74,7 +77,7 @@ But it's close enough.
 
 I liked that this chapter was easy enough to apply to my work. 
 Some of the other chapters were much less so. 
-I've yet to figure out how recursion could apply to anything in my job.
+I've yet to figure out how recursion, for example, could apply to anything in my job.
 
 I'd been rubbing at my temples for a while before I realized it. 
 The skin there was warm from the activity. 
