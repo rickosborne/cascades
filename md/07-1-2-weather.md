@@ -94,7 +94,7 @@ Even thinking the words "the explosion" made my jaw clench.
 
 We'd had weather for something like two hours, the kind I think of as checkerboard weather.
 We'd hit clear patches, then rough, then clear again, cycling a half dozen times.
-It had been enough to warrant the Fasten Seatbelts sign, but not enough to stand out.
+It had been enough to warrant the Fasten Seat Belts sign, but not enough to stand out.
 I'd been reading for most of it, but I didn't see too many people shifting in their seats.
 I was confident that most passengers had slept through it.
 

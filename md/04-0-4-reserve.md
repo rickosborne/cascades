@@ -4,7 +4,7 @@ I should explain reserve.
 I'm not doing a very good job at narrating, sorry.
 
 I'm what we call "reserve crew". 
-Most crew fly the same lines, sequences of flights that usually start and end at the same place so that the crew can feel like they have some semblance of a place to call home. 
+Most crew fly the same _lines_: sequences of flights that usually start and end at the same place so that the crew can feel like they have some semblance of a place to call home. 
 Good lines are jealously coveted, and are doled out based on your seniority. 
 Since I've only been in the air for six months, I have almost no chance of getting even a decent line.
 
@@ -33,7 +33,7 @@ Flying reserve, you get used to being ready to go with a minimum of fuss.
 But there was a hitch: I wasn't quite legal yet. 
 I'd only just landed in Seattle that morning, so I needed another hour and change before I was allowed to be in the air again.
 
-I was the reason the plane sat on the tarmac for an extra hour and a half.
+_I_ was the reason the plane sat on the tarmac for an extra hour and a half.
 
 Okay, well, technically it wasn't me. 
 If you looked at it the right way, I was the reason these people were in the air instead of sleeping in Sea-Tac because their flight was cancelled or rescheduled for the following morning.

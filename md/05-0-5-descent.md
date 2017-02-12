@@ -6,12 +6,14 @@ You don't have to see something like that happen to know that it did.
 When there's a sudden loud booming noise that reverb-fades into a howling wind just before your ears pop and you find that you can't breathe too-cold air, well, what else could have happened?
 
 The ground fell away from my feet and the bulkhead rushed sideways to meet my face. 
-I got my arms up in time, but I feel something snap in my right forearm before it stopped feeling anything. 
+I got my arms up in time, but I felt something snap in my right forearm before it stopped feeling anything. 
 A second later and someone was screaming into my ear.
 
-"Lily!  Are you okay?"  My brain was working in reverse and I knew it was a she who was shaking me before I could come up with a name or face. 
+"Lily!  Are you okay?"
+My brain was working in reverse and I knew it was a she who was shaking me before I could come up with a name or face. 
 Pamela. 
-"Are? You? O? Kay?"  Each syllable was its own question, punctuated with other shake underlined with a jolt up my right arm.
+"Are? You? O? Kay?"
+Each syllable was its own question, punctuated with another shake, underlined with a jolt up my right arm.
 
 I struggled to pull frozen razor-blade air into my lungs.
 
@@ -44,10 +46,12 @@ Pamela was standing over me, ridiculous mask over her face, trying to wedge an e
 
 "Lily!  Come on, girl!"
 
-"I'm here."  I shook my head to try to clear more cobwebs, but that made my vision go red. 
+"I'm here."
+I shook my head to try to clear more cobwebs, but that made my vision go red. 
 "I'm here."
 
-"Can you stand?  Can? You? Stand?"
+"Can you stand?
+Can? You? Stand?"
 
 I closed my eyes, not wanting to think about how much this was going to hurt.
 
@@ -57,7 +61,8 @@ Help me up."
 
 I lost a second or two, but when my vision cleared I was on my feet.
 
-"Can you hold this?"  Pamela was waving a small oxygen tank in front of me. 
+"Can you hold this?"
+Pamela was waving a small oxygen tank in front of me. 
 I was almost thinking straight again and realized the bottle was connected to my own mask. 
 She had another bottle in her hands. 
 She'd gotten the kits from storage and had thought to make us both portable, all while I was recovering from my introduction to the wall. 
@@ -81,15 +86,19 @@ I juggled them both, trying to also keep a hand on the wall.
 I settled for pushing the mask up over my nose.
 
 "LISTEN PLEASE."  I didn't yell, but I did my best to channel what my grandmother sounded like every time I got out of control. 
-"I NEED EVERYONE TO ASSUME CRASH POSITIONS."  More than a few screams got louder as I said this. 
-"KEEP YOUR MASKS ON, CROSS YOUR ARMS," I performed the maneuver as best I could with one arm glued to the bulkhead though it didn't seem like anyone was watching, "AND BEND TO PUT YOUR HEAD ON YOUR KNEES."  Heads ducked out of view and some of the screams were muffled. 
+"I NEED YOU ALL TO ASSUME CRASH POSITIONS."
+More than a few screams got louder as I said this.
+
+"KEEP YOUR MASK ON, CROSS YOUR ARMS," I performed the maneuver as best I could with one arm glued to the bulkhead though it didn't seem like anyone was watching, "AND BEND TO PUT YOUR HEAD ON YOUR KNEES."
+Heads ducked out of view and some of the screams were muffled. 
 "ARMS CROSSED. 
 HEAD ON YOUR KNEES."
 
 I dropped the microphone, not bothering to hang it back in its place. 
 I glanced back at the cockpit as its door slammed shut behind Pamela.
 
-"They're fine!  We need to help them!"  Her free hand waved toward the passengers. 
+"They're fine!  We need to help them!"
+Her free hand waved toward the passengers. 
 "Together!"
 
 I stretched out my right arm—I was now sure that wrist was fractured as it screamed at me when I tried to bend it—toward Pamela. 

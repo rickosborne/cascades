@@ -60,6 +60,7 @@ The first time through.
 
 I can't call it "the first loop" or "loop one" because I wasn't looping yet.
 I'm going to have to take a page from my textbook and call it "loop zero".
+Computer programming numbered pretty much everything starting with zero, and it made sense here, too.
 
 Got it.
 Loop zero is the sequence of events that led to "restart one", the jump back to "loop one".
@@ -81,10 +82,10 @@ I turned to port and tried to absorb every detail in front of me.
 
 From rearward-left to forward-right I saw the lavatories, our jump seats, the rear exit, goods storage for the galley, a coat closet, and row 27 with its three seats.
 
-I'd been in one of the lavatories on loop two, and had been safe.
+I'd been in one of the lavatories on loop two, and had been safe from the blast.
 I also knew the jump seats were safe as they hadn't been affected.
 
-On the zero loop I hadn't been able to see the exit, which implied that it wasn't the problem.
+I hadn't been able to see the exit in loop zero, which implied that it wasn't the problem.
 It had been intact at the end of the first loop, as well.
 
 The first explosion had been chaotic enough that I couldn't remember how far back the hole had extended.
@@ -105,7 +106,7 @@ This meant the port side compartments, closer to the door, were deeper than the 
 
 Still with my eyes closed, I rummaged through my memories of what was behind the doors.
 
-The storage closet held the air bottles and masks I had been trying to get, as well as a small stack of spare life vests.
+The storage closet held the air bottles and masks I had been trying to get, as well as a small stack of spare life vests under a dozen thin blankets.
 It was also where we kept our cleaning supplies for big messes: disinfectant, sponges, plastic bags, rubber gloves, and probably a few other things I couldn't remember right now.
 
 The coat closet, as I'd verified earlier, contained nothing but coats.
@@ -126,14 +127,17 @@ The galley storage wall was maybe two feet deep, but it sat aft of the coat clos
 That meant there was a chunk of space, maybe three feet by two, wedged in between the coat closet, row 27, and the galley storage.
 
 It was likely filled with machine equipment—maybe the air circulation system, the compressors for the refrigerated compartments in the galley storage, or similar.
+It wasn't accessible to me, and it's not like they give us detailed blueprints, so that was a wild guess.
+The pilots might know.
+But I'd have to figure out a casual way to ask.
 
-This cast a dark shadow over my bomb theory.
+This all cast a dark shadow over my bomb theory.
 If some piece of equipment in that space was faulty it could have been the cause of the explosion and decompression.
 If something I had done differently between loops one and two had caused that equipment to cycle earlier, switch on or off earlier, or just anything different … then there was no way to know.
 
 _So you're back to square one._
 
-I looked down to see that the card was empty, the dishes and pitchers stowed.
+I looked down to see that the cart was empty, the dishes and pitchers stowed.
 I wheeled the cart into its storage space and flipped down the oversized locking handle that would keep it in place.
 
 Terry noticed the motion, folded his newspaper backwards to mark his place, and tucked it away into his jump seat as he flipped it up and locked it.
@@ -160,7 +164,7 @@ Mr. Duchesne waved as I passed.
 He and two other passengers stood and made their ways to the lavatories, heeding Terry's warning about lights-out and the weather.
 
 My goal was to see how much more I could observe about the passengers, but I still had to do my job and make sure they were secured.
-This meant I was picking up trash, ahem, service items, and ensuring passengers were buckled.
+This meant I was picking up trash, ahem, _service items_, and ensuring passengers were buckled.
 The same walk-through happened some twenty minutes later on the previous loop.
 This time I was able to catch people before they fell asleep, including the mother in 14E.
 
@@ -187,6 +191,7 @@ Jennifer's frown deepened and she repeated her smoke-before-answering trick.
 She turned to look at the man in 17C, found him asleep, opened the ashtray in his armrest, and flicked off her accumulated ash.
 "Thank you for your help earlier," she said before turning back to me.
 "That's all she'll need for the flight."
+As she faced me, I could see that something had loosened in her jawline and voice.
 
 The man stopped fidgeting.
 I looked and confirmed that he was buckled in.
@@ -220,6 +225,7 @@ She stirred once due to the activity, but never woke up.
 "Thanks," I said.
 
 Jennifer smiled and turned off her reading light.
+She waved her hand in front of Mrs. Hamilton's air vent to make sure it wasn't on full blast.
 Mr. Dearborn nodded and went back to reading his magazine.
 
 Mr. Duchesne was returning to his seat as I turned back down the aisle.

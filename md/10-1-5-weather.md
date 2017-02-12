@@ -6,7 +6,7 @@ The shaking and dips would resume, keeping us in our seats and giving us time to
 
 And what could we do, really?
 
-We could have the pilots land the airplane at the nearest airport so we could get the woman to an airport.
+We could have the pilots land the airplane at the nearest airport so we could get the woman to a hospital.
 But landing in this kind of weather might be riskier than just continuing on.
 Aside from that, we didn't know anything about the woman's situation.
 She could be on the way to a specialist in Miami.
@@ -32,7 +32,7 @@ A _ding!_ sounded and we both looked up to see the Fasten Seat Belts sign wink o
 
 We were both up and in the aisle within moments.
 Mr. Duchesne stood up from 21C and smiled as he waited for us to pass.
-I gave him a half wave and saw that Pamela had her perfect smile back in place.
+I gave him a half wave and saw that Pamela had her perfect smile on.
 I'd gotten to see behind that mask for a while, but it was firmly back in place.
 
 We arrived at 18D to find the entire row fast asleep.
@@ -230,7 +230,7 @@ My hands were numb to the forearm now, but I managed to prop myself up enough to
 
 It was unreal, like Godzilla had taken a bite out of the airplane.
 
-Through the hole, I could see a string of lights swung in and out of view.
+Through the hole, I could see a string of lights swinging in and out of view.
 I realized with a start that it was a coastline, however many thousands of feet below us.
 
 I closed my eyes and choked back a sob as I realized that the drumbeat pounding had started in my head again.

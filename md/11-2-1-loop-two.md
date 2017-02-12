@@ -57,7 +57,7 @@ It was intentional.
 _It was an explosion!
 Of course it was intentional!_
 
-I saw Airport with my grandparents when it came out a few years ago.
+I saw _Airport_ with my grandparents when it came out a few years ago.
 My grandmother had been so excited to see a movie about air travel.
 I had asked her how realistic it was and she had waggled her hand at me.
 

@@ -1,7 +1,7 @@
 # After Weather
 
 The weather came and went, loud and angry but not violent.
-I noted the time of the clocks when the ding! Sounded and the FSB light winked out: 12:55 and 3:55.
+I noted the time of the clocks when the _ding!_ Sounded and the FSB light winked out: 12:55 and 3:55.
 
 Pamela and I didn't say much to each other this time through the storm.
 I gave her more details about my interactions with Dearborn, Hamilton, and Keats, but as she hadn't experienced it herself this time she was far less concerned.
@@ -40,7 +40,7 @@ The second explosion had only been followed by passengers screaming and the suck
 What had happened to Pamela and Terry at the end of that loop?
 
 A low-grade headache set up shop just above the nape of my neck.
-I'd had a headache both other times through, as well.
+I'd had a headache both other times through.
 Well, that and the cranium-splitter that came on each time just before I looped.
 
 _That's a good point._
@@ -89,6 +89,8 @@ I saw that I was right, though I had forgotten the fine details.
 One man was doing a crossword, the other reading, and Mr. Duchesne was returning to his seat from the lavatory.
 The businesswoman looked up and smiled as I passed.
 
+It ocurred to me that I hadn't bothered to look up her name on the manifest.
+
 On a whim, I dropped off my sandwich on the galley counter and poked my head around the wall of the coat closet.
 The woman caught the motion and looked up at me.
 
@@ -102,12 +104,18 @@ Most people on normal schedules wouldn't think about eating at 4am, but you coul
 
 "Oh, that's nice," the woman said as she stepped toward me stretching.
 
-Her Southern accent made it come out nahs.
+Her Southern accent made it come out _naahs_.
 "What time is it?"
 
 This is a tricky question to answer.
 We're never sure if passengers want the departure time zone, arrival time zone, or in rare cases the time zone we were flying through at the time.
-But given her accent, I assumed Eastern was how she thought of home.
+
+Flight crew develop a view of time that most people would probably think crazy.
+We exist in both the departure and arrival time zones simultaneously.
+It's somehow normal to accept that it is both times at once.
+Our brains can hear either and just translate into the one that makes the most sense for the context.
+
+Given her accent, I assumed Eastern was how she thought of home.
 
 "Just after four."
 The next question was obvious, even without the looping, so I answered it before she asked.
@@ -133,7 +141,7 @@ The woman couldn't have been much more than 5'4", so when she walked it probably
 
 She looked to be in her late twenties, maybe a few years older than me.
 
-Being a flight attendant does weird things to your head when it comes to how you think about other people.
+Being a flight attendant also does weird things to your head when it comes to how you think about other people.
 On the one hand you see so many people every day, each with their own story, needs, and desires, that you can't help but appreciate the sheer diversity of human existence.
 On the other hand you also see just how easy it is for stereotypes to be true, so it gets hard to not put people into buckets.
 Some of us, myself included, turn it into a kind of game, inventing back-stories for the passengers.
@@ -220,7 +228,7 @@ I heard the coffee machine click off and turned to grab a cardboard cup with our
 
 "Why thank you, sugar, you're too sweet."
 
-"What kind of a background to you need for that?" I asked as I poured out her cup.
+"What kind of a background do you need for that?" I asked as I poured out her cup.
 There was no point in letting this pot cook for the next two hours, so I turned off the machine.
 
 She laughed to herself before answering.
@@ -253,8 +261,9 @@ I resumed my place, leaning against the galley counter.
 
 "Six months."
 
-"Is that all?
-You're very professional.
+"Is that all?"
+Eyebrows arched with the question.
+"You're very professional.
 It seems like you've been doing this for years."
 
 "Thank you.

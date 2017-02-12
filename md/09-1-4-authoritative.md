@@ -9,7 +9,7 @@ Her expression was intrigued, but otherwise unreadable.
 "How many classes do you have left?"
 
 I almost blurted out the same flip reply I always do when a crew mate noticed my school books—a self-deprecating deflection to switch over to some other topic.
-Something about her body language made me bite it back. She settled back into the seat, crossing one leg over the other and looking the both relaxed and alert at the same time.
+Something about her body language made me bite it back. She settled back into the seat, crossing one leg over the other and looking both relaxed and alert at the same time.
 She was settling in.
 She genuinely wanted to know.
 
@@ -356,4 +356,4 @@ He made the same sounds."
 She grabbed for my hand and squeezed.
 She took a deep breath, the next words tumbling out stilted and fractured.
 
-"He died the next day."
+"He died the day after."
