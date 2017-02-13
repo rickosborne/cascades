@@ -98,7 +98,7 @@ She doesn't know we're onto her."
 "Right," he said, nodding.
 
 I hustled it up to the cockpit, grabbing Pamela as I went.
-We squeezed in behind the vacant Navigator's chair and closed the door behind us.
+We squeezed in behind the vacant Navigator's seat and closed the door behind us.
 Lawrence and Simon rotated in their seats to look at us.
 I couldn't think of a way to sugarcoat it, so I blurted it out.
 
@@ -168,8 +168,7 @@ If there's a panic, she's likely to have an arrest."
 
 Simon swore under his breath, while Pamela gasped and covered her mouth again.
 
-Lawrence stared at me, the muscles in his jaw working.
+Lawrence stared at me, the muscles in his jaw tight.
 He spoke through his teeth.
 
 "What's your plan?"
-

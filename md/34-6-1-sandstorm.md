@@ -60,7 +60,7 @@ It's got to happen now before we descend."
 I kicked my shoes off, turned and ran around the corner, and dove into row 27.
 Instead of going face first, I rotated and landed as if to sit in her lap.
 I grabbed at her purse with my left hand, attempting to pull it out of the way as I landed.
-It didn't come away clean—she managed to catch not of the straps with her own left hand.
+It didn't come away clean—she managed to catch one of the straps with her own left hand.
 My back slammed into her chest, catching that arm against the wall.
 I jammed my feet into the cracks between the row 26 seats, leveraging back into her with all of my strength.
 
@@ -91,7 +91,7 @@ The pitch of the turn leveled and my stomach dropped.
 Terry snapped the pen into my palm and I went to work on it.
 The cap and nib flew off, the tube sliding out into my hand.
 I unscrewed the cap and looked at the switch.
-It was set to the red ‘P' position.
+It was set to the red 'P' position.
 Twisting it farther clockwise didn't do anything.
 
 I held my breath and pushed the button.
@@ -237,7 +237,7 @@ We're already descending and will touch down in about fifteen minutes.
 Don't worry, the folks on the ground will get your tickets sorted out and we'll get you to Miami as soon as we can.
 For now we need you to get secured so we can all land safely."
 
-The FSB indicator flashed on with a ding! as the PA clicked off.
+The FSB indicator flashed on with a _ding!_ as the PA clicked off.
 
 I walked back into Coach to a round of applause.
 Surprised, I stopped just inside the curtain.
@@ -260,7 +260,7 @@ The two men nodded, Junior speaking up in a low whisper.
 
 "Is there really a bomb?"
 
-"It's been taken care of," I offered instead of a direct confirmation.
+"The situation has been taken care of," I offered instead of a direct confirmation.
 "We'll be landing shortly and you should get buckled in."
 
 Junior looked like he wanted to ask more, but Senior put a hand on his shoulder and walked him past me.

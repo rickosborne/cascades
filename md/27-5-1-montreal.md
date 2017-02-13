@@ -1,7 +1,7 @@
 # Montreal
 
 Like Nadia Comăneci, I stuck the landing.
-Terry saw me get weak at the knees and have to prop myself up, but I smiled it away.
+Terry saw me get weak at the knees prop myself up, but I smiled it away.
 Okay, so maybe I didn't get a 10.0 from the Australian judge.
 
 "Hey, I can feel a headache coming on.

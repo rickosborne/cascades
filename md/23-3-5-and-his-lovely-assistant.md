@@ -11,6 +11,7 @@ Can I talk with you for a minute?"
 He cocked his head at me, but followed as I beckoned him to step into the galley.
 
 "Is something wrong?"
+His face creased in concern.
 
 I leaned in close enough to his ear to be able to speak in a whisper.
 "I need your skills as an illusionist to help me with something."
@@ -73,7 +74,7 @@ I didn't see anything interesting, and it looked as I remembered it from last ti
 The ladies of row 26 woke slowly, then proceeded to fix their hair and makeup via large compacts pulled from even larger purses.
 Harold Sr. woke up at the same pace, stretching and yawning his way back to reality.
 Harold Jr. had woken up earlier and had gotten cups of coffee for them both.
-Irene continued to bob up and down, holding up the stack of papers to flip through them, then back down to angle them to catch the light of her reading lamp.
+Irene continued to bob up and down, holding up the stack of papers to flip through them, then back down to angle them to catch the light of her overhead reading lamp.
 
 I worked my way forward and made it to row 18, turning to help the port side first so I could keep my eyes to the back.
 As I turned to starboard I saw that Ernest Dearborn was pale, with a shine of perspiration glinting off his tall forehead.
@@ -87,7 +88,7 @@ Mrs. Hamilton didn't stir beneath her layers of blankets.
 "We're fine, thanks," he said with a smile so transparent as to mean the exact opposite.
 
 I couldn't argue with him, so I looked at Jennifer.
-I could see the muscles in her neck and jaw working, but she just stared at Ernest, breathing through nostrils that flared like afterburners.
+Her freckles rippled as I could see the muscles in her neck and jaw working, but she just stared at Ernest, breathing through nostrils that flared like afterburners.
 
 Which made me notice Mrs. Hamilton, who didn't appear to be breathing at all.
 
@@ -139,7 +140,7 @@ Jim's words snapped me back to the present.
 I looked up to see him waiving one end of a seat belt at me.
 The call light over his head glowed a faint blue, though I had missed the sound it must have made.
 
-I took one last look at Ernest, Jennifer, and poor Mary.
+I took one last look at Ernest, Jennifer, and poor Mary Hamilton.
 I shook my head and strode back to 21.
 I deactivated the call light and smiled.
 
@@ -150,7 +151,7 @@ I deactivated the call light and smiled.
 He waved it at me, his voice trembling.
 
 I bent instead of kneeling.
-We're not supposed to, not just because I may as well ask for some rowdy passenger to smack me on the ass.
+We're not supposed to bend over, not just because I may as well ask for some rowdy passenger to smack me on the ass.
 It's also bad for balance—one air pocket and we could take a header into a passenger or seat.
 
 I glanced back at 27 and noticed that Irene wasn't visible.
@@ -162,7 +163,7 @@ I asked, holding out one hand while steadying myself against the seat back with 
 
 Jim played his part well and took his time fumbling to slide the buckle along the belt to play out the length.
 
-Irene stepped into view from behind Terry, who was standing next to the galley and looking at me.
+Avocado Green Irene stepped into view from behind Terry, who was standing next to the galley and looking at me.
 She turned and said something to him.
 He split his focus between the two of us before she said something that snapped his attention to her.
 
@@ -251,8 +252,9 @@ The Harolds chatted while and Irene sat with her hands in her lap, also smiling 
 The next few seconds played out in my mind's eye before they happened.
 
 I was going to step past the coat closet bulkhead and out of the periphery of anyone in 26 or 27.
-They now knew I was headed back to our jump seats.
-Two or three seconds would pass and they would set off the explosion. I needed to grab an oxygen bottle and mask out of the closet in that same time, then grab hold of something for dear life.
+They all now knew I was headed back to our jump seats.
+Two or three seconds would pass and one of them would set off the explosion.
+I needed to grab an oxygen bottle and mask out of the closet in that same time, then get a hold on something for dear life.
 One of the compartment handles in the galley would work.
 
 Two steps, closet, bottle, two steps, galley, hang on.
@@ -287,7 +289,7 @@ What I saw didn't make any sense, and I could see almost everything.
 
 I heard the boom and even through the drumbeat I could feel its effect on my ears, which simultaneously popped from the pressure change and shuddered at the volume.
 There was a flash of light that silhouetted row 27 and its passengers, followed by a cloud of smoke and a shriek of metal.
-The wall behind and floor beneath the row buckled and distorted, the wall disconnecting from the ceiling and bending forward over the backs of the seats, the floor warping and falling away.
+The wall behind and floor beneath the row buckled and distorted, disconnecting from the ceiling and bending forward over the backs of the seats, the floor warping and falling away.
 
 Another shriek of metal and I saw them fall, Harold Jr. still looking straight at me.
 His mouth was open as he disappeared into the cloud of smoke.
@@ -313,7 +315,7 @@ The stark contrast of coastline, ocean, and sky trisected my spinning world.
 The sun, just over the horizon, seemed to move backwards and started to dip below the ocean.
 
 My arms and legs, now numb to the elbows and knees, flapped uselessly, wrenching my shoulders and hips.
-I would have cried out, but I was still screaming.
+I would have cried out, but I had never stopped screaming.
 
 As I spun to fall backwards I caught sight of a dark shape against the ground, tumbling as I was.
 It seemed to slow its fall, then start rising in my vision.

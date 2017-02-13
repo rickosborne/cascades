@@ -126,7 +126,7 @@ Fountain pens are slow and messy, for birthday cards and letters, not for paying
 
 Holding the pen over the sink, I carefully unscrewed the nib from its case.
 The plastic ink reservoir slid free with the nib, revealing a tiny amount of ink that wouldn't have been good for more than a few written pages, along with a small spring.
-Something else began to slide out of the case, but I rotated the case to keep it inside.
+Something else began to slide out, but I rotated the case to keep it inside.
 
 "Hold out your hand," I told Harold.
 His curiosity got the better of him and he did so immediately.

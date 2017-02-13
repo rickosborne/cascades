@@ -14,7 +14,7 @@ We're going to start our descent in about fifteen minutes."
 
 The Coach galley arrival clock read 6:35.
 
-I didn't know the exact time of the first explosion, but I had the last two hours to think about it.
+I didn't know the exact time of the first explosion, but it'd been my sole focus for the past two hours.
 
 The guy in the business suit who had asked for a towel had done so as the line for the lavatories had gotten bad.
 The line picked up when everyone had heard the announcement Lawrence had just given.
@@ -48,6 +48,9 @@ Do you think I could get a towel from First Class?"
 He looked surprised.
 
 "Are you sure?"
+His eyes flicked to the front, as if trying to remind me that I could go check.
+
+I widened my smile and tilted my head.
 
 "Yes, sir."
 I put my hand on his shoulder, turning us both back to the aisle.
@@ -68,7 +71,7 @@ The father and son in row 27 chatted between yawns.
 
 The businesswoman, now wrapped in her avocado green coat which I had retrieved for her an hour ago, again had her briefcase on her lap and was sorting through its stack of papers.
 
-The business-suited man stepped forward as the line continued to move, looking down at the ground between his feet.
+Suit-and-towel man stepped forward as the line continued to move, looking down at the ground between his feet.
 
 A late-teens young woman in a garish paisley top and jeans was now behind him in line, running a brush through her hair.
 
@@ -93,7 +96,7 @@ She got her turn in the middle lavatory, but exited a moment after.
 She approached us and whispered something into Terry's ear.
 He frowned and nodded, heading back to check it.
 The suited man walked back to his seat somewhere around 20 on the port side, allowing the business woman to take his lavatory closest to the exit door.
-The young woman exited and returned to her seat in the Smoking section.
+The young woman in paisley exited and returned to her seat in the Smoking section.
 
 Terry stepped back out of the middle door and beckoned me over.
 I could smell the problem as I stepped closer.
@@ -106,7 +109,7 @@ I want to see if I can get it working again, but we'll lock the door anyway.
 Can you grab the key?"
 
 We kept a door key in the storage closet with the cleaning supplies.
-It wasn't meant to look anyone in, but instead to lock everyone out.
+It wasn't meant to lock anyone in, but instead to lock everyone out.
 As I fetched and handed it over to Terry, a _ding!_ sounded over the PA accompanied by Simon's voice.
 
 "We are beginning our descent into Miami.
@@ -137,6 +140,9 @@ He hung up the mic and turned back to me.
 "Sounds good."
 
 We both moved forward into the aisle, Terry at a brisk walk and me more slowly, looking down each aisle and checking for belts and trays.
+Approaching passengers from the rear this time, we'd be able to catch people trying to get away with their tray tables down or their belts unfastened.
+
+Yes, I promise you we do know when you're doing it on purpose.
 
 The businesswoman was still getting into her seat, trying to wedge that oversized briefcase under the seat in front of her.
 
@@ -168,8 +174,7 @@ I pulled myself to my feet, some part of me horrified to feel the now-too-famili
 I turned to see exactly what I knew I was going to see.
 
 Row 27 was gone.
-The woman in her green coat that clashed with her
-red blouse.
+The woman in her bright green coat that clashed with her dark red blouse.
 The father and son who had just been talking about their plans to drive down to Key West.
 The coat closet was gone, only some loose flaps of metal and fabric hanging where it had connected to the ceiling.
 
@@ -190,7 +195,7 @@ BEND FORWARD AND PUT YOUR HEAD ON YOUR KNEES.
 
 I felt a hand on my shoulder and looked to see Terry behind me.
 He had a nasty gash from his temple to his chin.
-I could see his pulse in the blood as it seeped out of the wound, rand down his face, and dripped off his chin.
+I could see his pulse in the blood as it seeped out of the wound, ran down his face, and dripped off his chin.
 The rest of his face was white and had a sheen of perspiration.
 
 "Terry!" I screamed.
@@ -213,7 +218,7 @@ He blinked at me, dazed.
 
 I got my shoulder under him again, though he felt heavier and more sluggish this time.
 We walked along the wall to the jump seats.
-I unlatched one, kicking it with my foot.
+I unlatched one, kicking it with my heel.
 It sprang open and my textbook flopped out onto the floor.
 I kicked it aside.
 
@@ -238,8 +243,8 @@ Pamela's voice had stopped and I could see her walking back along the aisle towa
 
 I looked at the arrival clock: 6:58.
 
-Why am I not looping?
-Did it take this long before?
+_Why am I not looping?
+Did it take this long before?_
 
 The sight of Pamela struggling toward me shook me out of it.
 I moved to mirror her, pushing passengers into crash positions as I went.
@@ -271,7 +276,7 @@ A loud crack and shriek of metal was accompanied by a shudder and the floor roll
 The passengers started screaming again as their carry-ons rained down on them from the shelves over their heads.
 
 Pamela fell into the arm rest of a seat and I fell on top of her, all while we continued to rotate.
-I rolled past her and fell into a carry-on shelf, bags now falling on me as we passed ninety degrees.
+I rolled past her, over the heads of the passengers, and slammed into the starboard carry-on shelf, bags from  the port shelf now falling on me as we passed ninety degrees.
 I threw a purse away from my face to see Pamela scrambling above me, desperate to gain purchase as we were almost upside down.
 She lost her grip, falling into the ceiling next to me.
 
@@ -284,7 +289,7 @@ My grip on the shelf weakened and failed, despite my best efforts.
 I slid out of the shelf and dropped to a spot in the roof near the shelf on the other side.
 I tried to get my arms up in front of me, but they were already numb to the elbow and flopped uselessly at my sides.
 I hit the shelf hard with my shoulder and my vision tunneled.
-There was a moment of pain before it went numb.
+There was a moment of pain before the shoulder went numb.
 
 My headache intensified until I thought my head would split.
 

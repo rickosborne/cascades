@@ -18,7 +18,7 @@ It was detente, our own little Cold War right there in the aisle.
 Except that no one else could see the growing anger on his face, and what they could see of mine looked as pleasant as ever.
 
 He unbuckled and rose, hunching to avoid the overhead.
-I walked behind him to the First Class.
+I walked behind him through First Class.
 
 Pamela was in the galley on the intercom phone talking to, I assumed, Terry in the Coach galley.
 She was pale, staring at us as we passed.

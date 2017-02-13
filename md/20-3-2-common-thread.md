@@ -13,8 +13,8 @@ For the second explosion I was in a tail lavatory, while Terry and Pamela were i
 The first explosion found Pamela and me in First Class.
 I don't know exactly where Terry was, but I had a good guess: the galley or a lavatory.
 I can't prove it, but it's probable.
-We've had the same passengers use the lavatories each day, so it was likely the same person disabling the smoke detector each morning.
-Or just as likely, maybe he was walking around collecting trash and was in the same place I'd just been.
+We've had the same passengers use the lavatories each day, so it was likely the same person disabling the smoke detector each morning, with Terry going back to fix it each time.
+Or just as likely, maybe Terry was walking around collecting trash and was in the same place I'd just been.
 
 In all three cases, the flight attendants were out of view of the aft portion of Coach.
 None of us could see the explosion.

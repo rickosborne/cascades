@@ -21,7 +21,7 @@ She pointed toward the escalators to the ground transport area, walking past bef
 
 "Were you waiting for me this entire time?"
 
-Her auburn hair swayed behind her as she walked, blocking me from seeing her face until I caught up next to her.
+Her copper hair swayed behind her as she walked, blocking me from seeing her face until I caught up next to her.
 
 "I was," she said.
 "Hey, I'm starving.
@@ -40,7 +40,6 @@ Never been opened.
 If they didn't feed you, I assume you're still sporting a massive headache."
 
 "How could you know that?"
-
 
 She smiled, not answering.
 

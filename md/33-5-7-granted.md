@@ -242,7 +242,7 @@ Despite her thrashing, I was able to pull it free.
 I didn't try to open the butterfly handle.
 I'd never held a knife like this, nor even seen one outside of the movies, so I was just as likely to slice a finger off as to get it open.
 Still out of pockets, I didn't have anywhere to put the knife.
-I almost threw it on the floor along with the ticket stub, gun, flashlight, and cash, but a flash memory of her getting free last time gave me pause.
+I almost threw it on the floor along with the ticket stub, gum, flashlight, and cash, but a flash memory of her getting free last time gave me pause.
 Standing, I turned to the galley storage wall and found one of the secured trash bins.
 The knife dropped in with a tink against what was probably an aluminum can.
 I shook the container before pushing it back into the wall and sliding down the locking handle.
@@ -376,10 +376,10 @@ It has writing on it."
 I leaned back against the wall to steady myself.
 
 "Yeah, I see it.
-There's a ‘B' and a ‘P'."
+There's a 'B' and a 'P'."
 
 "You can turn the switch.
-Turn it towards the ‘B'."
+Turn it towards the 'B'."
 
 I did so, and the sliver of open plastic shifted from revealing a red stripe to a green one.
 

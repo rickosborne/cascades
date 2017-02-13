@@ -104,7 +104,7 @@ I didn't get any more back story on any of them.
 If I'm being generous I'd say that I got a few insights into their personalities that might make it easier to tack on future memories.
 But that's a stretch.
 
-_You'll get more on the next loop._
+_I'll get more in the next loop._
 
 It occurs to me that I'm a few hours into loop three.
 That means I've been at this for something like 24 hours straight already.

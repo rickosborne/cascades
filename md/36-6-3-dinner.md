@@ -37,7 +37,7 @@ I don't know what started it."
 
 "Think about what you were doing the first time through."
 
-"I had just helped Ernest get Mary her pills."
+"I had just helped Dearborn get Mary her pills."
 My stomach rolled at the thought that I had helped him.
 
 "From her bag?
@@ -177,7 +177,7 @@ I put down my burger and rubbed my hands absently.
 Jennifer smiled at this.
 
 "Right.
-It would manifest as losing sensation in your extremities, then your sense, _et cetera_.
+It would manifest as losing sensation in your extremities, then your senses, _et cetera_.
 Until, we might imagine, a kind of critical energy is built up.
 The resonance is self-correcting.
 It fixes itself through a neural cascade, reverting the resonance to a time when it was most stable: right after it first initiated."

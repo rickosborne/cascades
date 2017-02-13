@@ -4,7 +4,7 @@ Names are a funny thing for flight attendants.
 
 Actually, now that I say that out loud, let me be more clear.
 
-Names are a funny thing for people in a service industry.
+Names are a funny thing for people in the service industry.
 Be it flight attendant, bartender, waitress, or the girl slinging beer at baseball games.
 
 Names are personal.
@@ -44,12 +44,13 @@ I don't have to think about how you've just had your third cup of coffee, or you
 But the rules for names still apply.
 
 If I know your family name then something changes.
-I'm now addressing you, not some random customer or client.
+I'm now addressing _you_, not some random customer or client.
 When I think about what I'm going to say to you or about some other interaction I can hear your name in my head.
 There's a connection, however tenuous or imagined.
 
 If I know your full name then there's another level.
 I now have your first name, which I will not use unless given permission, but I could.
+And in my head, I might start to think of you by your first name.
 
 When I tended bar I knew the names of two or three regulars.
 It was a double-edged sword.

@@ -7,7 +7,7 @@ Jim Duchesne was making his way down the aisle as I stepped into the galley.
 We shared a smile as he passed.
 
 I needed a distraction, and I needed something solid and different about this loop to anchor my memories.
-When Jim exited the lab I almost pounced on him.
+When Jim exited the lav I almost pounced on him.
 
 "Mr. Duchesne.
 Jim," I said to get his attention.
@@ -109,16 +109,18 @@ I made progress, but it was clearly something that was going to take time.
 "Where did you learn to do that?" I asked.
 
 Jim smiled and his eyes unfocused.
+WHen he spoke again, his accent seemed a hint more pronounced.
 
-"My father took me to see Houdini when I was a nine years old.
+"My father took me to see Houdini when I was nine years old.
 His show had a number of great escapes and illusions, but between these he would do little things like card tricks and sleight of hand.
-I was a changed boy who dreamed of growing up to be as great as Houdini."
+I came away from that show a changed boy who dreamed of growing up to be as great as Houdini."
 
 "My father was supportive of my hobby, giving me many books about magic.
 But we were not a wealthy family who could afford to risk the career of a stage magician.
 Instead, I got a paying job in the factory where my brothers worked.
 I never stopped practicing my magic, though.
 I would amuse the other workers at lunch by making their food disappear.
+Most of the time, when I wasn't so hungry, their lunch reappeared.
 And even today I perform magic for the children at my church to show them the miracles of God."
 
 I caught the quarter as it once again slipped through my fingers.

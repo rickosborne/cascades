@@ -123,18 +123,18 @@ His eyes were wide, terrified of what he was doing.
 
 Irene's head fell back and she flailed her arms around, looking for purchase on the smooth walls and closet door.
 
-Pamela stepped around Terry and grabbed for Irene's harm.
+Pamela stepped around Terry and grabbed for Irene's arm.
 In a calm voice meant to be soothing she said, "We're not going to hurt you, Irene, but we can't let you hurt ev—"
 
 In a blur of motion, Irene kicked off the wall and knocked Terry off balance into Pamela.
-The apron came out of her mouth and she hissed something in a language I didn't understand.
+The apron came out of her mouth and she hissed something gutteral in a language I didn't understand.
 Her hands found the apron, now around her neck, and yanked it free of Terry's grip as he struggled to stay upright.
 
 "Idiots!" Irene spat at us, her Southern accent gone, replaced by something vaguely European.
 "Amateurs!"
 She clamped both of her hands around one of Pamela's wrists and twisted, wrenching Pamela's arm and forcing her to hunch over to relieve the pressure.
 Irene dropped into a rotating squat, spinning Pamela back into Terry, who had just managed to regain his balance.
-The flight attendants tumbled into a mass of limbs on the floor int front of the galley.
+The flight attendants tumbled into a mass of limbs on the floor in front of the galley.
 
 As Irene turned her back to me I dove at her, intending to wrap my arms around hers and keep her on the ground until the other two could get up.
 She must have anticipated my move as she rolled away just enough out of range that I couldn't get purchase on her as I slammed into the wall.
@@ -198,7 +198,7 @@ Her blade bobbed and indicated the back of the galley, so the two moved back aga
 "Forward," she said to me, relaxing her grip.
 
 I turned to walk forward and she let my neck spin in her hand.
-I felt something cool press against the skin just below her thumb and got the hint.
+I felt something cool press against my skin just below her thumb and got the hint.
 She clamped down again to let me know to move.
 
 "Stay," I heard her hiss to the others.
@@ -239,10 +239,10 @@ The two looked at her, then each other, and back to her.
 
 They obeyed, stepping through the closest two doors.
 
-"Close the doors until I tell you to come out."
+"Close and lock the doors until I tell you to come out."
 
 Pamela looked like she was going to object, but was deterred by something she saw Irene do behind me.
-Both flight attendants closed their doors.
+Both flight attendants closed their doors, the locks sliding into place.
 
 Irene twisted again, turning me toward the galley and pressing me forward.
 I walked into the galley, where she released her grip.
@@ -278,7 +278,7 @@ Hoping they were unlocked, I tried to open them, to no avail.
 
 Irene saw and poked the knife back to the far corner of the galley.
 I stepped back, putting my hands between us again.
-In this position my palm leaked rivulets of hot blood down my wrist, creeping up my blouse to my elbow.
+In this position my palm leaked rivulets of hot blood down my wrist, creeping up my blouse sleeves to my elbow.
 
 Irene stabbed at one of the locks and twisted.
 There was a pop and the cheap clasp snapped open.
@@ -364,7 +364,7 @@ She opened the door just enough to put her arm through and dig behind her.
 Her focus split as she tried to feel for her coat.
 
 I taunted her with a raised eyebrow, causing her to edge her shoulder into the closet to dig deeper.
-Figuring I would not get a better opportunity, I launch myself at her.
+Figuring I would not get a better opportunity, I launched myself at her.
 
 My shoulder slammed into the closet door, the case a shield between me and her knife.
 I felt something squish and give, the door digging farther into her.
@@ -386,8 +386,8 @@ The case blocked most of my view, but it looked like Harold was throwing punches
 I heard some meaty slaps and saw Harold's weight shift.
 One final slap was followed instantly by a thump.
 Irene went limp.
-I gave her three count to start struggling again before unlocking my leg and rolling away from the door.
-Every shift of my left leg was an agony as the blade twisted and scraped against bone.
+I gave her a three count to start struggling again before unlocking my leg and rolling away from the door.
+Every shift of my wound was an agony as the blade twisted and scraped against bone.
 
 My jaw started to ache and I realized I was grinding my teeth, breathing in gasps through taut lips.
 I made the mistake of looking at my leg.

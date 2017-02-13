@@ -88,9 +88,9 @@ Please say your fuel status."
 
 Lawrence replied using his own headset this time.
 
-"Miami, 238 needs to be on approach within the next 80 minutes."
+"Miami, 238 needs to be on approach within the next eight-zero minutes."
 
-"Acknowledged, 238, within the next eight zero minutes.
+"Acknowledged, 238, within the next eight-zero minutes.
 Squawk seven-seven-zero-zero."
 
 Lawrence reached down and dialed 7700 into one of his consoles.
