@@ -33,7 +33,8 @@ His smile was wide behind his thick mustache.
 
 "Bluey, huh?  Okay then."
 
-"Right, well, Dearborn, Hamilton, Keats."  His hand made little partitioning motions as he said each name, recreating the seating order from the aisle. 
+"Right, well, Dearborn, Hamilton, Keats."
+His hand made little partitioning motions as he said each name, recreating the seating order from the aisle. 
 "It seemed like Mr. Dearborn and Mrs. Hamilton were friendly. 
 I didn't get to see Ms. Keats with them. 
 She was already in Smoking by the time I got there and didn't sit down again until after service."
@@ -53,8 +54,8 @@ I've got this."
 
 In truth, I wasn't in the mood to go back to studying, but it wasn't worth discussing. 
 These overnighters could go either way. 
-Most any other flight would find me doing most of the work, as I almost always had less seniority than any of the other crew. 
-Overnighters were, however, boring beyond belief. 
+Most any other flight would find me doing most of the flight work, as I almost always had less seniority than any of the other crew. 
+Overnighters, however, were boring beyond belief. 
 For the next six hours or so, only a handful of passengers would be awake at any time, and their demands on the cabin crew would be minimal. 
 If Terry wanted something to do to pass the time, that was his right.
 
@@ -86,7 +87,7 @@ I had a headache.
 
 That gave me pause.
 
-I have a headache.
+_I have a headache._
 
 I don't get headaches. 
 My grandfather gets them. 

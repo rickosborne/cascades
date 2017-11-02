@@ -68,10 +68,10 @@ She had another bottle in her hands.
 She'd gotten the kits from storage and had thought to make us both portable, all while I was recovering from my introduction to the wall. 
 Holy cow, this woman had her stuff together.
 
-"Yeah," and I took it from her.
+"Yeah," and I took it from her, swapping to my left hand after lightning bolts shot up my right from the effort of gripping the tank.
 
 "I need to check," she pointed forward, "on the pilots. 
- You," she swept her arm toward the howling behind me, "need to help the passengers. 
+You," she swept her arm toward the howling behind me, "need to help the passengers. 
 Get their masks on, and get them into crash positions. 
 I'll come right back."
 
@@ -82,14 +82,19 @@ There was a noticeable pitch from back to front, but there was also something pu
 I tried not to think about it and stepped to grab for the PA microphone.
 
 "Listen—" the mask was getting in the way of the microphone. 
-I juggled them both, trying to also keep a hand on the wall. 
+I juggled them both, jamming the tank into my armpit, trying to also keep a shoulder against the wall. 
 I settled for pushing the mask up over my nose.
 
-"LISTEN PLEASE."  I didn't yell, but I did my best to channel what my grandmother sounded like every time I got out of control. 
+"LISTEN PLEASE."
+I didn't yell, but I did my best to channel what my grandmother sounded like every time I got out of control. 
 "I NEED YOU ALL TO ASSUME CRASH POSITIONS."
 More than a few screams got louder as I said this.
+I shouldn't have said _crash_.
+A vision of my grandma chided me for slipping up.
+Oh well.
 
-"KEEP YOUR MASK ON, CROSS YOUR ARMS," I performed the maneuver as best I could with one arm glued to the bulkhead though it didn't seem like anyone was watching, "AND BEND TO PUT YOUR HEAD ON YOUR KNEES."
+"KEEP YOUR MASK ON.
+CROSS YOUR ARMS," I performed the maneuver as best I could with one shoulder glued to the bulkhead though it didn't seem like anyone was watching, "AND BEND TO PUT YOUR HEAD ON YOUR KNEES."
 Heads ducked out of view and some of the screams were muffled. 
 "ARMS CROSSED. 
 HEAD ON YOUR KNEES."
@@ -97,7 +102,8 @@ HEAD ON YOUR KNEES."
 I dropped the microphone, not bothering to hang it back in its place. 
 I glanced back at the cockpit as its door slammed shut behind Pamela.
 
-"They're fine!  We need to help them!"
+"They're fine!
+We need to help them!"
 Her free hand waved toward the passengers. 
 "Together!"
 

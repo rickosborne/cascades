@@ -1,13 +1,15 @@
 # Cruising Altitude
 
-The speaker crackled and my ears perked up, the response Pavlovian—uncontrollable.
+The speaker crackled and my ears perked up.
+The response was uncontrollable.
+Pavlovian.
 
 "Ladies and gentlemen we have reached cruising altitude."
 
-My eyes stared at the public address speaker on the wall ahead of me while my hands pulled my bookmark from the back of my book and wedged it in at the current page..
+My eyes locked onto the public address speaker on the wall ahead of me while my hands pulled my bookmark from the back of my book and wedged it in at the current page.
 
-"I'm turning off the No Smoking sign in the forward cabin," the _ding!_ chimed over the PA in the same cadence as the man's speech, as if just another piece of punctuation in his sentence, "and I'd like everyone to keep in mind that the rear is a smoke-free section. 
-I'm also turning off the seat belt sign," another well-timed ding, "so smokers in the rear can come forward as needed. 
+"I'm turning off the No Smoking sign in the forward cabin," the _ding!_ chimed over the PA in the same cadence as the man's speech as if just another piece of punctuation in his sentence, "and I'd like everyone to keep in mind that the rear is a smoke-free section. 
+I'm also turning off the seat belt sign," another well-timed _ding!_, "so smokers in the rear can come forward as needed. 
 As you do, please close the curtains behind you for the comfort of those in the rows closest to the smoking section."
 
 The PA clicked off but no one stood.
@@ -15,7 +17,7 @@ From my position behind them all, I could see dozens of heads swivel to look up 
 I have to admit that I only know what he's saying because I've heard it so many times.
 There was a burst of static before the pilot's voice continued.
 
-"It looks like we have some weather over the midwest, so we're going to head south for a bit instead of taking a direct route. 
+"It looks like we have some weather over the midwest, so we're going to head south for a bit instead of taking our usual direct route. 
 It's going to get bumpy in an hour so plan ahead and have that last smoke for the night before then. 
 We'll be in the air just over 8 hours tonight, which will put us into Miami shortly after sunrise around seven o'clock tomorrow morning. 
 Until then, have a drink, get some sleep, and we'll handle the rest."
@@ -35,8 +37,10 @@ I felt someone's presence behind me and spoke without turning around.
 
 There was an almost inaudible snort before responding.
 
-"It looks like you've got prep started." It came out "stah-tid" with the Australian's accent erasing the "r" while drawing out the first syllable. 
-"The cart's behind you."  Except it came out "ca-at" and "ya". 
+"It looks like you've got prep started."
+It came out "stah-tid" with the Australian's accent erasing the "r" while drawing out the first syllable. 
+"The cart's behind you."
+Except it came out "ca-at" and "ya". 
 I couldn't help but smile at it.
 
 Another voice came over the PA, this time a woman's.
@@ -80,7 +84,7 @@ His eyes came back up to my face but bounced around it and the galley wall behin
 
 In the time it took him to get that far, I'd already parsed his accent: Indiana, Illinois, or thereabouts. 
 He looked 22, but he sounded more like 17. 
-I'd have to card him if he ordered alcohol.
+I'd have to card him if he ordered alcohol, even with the free drink offer.
 
 "I mean, um, what's the movie tonight?"
 He added a hasty "ma'am?" at the end that made me think he was straight out of an Indiana corn field.
@@ -117,7 +121,7 @@ I pointed at the indistinct shapes standing behind the translucent curtain betwe
 "Those passengers standing by the curtain are probably smokers with seats back here. 
 You could ask one of them to switch with you."
 
-He turned to look and seemed to perk up.
+He turned to look and seemed to perk up at the sight of a crowd jockeying for positions just beyond the divider.
 "Yeah, I can do that. 
 Thanks, uh, Lily."
 
@@ -151,12 +155,14 @@ He wasn't embarrassed, but nor was he cocky.
 
 "Nervous flyer, mister … ?"
 
-"Duchesne."  He held out a hand which I would have sworn should have held the two bottles but was empty. 
+"Duchesne."
+He held out a hand which I would have sworn should have held the two bottles but was empty. 
 "But Jim is fine."
 
 _Jim Duchesne, 21C. 
 Got it._
 
+He continued as he shook my hand with a light, respectful but not-too-formal touch.
 "Let's just say I know how old this plane is and what that means."
 
 I didn't have a response for that. 
@@ -164,11 +170,13 @@ I think my face may have slipped from amused smirk to impressed incredulity.
 
 "Well I've only been flying for 6 months, but I can say I haven't had any problems like that so far."
 
-His shrug was noncommittal.
+His shrug of a reply was noncommittal.
+
 "It looks like we don't have a paper back here, but I'll check when I go forward. 
 I'll bring one back if we have one."
+HDA didn't stock them, but it was a common enough request that we kept a lookout for leftovers and intercepted them when people tried to throw them away.
 
-He inclined his head in thanks and turned to head back to his seat.
+He inclined his head in thanks and turned to make his way back to his seat.
 
 A few minutes and a few more questions later and the cart was stocked. 
 By the time Terry made it back to me my brain had finished the shift from homework to flight work and I was ready to get service done so we could put people to sleep.
@@ -200,7 +208,7 @@ I unwedged myself from behind the cart and put on my best face as I walked to ro
 The lady sitting in E, the middle seat, looked ancient.
 Her skin was pale and papery, a sheen of sweat on her forehead. 
 The window seat next to her was empty—likely a smoker getting in their last cigarette for the evening. 
-The middle-aged man on the aisle in D was reading a magazine and completely disinterested.
+The forty-something man on the aisle in D was reading a magazine and completely disinterested.
 
 But me?
 As soon as I saw the woman my alarm bells started screaming. 
@@ -289,9 +297,9 @@ I looked to Terry and gave him a similar nod.
 He acknowledged and unlocked the cart wheels, pushing it toward me. 
 He didn't speak until we'd gotten to 7, the first row in the smoking section.
 
-"Good to go?"
+"Good to go?" he asked me.
 
-I wasn't sure what I thought about the encounter, so I gave him a squint and head tilt meant to communicate let's talk later. 
+I wasn't sure what I thought about the encounter, so I gave him a squint and head tilt meant to communicate _let's talk later_. 
 He acknowledged it with a mirrored head tilt before putting on his face and turning to 9A to take a drink order from the man sitting there. 
 I took a moment to do the same, though I admit it took longer than I would have liked.
 
