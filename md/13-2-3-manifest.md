@@ -54,6 +54,9 @@ When I restarted it was back to normal.
 
 Terry walked back to the jump seats and sat down, waving a newspaper as he passed.
 
+Hadn't someone asked for a paper?
+That felt so long ago.
+
 In fact … the only physical difference upon restart seemed to be my appetite.
 Each time I looped I felt like I hadn't eaten in days, even though I know I'd eaten only a couple of hours before the … Wait, what do I call the time before my first restart?
 The first time through.
@@ -119,7 +122,7 @@ Two men, who I assumed were father and son, sat in 27B and 27C.
 
 I opened my eyes and reconciled my mental model with what was in front of me.
 
-_You're missing a piece—there's a hole._
+_You're missing a piece: there's a hole._
 
 The coat closet was maybe three feet deep as measured from the aisle to windows, then maybe two feet wide as measured perpendicular to that, from the lavatories toward row 27.
 The galley storage wall was maybe two feet deep, but it sat aft of the coat closet, sharing a wall.
@@ -176,6 +179,7 @@ As the large man struggled to extract his safety belt I addressed Jennifer in so
 "How's Mrs. Hamilton?"
 
 She took a drag and blew a line of smoke toward the ceiling before answering.
+I didn't know anything about cigarette brands, but hers smelled a little sharp, which I associated with cheap instead of expensive.
 
 "We'll see.
 She's sleeping now," she said, frowning and taking another drag.
@@ -193,7 +197,7 @@ She turned to look at the man in 17C, found him asleep, opened the ashtray in hi
 "That's all she'll need for the flight."
 As she faced me, I could see that something had loosened in her jawline and voice.
 
-The man stopped fidgeting.
+The buckling man stopped fidgeting.
 I looked and confirmed that he was buckled in.
 
 "Can I get either of you anything else for the night?"

@@ -6,8 +6,8 @@ Oh, hey, that's me.
 
 "Lily."
 
-Why was someone saying my name? 
-And saying it wrong.
+Why was someone hissing my name? 
+And saying it with a weird accent.
 
 "Talk to me, girl." 
 Except it was _gihl_. 
@@ -19,10 +19,11 @@ Terry.
 
 The synchronized drumbeats in my head and chest began to slow and my senses came back one at a time.
 
-Hearing: Where was the wind? 
+Sound: Where was the wind? 
 It's so quiet now.
 
 Smell: Cheap rum.
+It smelled like sticky fingers and poor choices.
 
 Sight: Terry's face couldn't have been more than a few inches from mine, eyes darting left and right between my own.
 
@@ -30,7 +31,7 @@ Touch: He had a grip on my arms that would likely leave bruises.
 I think I remember him shaking me.
 
 Taste: … something. 
-There was a memory of the stale taste of the oxygen, but it was fading fast.
+There was a memory of the stale, metallic oxygen from the bottle, but it was fading fast.
 
 "Terry!" 
 My hands gripped his arms in return. 
@@ -50,7 +51,7 @@ Why weren't we falling out of the sky, centripetal force pushing us against the 
 
 _Dios mio, that's what that had been: we were in enough of a flat spin to push us against the walls._
 
- I started to dry heave but nothing came up. 
+I started to dry heave but nothing came up. 
 Terry was a blur of motion and there was an airsick bag in front of my mouth.
 
 _But … not … now. 
@@ -82,7 +83,7 @@ He squatted in front of me again, lowering the airsick back and folding it flat 
 "I did?"
 
 "You were fine one second and half-way to the floor the next." 
-His voice, already in that sotto voce we used out of habit when talking with other crew, dropped to barely audible above the white noise of the jet engines. 
+His voice, already in that _sotto voce_ we used out of habit when talking with other crew, dropped to barely audible above the white noise of the jet engines.
 "When did you last eat?"
 
 A question fair enough that I answered it without thinking.
@@ -142,7 +143,7 @@ Had I just fainted and hit my head?
 
 _No. 
 Not possible. 
-It's been hours since we were here._
+It's been hours since we were here in the galley together, stocking the cart._
 
 "What, uh," I whispered. 
 Terry smiled at a passenger I couldn't see and inclined his head toward me to show he was listening. 

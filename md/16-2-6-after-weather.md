@@ -10,6 +10,7 @@ She'd gone back to her book with a "there's nothing we can do about it now, anyw
 I also learned that she was a fast reader.
 In the two hours we were next to each other she got through another third of her book, which looked to total on the near side of 500 pages.
 If left to her own devices she would finish that book before she had to get up and start making the morning coffee.
+
 Once again I had no idea how that could possibly be useful information.
 
 Terry, I discovered, had given up on his newspaper and had his paperback instead.
@@ -23,6 +24,10 @@ I hadn't been paying enough attention to remember how far he'd gotten, but this 
 
 Had his position within the airplane made that much of a difference in how he kept himself busy?
 Or had I done or said something that led to that difference?
+
+Or did Terry know we were looping?
+Like me?
+But he was doing a really good job of hiding it?
 
 My eyes widened in sudden realization: I hadn't seen Terry at the end of either loop.
 A half-dozen scenarios flitted across my mind's eye: Terry by the rear exit, unconscious from a head wound.
@@ -38,6 +43,9 @@ I'd been focused on the hole, but I think I would have noticed that.
 Come to think of it, I hadn't heard either of them over the PA.
 The second explosion had only been followed by passengers screaming and the sucking roar of the wind—no commanding or comforting flight attendants to the rescue.
 What had happened to Pamela and Terry at the end of that loop?
+
+Was there a non-Shatner way I could figure out if Terry knew?
+Or worse, if Terry had anything to do with the explosion?
 
 A low-grade headache set up shop just above the nape of my neck.
 I'd had a headache both other times through.
@@ -69,14 +77,16 @@ I caught her mid-bite so she gave me a half-wave for a greeting.
 "I was just thinking the same thing," I told her.
 
 High Desert Air may be a bargain basement airline, but they try to do right by us.
+It was one of the upsides to working for an airline owned and run by pilots and not suits.
 Even on flights without meal service there is always something provided for the flight attendants.
+
 Sandwiches were common, though we might get an upgrade if the catering service at the departure airport was that infrequent combination of both good and cheap.
 Some of us will pack a lunch in case the offerings aren't great, but most of us will eat almost anything that isn't junk food.
 I think I mentioned that flight attendants and free food go hand-in-hand, right?
 
 The selection tonight was a turkey sandwich, a turkey sandwich, or if I wanted to go wild, a turkey sandwich.
 As Thanksgiving was just over two weeks ago I shouldn't be surprised.
-It's a safe assumption that any flights I pick up between now and New Years will probably have the exact same options.
+It's a safe assumption that any lines I pick up between now and New Years will probably have the exact same options.
 
 I'm not complaining.
 A free, decent sandwich is a free, decent sandwich.
@@ -89,7 +99,7 @@ I saw that I was right, though I had forgotten the fine details.
 One man was doing a crossword, the other reading, and Mr. Duchesne was returning to his seat from the lavatory.
 The businesswoman looked up and smiled as I passed.
 
-It ocurred to me that I hadn't bothered to look up her name on the manifest.
+It occurred to me that I hadn't bothered to look up her name on the manifest.
 
 On a whim, I dropped off my sandwich on the galley counter and poked my head around the wall of the coat closet.
 The woman caught the motion and looked up at me.
@@ -123,7 +133,8 @@ The next question was obvious, even without the looping, so I answered it before
 
 "What time is our wake-up call?"
 
-There was a piece of paper held to the galley bulkhead behind me that had our exact schedule, but I knew it by heart.
+A magnet shaped like a cactus held a piece of paper to the galley bulkhead behind me.
+That paper had our exact schedule, but I knew it by heart.
 
 "We'll turn up the lights two hours from now, around 6:15.
 That will give everyone a chance," I flicked my head toward the lavatories, "before we start our descent at a quarter to seven."
@@ -134,6 +145,7 @@ Pardon me a moment."
 She was dressed in a merlot silk blouse and black tuxedo pant combo that was nice enough to be a little out of place in the aft-end of Coach.
 She had a light tan leather purse snugged up under her left shoulder that looked large enough to be uncomfortable.
 Terry, still in the jump seat working on his paperback, exchanged hellos with her as she chose a lavatory.
+His eyes didn't linger on her objectively nice outfit or form.
 
 I stepped out of the galley and snuck a glance at the briefcase now occupying her seat.
 It was a deep cabernet leather, oversized even for a man, with polished brass accents and locks that looked as expensive as I'd expect from her outfit.
@@ -169,6 +181,8 @@ She didn't do anything crazy, just put her hands to the sides of the small windo
 "Huh."
 She said.
 "Not much to see."
+
+The combination of the window's tiny size, the darkness outside, and the lights from behind her meant that all she'd have in view would be her own reflection.
 
 "What's keeping you up all night?"
 I asked when she returned.
@@ -218,6 +232,7 @@ She paused again to consider, looking to the ceiling.
 The coffee gurgled behind me.
 
 "It's hard work, and not as regular as I would like.
+The industry is mostly men, so I have to work twice as hard to seem half as valuable.
 When a client comes along I have to work to show them I'm worth my rates."
 She smiled, more to herself than to me.
 "Besides, I don't play well with others.
@@ -274,7 +289,7 @@ I've been in training since I was a baby."
 She smiled, but it faltered as she caught something in my expression.
 I don't have the mask that Pamela does.
 
-"She would have loved to have heard that, thank you."
+"She would have loved to have heard you say that, thank you."
 
 "Oh, I'm so sorry, sweetie."
 

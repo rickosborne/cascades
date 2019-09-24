@@ -20,7 +20,7 @@ He settled his weight against the countertop.
 "Of course.
 What can I do?"
 
-"There's a passenger in towards the back who has been acting suspicious.
+"There's a passenger towards the back who has been acting suspicious.
 I need to keep an eye on them without being obvious.
 I need an excuse to be up towards the Smoking section looking back this way."
 
@@ -152,7 +152,7 @@ He waved it at me, his voice trembling.
 
 I bent instead of kneeling.
 We're not supposed to bend over, not just because I may as well ask for some rowdy passenger to smack me on the ass.
-It's also bad for balance—one air pocket and we could take a header into a passenger or seat.
+It's also bad for balance—one air pocket and I could take a header into a passenger or seat.
 
 I glanced back at 27 and noticed that Irene wasn't visible.
 Either she wasn't in her seat or she was hunched over her papers again.
@@ -173,7 +173,7 @@ She had been the one to discover the marijuana smell.
 I'd completely forgotten about that.
 I made a mental note to figure out a way in the next loop to see who had done it.
 I also noted that the timing was a little off—in the previous loop Irene had mentioned it to us before Simon's announcement.
-But enough had changed between the two loops that the difference of a minute or two seemed reasonable.
+But that was reasonable: enough had changed between the two loops that the difference was only a minute or two.
 
 Jim waved the fully-extended belt at me.
 I looked down and took my stabilizing left hand off the seat.
@@ -196,6 +196,8 @@ I noticed how Jim had wedged in the pin to block the spring mechanism.
 Motion in the tail made me glance back.
 Terry walked to the storage closet and grabbed the lavatory key.
 Irene had settled back into her seat and, like everyone else, was just staring forward and waiting for the landing.
+Harold and Harold were shifting in their seats.
+The three women in 26 were still primping.
 
 "I have just the trick for this."
 I pulled a second pin out of my hair and made a show of fiddling with the mechanism.
@@ -254,6 +256,10 @@ The next few seconds played out in my mind's eye before they happened.
 I was going to step past the coat closet bulkhead and out of the periphery of anyone in 26 or 27.
 They all now knew I was headed back to our jump seats.
 Two or three seconds would pass and one of them would set off the explosion.
+
+Or not.  It could just as easily have been someone on the starboard side.
+But these were the people I was focused on in this iteration.
+
 I needed to grab an oxygen bottle and mask out of the closet in that same time, then get a hold on something for dear life.
 One of the compartment handles in the galley would work.
 
@@ -319,7 +325,7 @@ I would have cried out, but I had never stopped screaming.
 
 As I spun to fall backwards I caught sight of a dark shape against the ground, tumbling as I was.
 It seemed to slow its fall, then start rising in my vision.
-It was the seat from row 27.
+It was the seat assembly from row 27, still bolted to a section of flooring.
 
 Falling backwards like a cannonball, my spin stabilized.
 My screams abated into sobs I couldn't hear as the drumbeat of my heart in my ears drowned out everything else.
@@ -336,6 +342,7 @@ Something about the seating unit changed.
 A small dark object broke away from the larger dark object, mirroring what had just happened with the aircraft.
 The two spread farther apart and a flash of color made me realize what I was looking at: an avocado green cashmere coat, complete with wearer.
 Irene had managed to unbuckle herself.
+Why would she do that?
 She spun wildly for a moment, as I had done, but splayed out into something stable that made her shoot upwards relative to me.
 
 The last thing I saw before my vision blacked out was the parachute expelling itself from the back of her coat.

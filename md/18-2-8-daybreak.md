@@ -20,7 +20,7 @@ The guy in the business suit who had asked for a towel had done so as the line f
 The line picked up when everyone had heard the announcement Lawrence had just given.
 Sure enough, a half-dozen passengers had gotten up and started filing back towards me.
 
-Instead of ferrying coffee and other beverages this time, I left that up to Terry.
+Instead of running coffee and other beverages this time, I left that up to Terry.
 I told him I'd make drinks for him while also keeping the lavatory line in order.
 He'd looked dubious but hadn't argued.
 
@@ -50,6 +50,10 @@ He looked surprised.
 "Are you sure?"
 His eyes flicked to the front, as if trying to remind me that I could go check.
 
+_That's interesting._
+Is he trying to get rid of me?
+Does he know something?
+
 I widened my smile and tilted my head.
 
 "Yes, sir."
@@ -57,7 +61,7 @@ I put my hand on his shoulder, turning us both back to the aisle.
 "But the line is moving quick.
 I think you'll be okay to take a moment in the washroom."
 
-He looked like he wanted to say something, but thought better of it and squeezed his way out to then turn and step back into line.
+He looked like he wanted to say something, but thought better of it and squeezed his way out of the galley to then turn and step back into line.
 
 In loop zero it had taken me a few minutes to finish delivering coffees and collecting trash before I had been able to walk up front.
 I continued to organize the now-dwindling line, keeping my eyes on everything around me.
@@ -186,12 +190,13 @@ My fingertips weren't going numb.
 
 I shook it off and lurched uphill along the aisle, heading aft.
 The oxygen bottles and masks I needed were in the storage closet.
+I didn't want to go anywhere near that gaping maw of twisted metal, but I did want to be able to breathe.
 
 Pamela's voice continued, authoritative over the PA.
 
 "ASSUME CRASH POSITIONS.
 BEND FORWARD AND PUT YOUR HEAD ON YOUR KNEES.
- CUP YOUR HANDS BEHIND YOUR HEAD."
+CUP YOUR HANDS BEHIND YOUR HEAD."
 
 I felt a hand on my shoulder and looked to see Terry behind me.
 He had a nasty gash from his temple to his chin.
@@ -206,7 +211,7 @@ I leaned him against the counter and grabbed for the storage closet door.
 It was jammed, but a few kicks and yanks got it open.
 
 I grabbed two of the three dark green bottles from their shelf, along with the bright yellow masks tethered to them.
-I unraveled one, got the mask strap over my face, and got a blast of that stale smell as I twisted the knob open wide.
+I unraveled one, got the mask strap over my face, and got a blast of that stale metallic smell as I twisted the knob open wide.
 I did the same for Terry, though I had him hold his mask so I wouldn't have to drag elastic across that wound.
 
 The tail bucked beneath us, whipping Terry's head around.
@@ -276,7 +281,7 @@ A loud crack and shriek of metal was accompanied by a shudder and the floor roll
 The passengers started screaming again as their carry-ons rained down on them from the shelves over their heads.
 
 Pamela fell into the arm rest of a seat and I fell on top of her, all while we continued to rotate.
-I rolled past her, over the heads of the passengers, and slammed into the starboard carry-on shelf, bags from  the port shelf now falling on me as we passed ninety degrees.
+I rolled past her, over the heads of the passengers, and slammed into the starboard carry-on shelf, bags from the port shelf now falling on me as we passed ninety degrees.
 I threw a purse away from my face to see Pamela scrambling above me, desperate to gain purchase as we were almost upside down.
 She lost her grip, falling into the ceiling next to me.
 

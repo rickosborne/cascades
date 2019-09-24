@@ -109,7 +109,7 @@ I made progress, but it was clearly something that was going to take time.
 "Where did you learn to do that?" I asked.
 
 Jim smiled and his eyes unfocused.
-WHen he spoke again, his accent seemed a hint more pronounced.
+When he spoke again, his accent seemed a hint more pronounced.
 
 "My father took me to see Houdini when I was nine years old.
 His show had a number of great escapes and illusions, but between these he would do little things like card tricks and sleight of hand.

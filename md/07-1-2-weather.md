@@ -85,8 +85,8 @@ Lawrence and Simon.
 Lawrence I remembered because I'd seen his name tag as he'd approached and I'd thought it was odd that someone would go by Lawrence instead of Larry.
 Then he'd spoken, with his erudite enunciation and prince-like politeness, and that mystery had been solved.
 
-Wait.
-You're getting off track.
+_Wait.
+You're getting off track._
 
 I was trying to remember specific things that had happened between service and the … incident.
 The accident.
@@ -119,7 +119,7 @@ He'd gone back to his book and I to mine.
 
 After the two-plus hours of weather, we'd had another two and a half of clear air.
 Again, I couldn't come up with anything specific that had happened.
-Maybe another three or four passengers had gone past me into one of the lavatories, but I hadn't paid much attention to who or which.
+Maybe another three or four passengers had gone past me to the lavatories, but I hadn't paid much attention to who or which.
 
 By the time I'd gotten up to stretch at something like six in the morning, Eastern time, nothing at all eventful had happened.
 
@@ -169,7 +169,7 @@ In the movies and on television when fortune tellers and psychics had visions it
 They got the highlight reel.
 Is there such a thing as a mostly-boring premonition?
 If there was, that sounds like it would be my luck.
-Sure, I can see the future, but only in real time and only when it's a snooze-fest.
+_Sure, I can see the future, but only in real time and only when it's a snooze-fest._
 Up until the end, anyway.
 
 Well, if it was a premonition it was already wrong.

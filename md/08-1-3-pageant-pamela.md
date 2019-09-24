@@ -13,7 +13,7 @@ That's who she is, and anyone who met her would come to the same conclusion.
 To be clear, I name her this out of respect, awe, appreciation, and no small amount of jealousy.
 
 Pamela is as close to the flight attendant definition of beauty and perfection as you're going to get.
-As part of my degree program I took a course in computational statistics.
+As part of my degree program I took a course in Computational Statistics.
 I am therefore qualified to tell you that she's a standard deviation or three to the far end of the curve.
 Even if you make a sample group containing only flight attendants, she's still off the scale.
 

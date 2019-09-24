@@ -4,6 +4,8 @@ I was bored one night in flight attendant school and figured out that it would t
 Row 27 has fallen through the fuselage each time.
 I don't want to think about how awful those three minutes must be for those people, buckled into an uncomfortable foam and aluminum seat that's plummeting to the ground.
 
+I don't want to think about it, but a vision of the businesswoman, the man, and his son screaming and flailing threatens to take over my thoughts.
+
 Between beverage service and lights-out I pulled the manifest ruse again and filled in a new half-dozen names.
 This time I focused on the six people on the port size of rows 26 and 27, seats A through C.
 I thought it would help me connect with the people in row 27.

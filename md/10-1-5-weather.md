@@ -124,7 +124,7 @@ The other two were still awake, though one had shifted from his book to what loo
 Dearborn, Hamilton, and Keats were all still asleep.
 
 Mr. Duchesne was back in his seat, and while he wasn't asleep he was working to arrange his pillow and blanket to do so.
-I bent down to help arrange his blanket and he gave me a sleepy smile and "thanks".
+I bent down to help and he gave me a sleepy smile and "thanks".
 
 The businesswoman from 27A was not in her seat and as I approached the lavatories I could see that one was occupied.
 
@@ -190,7 +190,7 @@ It was my turn to wave off her words.
 It happens.
 Thank you for letting me know."
 
-I pulled the disinfectant from the storage next to the coat closet, along with a plastic bag that held a hand towel-sized rag.
+I pulled the disinfectant from the storage next to the coat closet, along with a plastic bag that held a hand-towel-sized rag.
 
 I didn't smell anything as I opened the door to the lavatory, almost always a good sign.
 The messes left by sick air travelers all have very distinct and unpleasant smells.

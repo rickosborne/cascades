@@ -9,7 +9,8 @@ Her expression was intrigued, but otherwise unreadable.
 "How many classes do you have left?"
 
 I almost blurted out the same flip reply I always do when a crew mate noticed my school books—a self-deprecating deflection to switch over to some other topic.
-Something about her body language made me bite it back. She settled back into the seat, crossing one leg over the other and looking both relaxed and alert at the same time.
+Something about her body language made me bite it back.
+She settled back into the seat, crossing one leg over the other and looking both relaxed and alert at the same time.
 She was settling in.
 She genuinely wanted to know.
 
@@ -165,7 +166,7 @@ You can't be an accountant without a degree and I couldn't make a college schedu
 I didn't want to live with my parents for the rest of my life, so one day I answered an ad in the paper.
 It was on a whim, really.
 I started out in this tiny airline you've never heard of, doing three quick turns a day so I could be home in time for dinner.
-Along the way I realized that I got what I wanted."
+Along the way I realized that I'd already gotten what I'd wanted."
 
 "How's that?"
 
@@ -259,7 +260,7 @@ The man considered arguing with me but a second shake, forceful enough to make m
 I said a silent prayer of thanks for the good timing.
 
 He fumbled around between himself and the seat as I stood up next to him.
-I've seen enough play acting to know to not walk away until I saw him buckled, so I just beamed him my warmed smile.
+I've seen enough play acting to know to not walk away until I saw him buckled, so I just beamed him my warmest smile.
 He managed to extract the belt after some time, buckled, and made a show of closing his eyes and ignoring me.
 
 "Thank you sir.

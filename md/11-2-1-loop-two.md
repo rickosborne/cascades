@@ -39,13 +39,15 @@ I'll be right back."
 
 I considered stopping him, but realized that I was hungry again.
 I could use the salad he'd bring back.
-These loops, or whatever they were, made me hungry each time they restarted.
+These resets, or loops, or whatever they were, made me hungry each time they restarted.
 
 Why had the time of the explosion changed?
 
 Although "explosion" was the term going around and around in my thoughts, I supposed that it could have been an explosive decompression.
 It could have been a bomb, but it could also have been that some piece of the airframe had succumbed to fatigue and failed.
 Several commercial jet crashes had happened because a door lock snapped, or a cargo door hadn't been sealed.
+
+And let's be honest: the HDA fleet wasn't shiny and new.
 
 In the first iteration of the loop the explosion had happened around 6:45 Eastern.
 In the second it was around 4:15—two and a half hours earlier.

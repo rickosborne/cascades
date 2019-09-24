@@ -4,6 +4,8 @@ I kept my purse in a small storage compartment in the First Class galley.
 On most flights I didn't have any use for it, and First Class was more secure than a similar compartment in Coach as there was far less traffic.
 Some ladies can't get fifteen feet from their bags without a nervous breakdown, but I'm not one of them.
 
+Frankly, I'm too broke to have anything precious in it.
+
 While waiting for the tea to steep I grabbed my school notebook and a pen from my bag.
 Also useless on most flights during daylight hours as I wouldn't have the time to study my notes, they were my constant companions on overnight flights.
 
@@ -79,6 +81,19 @@ I put the mug on my seat and walked slowly back to the cockpit.
 
 I perused the list, picking out two specific names: Ernest Dearborn and Mary Hamilton.
 Ernest, Mary, Jennifer.
+
+That clinched it.
+I wasn't crazy, but I knew specifics I had no reason to know.
+
+The confirmation was nice, but it led to more anxiety.
+What in the world do you do when you're stuck repeating the same flight over and over?
+
+I was not going down the Twilight Zone William Shatner route.
+Of course, the implication in that episode had been that the things he'd seen had been real.
+It was the experience that had driven him mad.
+So maybe that wasn't the best comparison.
+
+Either way, HDA training had not prepared me for this.
 
 After returning the paper to Simon, I tried my best to be nonchalant about taking my seat and picking up my notebook.
 I wrote down all of the names and seat assignments I could remember.

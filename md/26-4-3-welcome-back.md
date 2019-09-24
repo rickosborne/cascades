@@ -126,6 +126,7 @@ She reappeared a moment later, oxygen in hand.
 I undid the latch that held the mask and line in place, unwound it, and pulled the mask over my head.
 She did the same.
 I showed her how to turn on the flow and we both took deep breaths.
+It occurred to me that she was a doctor and probably knew how to work oxygen bottles, but she was still too shaken up.
 
 "I have to help him," she pointed around the corner at someone I couldn't see.
 "Stay here."
@@ -136,7 +137,7 @@ I couldn't feel my leg except for a dull throb, so walking was out of the questi
 I was also beginning to feel the effects of blood loss, or shock, or both, because it was almost impossible to keep focus on anything, much less a train of thought.
 
 I'd also been through this enough times to know that it didn't matter where I went—the entire aircraft was going to disintegrate around me.
-I was going to die soon after falling out of a moving aircraft, holding on to a parachute I couldn't use.
+I was going to die soon after—falling out of a moving aircraft, holding on to a parachute I couldn't use.
 
 Even if I did reset again, though I still had no idea what was causing it and when, what was I supposed to do on the next loop?
 I'd taken away Irene's detonator and the bomb went off anyway.

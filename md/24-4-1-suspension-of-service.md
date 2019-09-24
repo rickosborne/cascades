@@ -69,6 +69,7 @@ Terry stood there, shaking his head.
 "We need to lock this," I said, crossing to the storage closet to get the key.
 The aisle was clear, but a few passengers were turned to look back in our direction.
 I locked the door, putting the key in my pocket instead of returning it to the closet.
+It would be several hours before Irene went looking for her coat.
 
 I grabbed the PA mic and toggled it active.
 
@@ -110,6 +111,9 @@ Lawrence and Simon looked at each other but didn't say anything.
 "Irene Peters in 27A," I continued, "is planning to detonate her bomb somewhere between Texas and Florida."
 
 Lawrence spoke first.
+"That's not funny."
+
+His tone changed as I stared him down.
 "How do you know this?"
 
 This is my fourth loop.
@@ -128,7 +132,7 @@ You're not cleared."
 The pilots shared another look.
 Pamela stared at me like she'd never seen me before.
 
-"We need to divert," said Lawrence, turning back to his instruments and reaching toward a panel marked RADIO.
+"We need to divert," said Lawrence, turning back to his instruments and reaching toward a panel marked `RADIO`.
 
 "Wait," I commanded, "stop.
 It's not that simple."
