@@ -146,3 +146,7 @@ I couldn't even form enough coherent thought to wonder what was happening to me.
 I was dying. 
 We were all dying. 
 What else was there?
+
+```fatecode
+VISIT #interlude1
+```
