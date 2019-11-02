@@ -147,6 +147,3 @@ I was dying.
 We were all dying. 
 What else was there?
 
-```fatecode
-VISIT #interlude1
-```

@@ -160,3 +160,7 @@ Niura crossed her arms in front of her to ward off the blow she knew was coming.
 
 And then the daylight flooded her eyes and she could smell the river.
 She had failed Seveki again.
+
+```fatecode
+JUMP #awake
+```
