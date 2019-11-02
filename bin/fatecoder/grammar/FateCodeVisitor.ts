@@ -24,6 +24,8 @@ import { LinkStmtContext } from "./FateCodeParser";
 import { TrackNumericStmtContext } from "./FateCodeParser";
 import { TrackLinkedStmtContext } from "./FateCodeParser";
 import { UpdateNumericStmtContext } from "./FateCodeParser";
+import { DecideBlockContext } from "./FateCodeParser";
+import { ChooseBlockContext } from "./FateCodeParser";
 
 
 /**
@@ -180,5 +182,19 @@ export interface FateCodeVisitor<Result> extends ParseTreeVisitor<Result> {
 	 * @return the visitor result
 	 */
 	visitUpdateNumericStmt?: (ctx: UpdateNumericStmtContext) => Result;
+
+	/**
+	 * Visit a parse tree produced by `FateCodeParser.decideBlock`.
+	 * @param ctx the parse tree
+	 * @return the visitor result
+	 */
+	visitDecideBlock?: (ctx: DecideBlockContext) => Result;
+
+	/**
+	 * Visit a parse tree produced by `FateCodeParser.chooseBlock`.
+	 * @param ctx the parse tree
+	 * @return the visitor result
+	 */
+	visitChooseBlock?: (ctx: ChooseBlockContext) => Result;
 }
 

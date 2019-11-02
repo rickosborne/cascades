@@ -50,21 +50,24 @@ export class FateCodeParser extends Parser {
 	public static readonly SUBTRACT = 20;
 	public static readonly START = 21;
 	public static readonly AT = 22;
-	public static readonly DQ = 23;
-	public static readonly PLUS = 24;
-	public static readonly MINUS = 25;
-	public static readonly DOT = 26;
-	public static readonly GT = 27;
-	public static readonly LT = 28;
-	public static readonly EQ = 29;
-	public static readonly NUMBER = 30;
-	public static readonly HEXNUMBER = 31;
-	public static readonly FLOAT = 32;
-	public static readonly LineComment = 33;
-	public static readonly LABEL = 34;
-	public static readonly STRING = 35;
-	public static readonly IDENTIFIER = 36;
-	public static readonly WS = 37;
+	public static readonly DECIDE = 23;
+	public static readonly BETWEEN = 24;
+	public static readonly CHOOSE = 25;
+	public static readonly DQ = 26;
+	public static readonly PLUS = 27;
+	public static readonly MINUS = 28;
+	public static readonly DOT = 29;
+	public static readonly GT = 30;
+	public static readonly LT = 31;
+	public static readonly EQ = 32;
+	public static readonly NUMBER = 33;
+	public static readonly HEXNUMBER = 34;
+	public static readonly FLOAT = 35;
+	public static readonly LineComment = 36;
+	public static readonly LABEL = 37;
+	public static readonly STRING = 38;
+	public static readonly IDENTIFIER = 39;
+	public static readonly WS = 40;
 	public static readonly RULE_program = 0;
 	public static readonly RULE_numberedStatement = 1;
 	public static readonly RULE_statement = 2;
@@ -86,28 +89,31 @@ export class FateCodeParser extends Parser {
 	public static readonly RULE_trackNumericStmt = 18;
 	public static readonly RULE_trackLinkedStmt = 19;
 	public static readonly RULE_updateNumericStmt = 20;
+	public static readonly RULE_decideBlock = 21;
+	public static readonly RULE_chooseBlock = 22;
 	// tslint:disable:no-trailing-whitespace
 	public static readonly ruleNames: string[] = [
 		"program", "numberedStatement", "statement", "comment", "identifier", 
 		"lineNumber", "returnStmt", "number", "string", "visitStmt", "jumpStmt", 
 		"anchorExpr", "addressExpr", "labelExpr", "whenNumericBlock", "numericComparisonOperator", 
 		"whenLinkedBlock", "linkStmt", "trackNumericStmt", "trackLinkedStmt", 
-		"updateNumericStmt",
+		"updateNumericStmt", "decideBlock", "chooseBlock",
 	];
 
 	private static readonly _LITERAL_NAMES: Array<string | undefined> = [
 		undefined, "'THEN'", "'END'", "'RETURN'", "'REMEMBERING'", "'VISIT'", 
 		"'NO'", "'WHEN'", "'NUMERIC'", "'LINKED'", "'LINK'", "'PATH'", "'UNLINK'", 
 		"'FROM'", "'EQUAL'", "'TO'", "'JUMP'", "'UPDATE'", "'TRACK'", "'ADD'", 
-		"'SUBTRACT'", "'START'", "'AT'", "'\"'", "'+'", "'-'", "'.'", "'>'", "'<'", 
-		"'=='",
+		"'SUBTRACT'", "'START'", "'AT'", "'DECIDE'", "'BETWEEN'", "'CHOOSE'", 
+		"'\"'", "'+'", "'-'", "'.'", "'>'", "'<'", "'=='",
 	];
 	private static readonly _SYMBOLIC_NAMES: Array<string | undefined> = [
 		undefined, "THEN", "END", "RETURN", "REMEMBERING", "VISIT", "NO", "WHEN", 
 		"NUMERIC", "LINKED", "LINK", "PATH", "UNLINK", "FROM", "EQUAL", "TO", 
-		"JUMP", "UPDATE", "TRACK", "ADD", "SUBTRACT", "START", "AT", "DQ", "PLUS", 
-		"MINUS", "DOT", "GT", "LT", "EQ", "NUMBER", "HEXNUMBER", "FLOAT", "LineComment", 
-		"LABEL", "STRING", "IDENTIFIER", "WS",
+		"JUMP", "UPDATE", "TRACK", "ADD", "SUBTRACT", "START", "AT", "DECIDE", 
+		"BETWEEN", "CHOOSE", "DQ", "PLUS", "MINUS", "DOT", "GT", "LT", "EQ", "NUMBER", 
+		"HEXNUMBER", "FLOAT", "LineComment", "LABEL", "STRING", "IDENTIFIER", 
+		"WS",
 	];
 	public static readonly VOCABULARY: Vocabulary = new VocabularyImpl(FateCodeParser._LITERAL_NAMES, FateCodeParser._SYMBOLIC_NAMES, []);
 
@@ -139,21 +145,21 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 45;
+			this.state = 49;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
-			while (((((_la - 3)) & ~0x1F) === 0 && ((1 << (_la - 3)) & ((1 << (FateCodeParser.RETURN - 3)) | (1 << (FateCodeParser.VISIT - 3)) | (1 << (FateCodeParser.WHEN - 3)) | (1 << (FateCodeParser.LINK - 3)) | (1 << (FateCodeParser.UNLINK - 3)) | (1 << (FateCodeParser.JUMP - 3)) | (1 << (FateCodeParser.UPDATE - 3)) | (1 << (FateCodeParser.TRACK - 3)) | (1 << (FateCodeParser.NUMBER - 3)) | (1 << (FateCodeParser.HEXNUMBER - 3)) | (1 << (FateCodeParser.LineComment - 3)))) !== 0)) {
+			while ((((_la) & ~0x1F) === 0 && ((1 << _la) & ((1 << FateCodeParser.RETURN) | (1 << FateCodeParser.VISIT) | (1 << FateCodeParser.WHEN) | (1 << FateCodeParser.LINK) | (1 << FateCodeParser.UNLINK) | (1 << FateCodeParser.JUMP) | (1 << FateCodeParser.UPDATE) | (1 << FateCodeParser.TRACK) | (1 << FateCodeParser.DECIDE))) !== 0) || ((((_la - 33)) & ~0x1F) === 0 && ((1 << (_la - 33)) & ((1 << (FateCodeParser.NUMBER - 33)) | (1 << (FateCodeParser.HEXNUMBER - 33)) | (1 << (FateCodeParser.LineComment - 33)))) !== 0)) {
 				{
 				{
-				this.state = 42;
+				this.state = 46;
 				this.numberedStatement();
 				}
 				}
-				this.state = 47;
+				this.state = 51;
 				this._errHandler.sync(this);
 				_la = this._input.LA(1);
 			}
-			this.state = 48;
+			this.state = 52;
 			this.match(FateCodeParser.EOF);
 			}
 		}
@@ -179,17 +185,17 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 51;
+			this.state = 55;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
 			if (_la === FateCodeParser.NUMBER || _la === FateCodeParser.HEXNUMBER) {
 				{
-				this.state = 50;
+				this.state = 54;
 				this.lineNumber();
 				}
 			}
 
-			this.state = 53;
+			this.state = 57;
 			this.statement();
 			}
 		}
@@ -212,13 +218,13 @@ export class FateCodeParser extends Parser {
 		let _localctx: StatementContext = new StatementContext(this._ctx, this.state);
 		this.enterRule(_localctx, 4, FateCodeParser.RULE_statement);
 		try {
-			this.state = 65;
+			this.state = 70;
 			this._errHandler.sync(this);
 			switch ( this.interpreter.adaptivePredict(this._input, 2, this._ctx) ) {
 			case 1:
 				this.enterOuterAlt(_localctx, 1);
 				{
-				this.state = 55;
+				this.state = 59;
 				this.comment();
 				}
 				break;
@@ -226,7 +232,7 @@ export class FateCodeParser extends Parser {
 			case 2:
 				this.enterOuterAlt(_localctx, 2);
 				{
-				this.state = 56;
+				this.state = 60;
 				this.trackNumericStmt();
 				}
 				break;
@@ -234,7 +240,7 @@ export class FateCodeParser extends Parser {
 			case 3:
 				this.enterOuterAlt(_localctx, 3);
 				{
-				this.state = 57;
+				this.state = 61;
 				this.trackLinkedStmt();
 				}
 				break;
@@ -242,7 +248,7 @@ export class FateCodeParser extends Parser {
 			case 4:
 				this.enterOuterAlt(_localctx, 4);
 				{
-				this.state = 58;
+				this.state = 62;
 				this.visitStmt();
 				}
 				break;
@@ -250,7 +256,7 @@ export class FateCodeParser extends Parser {
 			case 5:
 				this.enterOuterAlt(_localctx, 5);
 				{
-				this.state = 59;
+				this.state = 63;
 				this.jumpStmt();
 				}
 				break;
@@ -258,7 +264,7 @@ export class FateCodeParser extends Parser {
 			case 6:
 				this.enterOuterAlt(_localctx, 6);
 				{
-				this.state = 60;
+				this.state = 64;
 				this.whenNumericBlock();
 				}
 				break;
@@ -266,7 +272,7 @@ export class FateCodeParser extends Parser {
 			case 7:
 				this.enterOuterAlt(_localctx, 7);
 				{
-				this.state = 61;
+				this.state = 65;
 				this.whenLinkedBlock();
 				}
 				break;
@@ -274,7 +280,7 @@ export class FateCodeParser extends Parser {
 			case 8:
 				this.enterOuterAlt(_localctx, 8);
 				{
-				this.state = 62;
+				this.state = 66;
 				this.updateNumericStmt();
 				}
 				break;
@@ -282,7 +288,7 @@ export class FateCodeParser extends Parser {
 			case 9:
 				this.enterOuterAlt(_localctx, 9);
 				{
-				this.state = 63;
+				this.state = 67;
 				this.linkStmt();
 				}
 				break;
@@ -290,8 +296,16 @@ export class FateCodeParser extends Parser {
 			case 10:
 				this.enterOuterAlt(_localctx, 10);
 				{
-				this.state = 64;
+				this.state = 68;
 				this.returnStmt();
+				}
+				break;
+
+			case 11:
+				this.enterOuterAlt(_localctx, 11);
+				{
+				this.state = 69;
+				this.decideBlock();
 				}
 				break;
 			}
@@ -317,7 +331,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 67;
+			this.state = 72;
 			this.match(FateCodeParser.LineComment);
 			}
 		}
@@ -342,7 +356,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 69;
+			this.state = 74;
 			this.match(FateCodeParser.IDENTIFIER);
 			}
 		}
@@ -368,7 +382,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 71;
+			this.state = 76;
 			_la = this._input.LA(1);
 			if (!(_la === FateCodeParser.NUMBER || _la === FateCodeParser.HEXNUMBER)) {
 			this._errHandler.recoverInline(this);
@@ -403,7 +417,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 73;
+			this.state = 78;
 			this.match(FateCodeParser.RETURN);
 			}
 		}
@@ -429,12 +443,12 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 76;
+			this.state = 81;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
 			if (_la === FateCodeParser.PLUS || _la === FateCodeParser.MINUS) {
 				{
-				this.state = 75;
+				this.state = 80;
 				_la = this._input.LA(1);
 				if (!(_la === FateCodeParser.PLUS || _la === FateCodeParser.MINUS)) {
 				this._errHandler.recoverInline(this);
@@ -449,7 +463,7 @@ export class FateCodeParser extends Parser {
 				}
 			}
 
-			this.state = 78;
+			this.state = 83;
 			_la = this._input.LA(1);
 			if (!(_la === FateCodeParser.NUMBER || _la === FateCodeParser.FLOAT)) {
 			this._errHandler.recoverInline(this);
@@ -484,7 +498,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 80;
+			this.state = 85;
 			this.match(FateCodeParser.STRING);
 			}
 		}
@@ -510,18 +524,18 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 82;
+			this.state = 87;
 			this.match(FateCodeParser.VISIT);
-			this.state = 83;
+			this.state = 88;
 			this.anchorExpr();
-			this.state = 86;
+			this.state = 91;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
 			if (_la === FateCodeParser.REMEMBERING) {
 				{
-				this.state = 84;
+				this.state = 89;
 				this.match(FateCodeParser.REMEMBERING);
-				this.state = 85;
+				this.state = 90;
 				this.anchorExpr();
 				}
 			}
@@ -549,9 +563,9 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 88;
+			this.state = 93;
 			this.match(FateCodeParser.JUMP);
-			this.state = 89;
+			this.state = 94;
 			this.anchorExpr();
 			}
 		}
@@ -574,20 +588,20 @@ export class FateCodeParser extends Parser {
 		let _localctx: AnchorExprContext = new AnchorExprContext(this._ctx, this.state);
 		this.enterRule(_localctx, 22, FateCodeParser.RULE_anchorExpr);
 		try {
-			this.state = 93;
+			this.state = 98;
 			this._errHandler.sync(this);
 			switch (this._input.LA(1)) {
 			case FateCodeParser.HEXNUMBER:
 				this.enterOuterAlt(_localctx, 1);
 				{
-				this.state = 91;
+				this.state = 96;
 				this.addressExpr();
 				}
 				break;
 			case FateCodeParser.LABEL:
 				this.enterOuterAlt(_localctx, 2);
 				{
-				this.state = 92;
+				this.state = 97;
 				this.labelExpr();
 				}
 				break;
@@ -616,7 +630,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 95;
+			this.state = 100;
 			this.match(FateCodeParser.HEXNUMBER);
 			}
 		}
@@ -641,7 +655,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 97;
+			this.state = 102;
 			this.match(FateCodeParser.LABEL);
 			}
 		}
@@ -667,35 +681,35 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 99;
-			this.match(FateCodeParser.WHEN);
-			this.state = 100;
-			this.match(FateCodeParser.NUMERIC);
-			this.state = 101;
-			this.identifier();
-			this.state = 102;
-			this.numericComparisonOperator();
-			this.state = 103;
-			this.number();
 			this.state = 104;
-			this.match(FateCodeParser.THEN);
+			this.match(FateCodeParser.WHEN);
+			this.state = 105;
+			this.match(FateCodeParser.NUMERIC);
 			this.state = 106;
+			this.identifier();
+			this.state = 107;
+			this.numericComparisonOperator();
+			this.state = 108;
+			this.number();
+			this.state = 109;
+			this.match(FateCodeParser.THEN);
+			this.state = 111;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
 			do {
 				{
 				{
-				this.state = 105;
+				this.state = 110;
 				this.statement();
 				}
 				}
-				this.state = 108;
+				this.state = 113;
 				this._errHandler.sync(this);
 				_la = this._input.LA(1);
-			} while (((((_la - 3)) & ~0x1F) === 0 && ((1 << (_la - 3)) & ((1 << (FateCodeParser.RETURN - 3)) | (1 << (FateCodeParser.VISIT - 3)) | (1 << (FateCodeParser.WHEN - 3)) | (1 << (FateCodeParser.LINK - 3)) | (1 << (FateCodeParser.UNLINK - 3)) | (1 << (FateCodeParser.JUMP - 3)) | (1 << (FateCodeParser.UPDATE - 3)) | (1 << (FateCodeParser.TRACK - 3)) | (1 << (FateCodeParser.LineComment - 3)))) !== 0));
-			this.state = 110;
+			} while ((((_la) & ~0x1F) === 0 && ((1 << _la) & ((1 << FateCodeParser.RETURN) | (1 << FateCodeParser.VISIT) | (1 << FateCodeParser.WHEN) | (1 << FateCodeParser.LINK) | (1 << FateCodeParser.UNLINK) | (1 << FateCodeParser.JUMP) | (1 << FateCodeParser.UPDATE) | (1 << FateCodeParser.TRACK) | (1 << FateCodeParser.DECIDE))) !== 0) || _la === FateCodeParser.LineComment);
+			this.state = 115;
 			this.match(FateCodeParser.END);
-			this.state = 111;
+			this.state = 116;
 			this.match(FateCodeParser.WHEN);
 			}
 		}
@@ -721,9 +735,9 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 113;
+			this.state = 118;
 			_la = this._input.LA(1);
-			if (!((((_la) & ~0x1F) === 0 && ((1 << _la) & ((1 << FateCodeParser.GT) | (1 << FateCodeParser.LT) | (1 << FateCodeParser.EQ))) !== 0))) {
+			if (!(((((_la - 30)) & ~0x1F) === 0 && ((1 << (_la - 30)) & ((1 << (FateCodeParser.GT - 30)) | (1 << (FateCodeParser.LT - 30)) | (1 << (FateCodeParser.EQ - 30)))) !== 0))) {
 			this._errHandler.recoverInline(this);
 			} else {
 				if (this._input.LA(1) === Token.EOF) {
@@ -757,21 +771,21 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 115;
+			this.state = 120;
 			this.match(FateCodeParser.WHEN);
-			this.state = 117;
+			this.state = 122;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
 			if (_la === FateCodeParser.NO) {
 				{
-				this.state = 116;
+				this.state = 121;
 				this.match(FateCodeParser.NO);
 				}
 			}
 
-			this.state = 119;
+			this.state = 124;
 			this.identifier();
-			this.state = 120;
+			this.state = 125;
 			_la = this._input.LA(1);
 			if (!(_la === FateCodeParser.LINK || _la === FateCodeParser.PATH)) {
 			this._errHandler.recoverInline(this);
@@ -783,33 +797,33 @@ export class FateCodeParser extends Parser {
 				this._errHandler.reportMatch(this);
 				this.consume();
 			}
-			this.state = 121;
+			this.state = 126;
 			this.match(FateCodeParser.FROM);
-			this.state = 122;
-			this.string();
-			this.state = 123;
-			this.match(FateCodeParser.TO);
-			this.state = 124;
-			this.string();
-			this.state = 125;
-			this.match(FateCodeParser.THEN);
 			this.state = 127;
+			this.string();
+			this.state = 128;
+			this.match(FateCodeParser.TO);
+			this.state = 129;
+			this.string();
+			this.state = 130;
+			this.match(FateCodeParser.THEN);
+			this.state = 132;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
 			do {
 				{
 				{
-				this.state = 126;
+				this.state = 131;
 				this.statement();
 				}
 				}
-				this.state = 129;
+				this.state = 134;
 				this._errHandler.sync(this);
 				_la = this._input.LA(1);
-			} while (((((_la - 3)) & ~0x1F) === 0 && ((1 << (_la - 3)) & ((1 << (FateCodeParser.RETURN - 3)) | (1 << (FateCodeParser.VISIT - 3)) | (1 << (FateCodeParser.WHEN - 3)) | (1 << (FateCodeParser.LINK - 3)) | (1 << (FateCodeParser.UNLINK - 3)) | (1 << (FateCodeParser.JUMP - 3)) | (1 << (FateCodeParser.UPDATE - 3)) | (1 << (FateCodeParser.TRACK - 3)) | (1 << (FateCodeParser.LineComment - 3)))) !== 0));
-			this.state = 131;
+			} while ((((_la) & ~0x1F) === 0 && ((1 << _la) & ((1 << FateCodeParser.RETURN) | (1 << FateCodeParser.VISIT) | (1 << FateCodeParser.WHEN) | (1 << FateCodeParser.LINK) | (1 << FateCodeParser.UNLINK) | (1 << FateCodeParser.JUMP) | (1 << FateCodeParser.UPDATE) | (1 << FateCodeParser.TRACK) | (1 << FateCodeParser.DECIDE))) !== 0) || _la === FateCodeParser.LineComment);
+			this.state = 136;
 			this.match(FateCodeParser.END);
-			this.state = 132;
+			this.state = 137;
 			this.match(FateCodeParser.WHEN);
 			}
 		}
@@ -835,7 +849,7 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 134;
+			this.state = 139;
 			_la = this._input.LA(1);
 			if (!(_la === FateCodeParser.LINK || _la === FateCodeParser.UNLINK)) {
 			this._errHandler.recoverInline(this);
@@ -847,15 +861,15 @@ export class FateCodeParser extends Parser {
 				this._errHandler.reportMatch(this);
 				this.consume();
 			}
-			this.state = 135;
+			this.state = 140;
 			this.identifier();
-			this.state = 136;
+			this.state = 141;
 			this.match(FateCodeParser.FROM);
-			this.state = 137;
+			this.state = 142;
 			this.string();
-			this.state = 138;
+			this.state = 143;
 			this.match(FateCodeParser.TO);
-			this.state = 139;
+			this.state = 144;
 			this.string();
 			}
 		}
@@ -881,22 +895,22 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 141;
+			this.state = 146;
 			this.match(FateCodeParser.TRACK);
-			this.state = 142;
-			this.match(FateCodeParser.NUMERIC);
-			this.state = 143;
-			this.identifier();
 			this.state = 147;
+			this.match(FateCodeParser.NUMERIC);
+			this.state = 148;
+			this.identifier();
+			this.state = 152;
 			this._errHandler.sync(this);
 			_la = this._input.LA(1);
 			if (_la === FateCodeParser.START) {
 				{
-				this.state = 144;
+				this.state = 149;
 				this.match(FateCodeParser.START);
-				this.state = 145;
+				this.state = 150;
 				this.match(FateCodeParser.AT);
-				this.state = 146;
+				this.state = 151;
 				this.number();
 				}
 			}
@@ -924,11 +938,11 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 149;
+			this.state = 154;
 			this.match(FateCodeParser.TRACK);
-			this.state = 150;
+			this.state = 155;
 			this.match(FateCodeParser.LINKED);
-			this.state = 151;
+			this.state = 156;
 			this.identifier();
 			}
 		}
@@ -954,13 +968,13 @@ export class FateCodeParser extends Parser {
 		try {
 			this.enterOuterAlt(_localctx, 1);
 			{
-			this.state = 153;
+			this.state = 158;
 			this.match(FateCodeParser.UPDATE);
-			this.state = 154;
+			this.state = 159;
 			this.match(FateCodeParser.NUMERIC);
-			this.state = 155;
+			this.state = 160;
 			this.identifier();
-			this.state = 156;
+			this.state = 161;
 			_la = this._input.LA(1);
 			if (!((((_la) & ~0x1F) === 0 && ((1 << _la) & ((1 << FateCodeParser.TO) | (1 << FateCodeParser.ADD) | (1 << FateCodeParser.SUBTRACT))) !== 0))) {
 			this._errHandler.recoverInline(this);
@@ -972,8 +986,96 @@ export class FateCodeParser extends Parser {
 				this._errHandler.reportMatch(this);
 				this.consume();
 			}
-			this.state = 157;
+			this.state = 162;
 			this.number();
+			}
+		}
+		catch (re) {
+			if (re instanceof RecognitionException) {
+				_localctx.exception = re;
+				this._errHandler.reportError(this, re);
+				this._errHandler.recover(this, re);
+			} else {
+				throw re;
+			}
+		}
+		finally {
+			this.exitRule();
+		}
+		return _localctx;
+	}
+	// @RuleVersion(0)
+	public decideBlock(): DecideBlockContext {
+		let _localctx: DecideBlockContext = new DecideBlockContext(this._ctx, this.state);
+		this.enterRule(_localctx, 42, FateCodeParser.RULE_decideBlock);
+		let _la: number;
+		try {
+			this.enterOuterAlt(_localctx, 1);
+			{
+			this.state = 164;
+			this.match(FateCodeParser.DECIDE);
+			this.state = 165;
+			this.match(FateCodeParser.BETWEEN);
+			this.state = 167;
+			this._errHandler.sync(this);
+			_la = this._input.LA(1);
+			do {
+				{
+				{
+				this.state = 166;
+				this.chooseBlock();
+				}
+				}
+				this.state = 169;
+				this._errHandler.sync(this);
+				_la = this._input.LA(1);
+			} while (_la === FateCodeParser.CHOOSE);
+			this.state = 171;
+			this.match(FateCodeParser.END);
+			this.state = 172;
+			this.match(FateCodeParser.DECIDE);
+			}
+		}
+		catch (re) {
+			if (re instanceof RecognitionException) {
+				_localctx.exception = re;
+				this._errHandler.reportError(this, re);
+				this._errHandler.recover(this, re);
+			} else {
+				throw re;
+			}
+		}
+		finally {
+			this.exitRule();
+		}
+		return _localctx;
+	}
+	// @RuleVersion(0)
+	public chooseBlock(): ChooseBlockContext {
+		let _localctx: ChooseBlockContext = new ChooseBlockContext(this._ctx, this.state);
+		this.enterRule(_localctx, 44, FateCodeParser.RULE_chooseBlock);
+		let _la: number;
+		try {
+			this.enterOuterAlt(_localctx, 1);
+			{
+			this.state = 174;
+			this.match(FateCodeParser.CHOOSE);
+			this.state = 175;
+			this.string();
+			this.state = 177;
+			this._errHandler.sync(this);
+			_la = this._input.LA(1);
+			do {
+				{
+				{
+				this.state = 176;
+				this.statement();
+				}
+				}
+				this.state = 179;
+				this._errHandler.sync(this);
+				_la = this._input.LA(1);
+			} while ((((_la) & ~0x1F) === 0 && ((1 << _la) & ((1 << FateCodeParser.RETURN) | (1 << FateCodeParser.VISIT) | (1 << FateCodeParser.WHEN) | (1 << FateCodeParser.LINK) | (1 << FateCodeParser.UNLINK) | (1 << FateCodeParser.JUMP) | (1 << FateCodeParser.UPDATE) | (1 << FateCodeParser.TRACK) | (1 << FateCodeParser.DECIDE))) !== 0) || _la === FateCodeParser.LineComment);
 			}
 		}
 		catch (re) {
@@ -992,71 +1094,81 @@ export class FateCodeParser extends Parser {
 	}
 
 	public static readonly _serializedATN: string =
-		"\x03\uC91D\uCABA\u058D\uAFBA\u4F53\u0607\uEA8B\uC241\x03\'\xA2\x04\x02" +
+		"\x03\uC91D\uCABA\u058D\uAFBA\u4F53\u0607\uEA8B\uC241\x03*\xB8\x04\x02" +
 		"\t\x02\x04\x03\t\x03\x04\x04\t\x04\x04\x05\t\x05\x04\x06\t\x06\x04\x07" +
 		"\t\x07\x04\b\t\b\x04\t\t\t\x04\n\t\n\x04\v\t\v\x04\f\t\f\x04\r\t\r\x04" +
 		"\x0E\t\x0E\x04\x0F\t\x0F\x04\x10\t\x10\x04\x11\t\x11\x04\x12\t\x12\x04" +
-		"\x13\t\x13\x04\x14\t\x14\x04\x15\t\x15\x04\x16\t\x16\x03\x02\x07\x02." +
-		"\n\x02\f\x02\x0E\x021\v\x02\x03\x02\x03\x02\x03\x03\x05\x036\n\x03\x03" +
-		"\x03\x03\x03\x03\x04\x03\x04\x03\x04\x03\x04\x03\x04\x03\x04\x03\x04\x03" +
-		"\x04\x03\x04\x03\x04\x05\x04D\n\x04\x03\x05\x03\x05\x03\x06\x03\x06\x03" +
-		"\x07\x03\x07\x03\b\x03\b\x03\t\x05\tO\n\t\x03\t\x03\t\x03\n\x03\n\x03" +
-		"\v\x03\v\x03\v\x03\v\x05\vY\n\v\x03\f\x03\f\x03\f\x03\r\x03\r\x05\r`\n" +
-		"\r\x03\x0E\x03\x0E\x03\x0F\x03\x0F\x03\x10\x03\x10\x03\x10\x03\x10\x03" +
-		"\x10\x03\x10\x03\x10\x06\x10m\n\x10\r\x10\x0E\x10n\x03\x10\x03\x10\x03" +
-		"\x10\x03\x11\x03\x11\x03\x12\x03\x12\x05\x12x\n\x12\x03\x12\x03\x12\x03" +
-		"\x12\x03\x12\x03\x12\x03\x12\x03\x12\x03\x12\x06\x12\x82\n\x12\r\x12\x0E" +
-		"\x12\x83\x03\x12\x03\x12\x03\x12\x03\x13\x03\x13\x03\x13\x03\x13\x03\x13" +
-		"\x03\x13\x03\x13\x03\x14\x03\x14\x03\x14\x03\x14\x03\x14\x03\x14\x05\x14" +
-		"\x96\n\x14\x03\x15\x03\x15\x03\x15\x03\x15\x03\x16\x03\x16\x03\x16\x03" +
-		"\x16\x03\x16\x03\x16\x03\x16\x02\x02\x02\x17\x02\x02\x04\x02\x06\x02\b" +
-		"\x02\n\x02\f\x02\x0E\x02\x10\x02\x12\x02\x14\x02\x16\x02\x18\x02\x1A\x02" +
-		"\x1C\x02\x1E\x02 \x02\"\x02$\x02&\x02(\x02*\x02\x02\t\x03\x02 !\x03\x02" +
-		"\x1A\x1B\x04\x02  \"\"\x03\x02\x1D\x1F\x03\x02\f\r\x04\x02\f\f\x0E\x0E" +
-		"\x04\x02\x11\x11\x15\x16\x02\x9E\x02/\x03\x02\x02\x02\x045\x03\x02\x02" +
-		"\x02\x06C\x03\x02\x02\x02\bE\x03\x02\x02\x02\nG\x03\x02\x02\x02\fI\x03" +
-		"\x02\x02\x02\x0EK\x03\x02\x02\x02\x10N\x03\x02\x02\x02\x12R\x03\x02\x02" +
-		"\x02\x14T\x03\x02\x02\x02\x16Z\x03\x02\x02\x02\x18_\x03\x02\x02\x02\x1A" +
-		"a\x03\x02\x02\x02\x1Cc\x03\x02\x02\x02\x1Ee\x03\x02\x02\x02 s\x03\x02" +
-		"\x02\x02\"u\x03\x02\x02\x02$\x88\x03\x02\x02\x02&\x8F\x03\x02\x02\x02" +
-		"(\x97\x03\x02\x02\x02*\x9B\x03\x02\x02\x02,.\x05\x04\x03\x02-,\x03\x02" +
-		"\x02\x02.1\x03\x02\x02\x02/-\x03\x02\x02\x02/0\x03\x02\x02\x0202\x03\x02" +
-		"\x02\x021/\x03\x02\x02\x0223\x07\x02\x02\x033\x03\x03\x02\x02\x0246\x05" +
-		"\f\x07\x0254\x03\x02\x02\x0256\x03\x02\x02\x0267\x03\x02\x02\x0278\x05" +
-		"\x06\x04\x028\x05\x03\x02\x02\x029D\x05\b\x05\x02:D\x05&\x14\x02;D\x05" +
-		"(\x15\x02<D\x05\x14\v\x02=D\x05\x16\f\x02>D\x05\x1E\x10\x02?D\x05\"\x12" +
-		"\x02@D\x05*\x16\x02AD\x05$\x13\x02BD\x05\x0E\b\x02C9\x03\x02\x02\x02C" +
-		":\x03\x02\x02\x02C;\x03\x02\x02\x02C<\x03\x02\x02\x02C=\x03\x02\x02\x02" +
-		"C>\x03\x02\x02\x02C?\x03\x02\x02\x02C@\x03\x02\x02\x02CA\x03\x02\x02\x02" +
-		"CB\x03\x02\x02\x02D\x07\x03\x02\x02\x02EF\x07#\x02\x02F\t\x03\x02\x02" +
-		"\x02GH\x07&\x02\x02H\v\x03\x02\x02\x02IJ\t\x02\x02\x02J\r\x03\x02\x02" +
-		"\x02KL\x07\x05\x02\x02L\x0F\x03\x02\x02\x02MO\t\x03\x02\x02NM\x03\x02" +
-		"\x02\x02NO\x03\x02\x02\x02OP\x03\x02\x02\x02PQ\t\x04\x02\x02Q\x11\x03" +
-		"\x02\x02\x02RS\x07%\x02\x02S\x13\x03\x02\x02\x02TU\x07\x07\x02\x02UX\x05" +
-		"\x18\r\x02VW\x07\x06\x02\x02WY\x05\x18\r\x02XV\x03\x02\x02\x02XY\x03\x02" +
-		"\x02\x02Y\x15\x03\x02\x02\x02Z[\x07\x12\x02\x02[\\\x05\x18\r\x02\\\x17" +
-		"\x03\x02\x02\x02]`\x05\x1A\x0E\x02^`\x05\x1C\x0F\x02_]\x03\x02\x02\x02" +
-		"_^\x03\x02\x02\x02`\x19\x03\x02\x02\x02ab\x07!\x02\x02b\x1B\x03\x02\x02" +
-		"\x02cd\x07$\x02\x02d\x1D\x03\x02\x02\x02ef\x07\t\x02\x02fg\x07\n\x02\x02" +
-		"gh\x05\n\x06\x02hi\x05 \x11\x02ij\x05\x10\t\x02jl\x07\x03\x02\x02km\x05" +
-		"\x06\x04\x02lk\x03\x02\x02\x02mn\x03\x02\x02\x02nl\x03\x02\x02\x02no\x03" +
-		"\x02\x02\x02op\x03\x02\x02\x02pq\x07\x04\x02\x02qr\x07\t\x02\x02r\x1F" +
-		"\x03\x02\x02\x02st\t\x05\x02\x02t!\x03\x02\x02\x02uw\x07\t\x02\x02vx\x07" +
-		"\b\x02\x02wv\x03\x02\x02\x02wx\x03\x02\x02\x02xy\x03\x02\x02\x02yz\x05" +
-		"\n\x06\x02z{\t\x06\x02\x02{|\x07\x0F\x02\x02|}\x05\x12\n\x02}~\x07\x11" +
-		"\x02\x02~\x7F\x05\x12\n\x02\x7F\x81\x07\x03\x02\x02\x80\x82\x05\x06\x04" +
-		"\x02\x81\x80\x03\x02\x02\x02\x82\x83\x03\x02\x02\x02\x83\x81\x03\x02\x02" +
-		"\x02\x83\x84\x03\x02\x02\x02\x84\x85\x03\x02\x02\x02\x85\x86\x07\x04\x02" +
-		"\x02\x86\x87\x07\t\x02\x02\x87#\x03\x02\x02\x02\x88\x89\t\x07\x02\x02" +
-		"\x89\x8A\x05\n\x06\x02\x8A\x8B\x07\x0F\x02\x02\x8B\x8C\x05\x12\n\x02\x8C" +
-		"\x8D\x07\x11\x02\x02\x8D\x8E\x05\x12\n\x02\x8E%\x03\x02\x02\x02\x8F\x90" +
-		"\x07\x14\x02\x02\x90\x91\x07\n\x02\x02\x91\x95\x05\n\x06\x02\x92\x93\x07" +
-		"\x17\x02\x02\x93\x94\x07\x18\x02\x02\x94\x96\x05\x10\t\x02\x95\x92\x03" +
-		"\x02\x02\x02\x95\x96\x03\x02\x02\x02\x96\'\x03\x02\x02\x02\x97\x98\x07" +
-		"\x14\x02\x02\x98\x99\x07\v\x02\x02\x99\x9A\x05\n\x06\x02\x9A)\x03\x02" +
-		"\x02\x02\x9B\x9C\x07\x13\x02\x02\x9C\x9D\x07\n\x02\x02\x9D\x9E\x05\n\x06" +
-		"\x02\x9E\x9F\t\b\x02\x02\x9F\xA0\x05\x10\t\x02\xA0+\x03\x02\x02\x02\f" +
-		"/5CNX_nw\x83\x95";
+		"\x13\t\x13\x04\x14\t\x14\x04\x15\t\x15\x04\x16\t\x16\x04\x17\t\x17\x04" +
+		"\x18\t\x18\x03\x02\x07\x022\n\x02\f\x02\x0E\x025\v\x02\x03\x02\x03\x02" +
+		"\x03\x03\x05\x03:\n\x03\x03\x03\x03\x03\x03\x04\x03\x04\x03\x04\x03\x04" +
+		"\x03\x04\x03\x04\x03\x04\x03\x04\x03\x04\x03\x04\x03\x04\x05\x04I\n\x04" +
+		"\x03\x05\x03\x05\x03\x06\x03\x06\x03\x07\x03\x07\x03\b\x03\b\x03\t\x05" +
+		"\tT\n\t\x03\t\x03\t\x03\n\x03\n\x03\v\x03\v\x03\v\x03\v\x05\v^\n\v\x03" +
+		"\f\x03\f\x03\f\x03\r\x03\r\x05\re\n\r\x03\x0E\x03\x0E\x03\x0F\x03\x0F" +
+		"\x03\x10\x03\x10\x03\x10\x03\x10\x03\x10\x03\x10\x03\x10\x06\x10r\n\x10" +
+		"\r\x10\x0E\x10s\x03\x10\x03\x10\x03\x10\x03\x11\x03\x11\x03\x12\x03\x12" +
+		"\x05\x12}\n\x12\x03\x12\x03\x12\x03\x12\x03\x12\x03\x12\x03\x12\x03\x12" +
+		"\x03\x12\x06\x12\x87\n\x12\r\x12\x0E\x12\x88\x03\x12\x03\x12\x03\x12\x03" +
+		"\x13\x03\x13\x03\x13\x03\x13\x03\x13\x03\x13\x03\x13\x03\x14\x03\x14\x03" +
+		"\x14\x03\x14\x03\x14\x03\x14\x05\x14\x9B\n\x14\x03\x15\x03\x15\x03\x15" +
+		"\x03\x15\x03\x16\x03\x16\x03\x16\x03\x16\x03\x16\x03\x16\x03\x17\x03\x17" +
+		"\x03\x17\x06\x17\xAA\n\x17\r\x17\x0E\x17\xAB\x03\x17\x03\x17\x03\x17\x03" +
+		"\x18\x03\x18\x03\x18\x06\x18\xB4\n\x18\r\x18\x0E\x18\xB5\x03\x18\x02\x02" +
+		"\x02\x19\x02\x02\x04\x02\x06\x02\b\x02\n\x02\f\x02\x0E\x02\x10\x02\x12" +
+		"\x02\x14\x02\x16\x02\x18\x02\x1A\x02\x1C\x02\x1E\x02 \x02\"\x02$\x02&" +
+		"\x02(\x02*\x02,\x02.\x02\x02\t\x03\x02#$\x03\x02\x1D\x1E\x04\x02##%%\x03" +
+		"\x02 \"\x03\x02\f\r\x04\x02\f\f\x0E\x0E\x04\x02\x11\x11\x15\x16\x02\xB5" +
+		"\x023\x03\x02\x02\x02\x049\x03\x02\x02\x02\x06H\x03\x02\x02\x02\bJ\x03" +
+		"\x02\x02\x02\nL\x03\x02\x02\x02\fN\x03\x02\x02\x02\x0EP\x03\x02\x02\x02" +
+		"\x10S\x03\x02\x02\x02\x12W\x03\x02\x02\x02\x14Y\x03\x02\x02\x02\x16_\x03" +
+		"\x02\x02\x02\x18d\x03\x02\x02\x02\x1Af\x03\x02\x02\x02\x1Ch\x03\x02\x02" +
+		"\x02\x1Ej\x03\x02\x02\x02 x\x03\x02\x02\x02\"z\x03\x02\x02\x02$\x8D\x03" +
+		"\x02\x02\x02&\x94\x03\x02\x02\x02(\x9C\x03\x02\x02\x02*\xA0\x03\x02\x02" +
+		"\x02,\xA6\x03\x02\x02\x02.\xB0\x03\x02\x02\x0202\x05\x04\x03\x0210\x03" +
+		"\x02\x02\x0225\x03\x02\x02\x0231\x03\x02\x02\x0234\x03\x02\x02\x0246\x03" +
+		"\x02\x02\x0253\x03\x02\x02\x0267\x07\x02\x02\x037\x03\x03\x02\x02\x02" +
+		"8:\x05\f\x07\x0298\x03\x02\x02\x029:\x03\x02\x02\x02:;\x03\x02\x02\x02" +
+		";<\x05\x06\x04\x02<\x05\x03\x02\x02\x02=I\x05\b\x05\x02>I\x05&\x14\x02" +
+		"?I\x05(\x15\x02@I\x05\x14\v\x02AI\x05\x16\f\x02BI\x05\x1E\x10\x02CI\x05" +
+		"\"\x12\x02DI\x05*\x16\x02EI\x05$\x13\x02FI\x05\x0E\b\x02GI\x05,\x17\x02" +
+		"H=\x03\x02\x02\x02H>\x03\x02\x02\x02H?\x03\x02\x02\x02H@\x03\x02\x02\x02" +
+		"HA\x03\x02\x02\x02HB\x03\x02\x02\x02HC\x03\x02\x02\x02HD\x03\x02\x02\x02" +
+		"HE\x03\x02\x02\x02HF\x03\x02\x02\x02HG\x03\x02\x02\x02I\x07\x03\x02\x02" +
+		"\x02JK\x07&\x02\x02K\t\x03\x02\x02\x02LM\x07)\x02\x02M\v\x03\x02\x02\x02" +
+		"NO\t\x02\x02\x02O\r\x03\x02\x02\x02PQ\x07\x05\x02\x02Q\x0F\x03\x02\x02" +
+		"\x02RT\t\x03\x02\x02SR\x03\x02\x02\x02ST\x03\x02\x02\x02TU\x03\x02\x02" +
+		"\x02UV\t\x04\x02\x02V\x11\x03\x02\x02\x02WX\x07(\x02\x02X\x13\x03\x02" +
+		"\x02\x02YZ\x07\x07\x02\x02Z]\x05\x18\r\x02[\\\x07\x06\x02\x02\\^\x05\x18" +
+		"\r\x02][\x03\x02\x02\x02]^\x03\x02\x02\x02^\x15\x03\x02\x02\x02_`\x07" +
+		"\x12\x02\x02`a\x05\x18\r\x02a\x17\x03\x02\x02\x02be\x05\x1A\x0E\x02ce" +
+		"\x05\x1C\x0F\x02db\x03\x02\x02\x02dc\x03\x02\x02\x02e\x19\x03\x02\x02" +
+		"\x02fg\x07$\x02\x02g\x1B\x03\x02\x02\x02hi\x07\'\x02\x02i\x1D\x03\x02" +
+		"\x02\x02jk\x07\t\x02\x02kl\x07\n\x02\x02lm\x05\n\x06\x02mn\x05 \x11\x02" +
+		"no\x05\x10\t\x02oq\x07\x03\x02\x02pr\x05\x06\x04\x02qp\x03\x02\x02\x02" +
+		"rs\x03\x02\x02\x02sq\x03\x02\x02\x02st\x03\x02\x02\x02tu\x03\x02\x02\x02" +
+		"uv\x07\x04\x02\x02vw\x07\t\x02\x02w\x1F\x03\x02\x02\x02xy\t\x05\x02\x02" +
+		"y!\x03\x02\x02\x02z|\x07\t\x02\x02{}\x07\b\x02\x02|{\x03\x02\x02\x02|" +
+		"}\x03\x02\x02\x02}~\x03\x02\x02\x02~\x7F\x05\n\x06\x02\x7F\x80\t\x06\x02" +
+		"\x02\x80\x81\x07\x0F\x02\x02\x81\x82\x05\x12\n\x02\x82\x83\x07\x11\x02" +
+		"\x02\x83\x84\x05\x12\n\x02\x84\x86\x07\x03\x02\x02\x85\x87\x05\x06\x04" +
+		"\x02\x86\x85\x03\x02\x02\x02\x87\x88\x03\x02\x02\x02\x88\x86\x03\x02\x02" +
+		"\x02\x88\x89\x03\x02\x02\x02\x89\x8A\x03\x02\x02\x02\x8A\x8B\x07\x04\x02" +
+		"\x02\x8B\x8C\x07\t\x02\x02\x8C#\x03\x02\x02\x02\x8D\x8E\t\x07\x02\x02" +
+		"\x8E\x8F\x05\n\x06\x02\x8F\x90\x07\x0F\x02\x02\x90\x91\x05\x12\n\x02\x91" +
+		"\x92\x07\x11\x02\x02\x92\x93\x05\x12\n\x02\x93%\x03\x02\x02\x02\x94\x95" +
+		"\x07\x14\x02\x02\x95\x96\x07\n\x02\x02\x96\x9A\x05\n\x06\x02\x97\x98\x07" +
+		"\x17\x02\x02\x98\x99\x07\x18\x02\x02\x99\x9B\x05\x10\t\x02\x9A\x97\x03" +
+		"\x02\x02\x02\x9A\x9B\x03\x02\x02\x02\x9B\'\x03\x02\x02\x02\x9C\x9D\x07" +
+		"\x14\x02\x02\x9D\x9E\x07\v\x02\x02\x9E\x9F\x05\n\x06\x02\x9F)\x03\x02" +
+		"\x02\x02\xA0\xA1\x07\x13\x02\x02\xA1\xA2\x07\n\x02\x02\xA2\xA3\x05\n\x06" +
+		"\x02\xA3\xA4\t\b\x02\x02\xA4\xA5\x05\x10\t\x02\xA5+\x03\x02\x02\x02\xA6" +
+		"\xA7\x07\x19\x02\x02\xA7\xA9\x07\x1A\x02\x02\xA8\xAA\x05.\x18\x02\xA9" +
+		"\xA8\x03\x02\x02\x02\xAA\xAB\x03\x02\x02\x02\xAB\xA9\x03\x02\x02\x02\xAB" +
+		"\xAC\x03\x02\x02\x02\xAC\xAD\x03\x02\x02\x02\xAD\xAE\x07\x04\x02\x02\xAE" +
+		"\xAF\x07\x19\x02\x02\xAF-\x03\x02\x02\x02\xB0\xB1\x07\x1B\x02\x02\xB1" +
+		"\xB3\x05\x12\n\x02\xB2\xB4\x05\x06\x04\x02\xB3\xB2\x03\x02\x02\x02\xB4" +
+		"\xB5\x03\x02\x02\x02\xB5\xB3\x03\x02\x02\x02\xB5\xB6\x03\x02\x02\x02\xB6" +
+		"/\x03\x02\x02\x02\x0E39HS]ds|\x88\x9A\xAB\xB5";
 	public static __ATN: ATN;
 	public static get _ATN(): ATN {
 		if (!FateCodeParser.__ATN) {
@@ -1172,6 +1284,9 @@ export class StatementContext extends ParserRuleContext {
 	}
 	public returnStmt(): ReturnStmtContext | undefined {
 		return this.tryGetRuleContext(0, ReturnStmtContext);
+	}
+	public decideBlock(): DecideBlockContext | undefined {
+		return this.tryGetRuleContext(0, DecideBlockContext);
 	}
 	constructor(parent: ParserRuleContext | undefined, invokingState: number) {
 		super(parent, invokingState);
@@ -1861,6 +1976,97 @@ export class UpdateNumericStmtContext extends ParserRuleContext {
 	public accept<Result>(visitor: FateCodeVisitor<Result>): Result {
 		if (visitor.visitUpdateNumericStmt) {
 			return visitor.visitUpdateNumericStmt(this);
+		} else {
+			return visitor.visitChildren(this);
+		}
+	}
+}
+
+
+export class DecideBlockContext extends ParserRuleContext {
+	public DECIDE(): TerminalNode[];
+	public DECIDE(i: number): TerminalNode;
+	public DECIDE(i?: number): TerminalNode | TerminalNode[] {
+		if (i === undefined) {
+			return this.getTokens(FateCodeParser.DECIDE);
+		} else {
+			return this.getToken(FateCodeParser.DECIDE, i);
+		}
+	}
+	public BETWEEN(): TerminalNode { return this.getToken(FateCodeParser.BETWEEN, 0); }
+	public END(): TerminalNode { return this.getToken(FateCodeParser.END, 0); }
+	public chooseBlock(): ChooseBlockContext[];
+	public chooseBlock(i: number): ChooseBlockContext;
+	public chooseBlock(i?: number): ChooseBlockContext | ChooseBlockContext[] {
+		if (i === undefined) {
+			return this.getRuleContexts(ChooseBlockContext);
+		} else {
+			return this.getRuleContext(i, ChooseBlockContext);
+		}
+	}
+	constructor(parent: ParserRuleContext | undefined, invokingState: number) {
+		super(parent, invokingState);
+	}
+	// @Override
+	public get ruleIndex(): number { return FateCodeParser.RULE_decideBlock; }
+	// @Override
+	public enterRule(listener: FateCodeListener): void {
+		if (listener.enterDecideBlock) {
+			listener.enterDecideBlock(this);
+		}
+	}
+	// @Override
+	public exitRule(listener: FateCodeListener): void {
+		if (listener.exitDecideBlock) {
+			listener.exitDecideBlock(this);
+		}
+	}
+	// @Override
+	public accept<Result>(visitor: FateCodeVisitor<Result>): Result {
+		if (visitor.visitDecideBlock) {
+			return visitor.visitDecideBlock(this);
+		} else {
+			return visitor.visitChildren(this);
+		}
+	}
+}
+
+
+export class ChooseBlockContext extends ParserRuleContext {
+	public CHOOSE(): TerminalNode { return this.getToken(FateCodeParser.CHOOSE, 0); }
+	public string(): StringContext {
+		return this.getRuleContext(0, StringContext);
+	}
+	public statement(): StatementContext[];
+	public statement(i: number): StatementContext;
+	public statement(i?: number): StatementContext | StatementContext[] {
+		if (i === undefined) {
+			return this.getRuleContexts(StatementContext);
+		} else {
+			return this.getRuleContext(i, StatementContext);
+		}
+	}
+	constructor(parent: ParserRuleContext | undefined, invokingState: number) {
+		super(parent, invokingState);
+	}
+	// @Override
+	public get ruleIndex(): number { return FateCodeParser.RULE_chooseBlock; }
+	// @Override
+	public enterRule(listener: FateCodeListener): void {
+		if (listener.enterChooseBlock) {
+			listener.enterChooseBlock(this);
+		}
+	}
+	// @Override
+	public exitRule(listener: FateCodeListener): void {
+		if (listener.exitChooseBlock) {
+			listener.exitChooseBlock(this);
+		}
+	}
+	// @Override
+	public accept<Result>(visitor: FateCodeVisitor<Result>): Result {
+		if (visitor.visitChooseBlock) {
+			return visitor.visitChooseBlock(this);
 		} else {
 			return visitor.visitChildren(this);
 		}

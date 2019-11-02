@@ -27,7 +27,7 @@ target/linear.docx : remark
 	@cp cover/*.png md/
 	@cp cover/*.png target/
 	@$(DOCKER_RUN_WITH_DATA) --entrypoint "/data/bin/pandoc/linear.sh" $(PANDOC_IMAGE)
-	@$(DOCKER_RUN_WITH_DATA) jagregory/kindlegen /data/target/linear.epub
+#	@$(DOCKER_RUN_WITH_DATA) jagregory/kindlegen /data/target/linear.epub
 
 clean :
 	@find target -type f -and -not -name *.iml -delete

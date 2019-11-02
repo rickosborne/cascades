@@ -6,6 +6,6 @@ export class FateCodeComment extends FateCodeStatement {
 	}
 
 	public toString(indent: string = ''): string {
-		return `${indent}// ${this.text}`;
+		return `${indent}${this.text}`;
 	}
 }

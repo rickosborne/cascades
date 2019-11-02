@@ -6,7 +6,9 @@ import {FateCodeLexer} from "../grammar/FateCodeLexer";
 import {
 	AddressExprContext,
 	AnchorExprContext,
+	ChooseBlockContext,
 	CommentContext,
+	DecideBlockContext,
 	FateCodeParser,
 	IdentifierContext,
 	JumpStmtContext,
@@ -48,6 +50,8 @@ import {FateCodeWhenLinkedBlock} from "./FateCodeWhenLinkedBlock";
 import {FateCodeWhenNumericBlock} from "./FateCodeWhenNumericBlock";
 import {lineFrom, wordAtLineAndPos} from "./StringUtil";
 import {FateCodeWhenLinkedConditionType} from "./FateCodeWhenLinkedConditionType";
+import {FateCodeChooseBlock} from "./FateCodeChooseBlock";
+import {FateCodeDecideBlock} from "./FateCodeDecideBlock";
 
 type Constructor<T> = Function & { prototype: T };
 
@@ -83,8 +87,19 @@ class FateCodeReader extends AbstractParseTreeVisitor<FateCodeSourceNode> implem
 		);
 	}
 
+	public visitChooseBlock(ctx: ChooseBlockContext): FateCodeChooseBlock {
+		const option = coerce(FateCodeString, super.visit(ctx.string()));
+		const statements = ctx.statement().map(s => coerce(FateCodeStatement, super.visit(s)));
+		return new FateCodeChooseBlock(option, statements);
+	}
+
 	public visitComment(ctx: CommentContext): FateCodeComment {
 		return new FateCodeComment(ctx.text);
+	}
+
+	public visitDecideBlock(ctx: DecideBlockContext): FateCodeSourceNode {
+		const chooseBlocks = ctx.chooseBlock().map(cb => coerce(FateCodeChooseBlock, super.visit(cb)));
+		return new FateCodeDecideBlock(chooseBlocks);
 	}
 
 	public visitIdentifier(ctx: IdentifierContext): FateCodeIdentifier {

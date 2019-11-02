@@ -24,6 +24,9 @@ ADD : 'ADD' ;
 SUBTRACT : 'SUBTRACT' ;
 START : 'START' ;
 AT : 'AT' ;
+DECIDE : 'DECIDE' ;
+BETWEEN : 'BETWEEN' ;
+CHOOSE : 'CHOOSE' ;
 
 // Symbols
 
@@ -57,7 +60,7 @@ program : numberedStatement * EOF;
 
 numberedStatement : lineNumber ? statement ;
 
-statement : comment | trackNumericStmt | trackLinkedStmt | visitStmt | jumpStmt | whenNumericBlock | whenLinkedBlock | updateNumericStmt | linkStmt | returnStmt ;
+statement : comment | trackNumericStmt | trackLinkedStmt | visitStmt | jumpStmt | whenNumericBlock | whenLinkedBlock | updateNumericStmt | linkStmt | returnStmt | decideBlock ;
 
 comment : LineComment ;
 
@@ -94,3 +97,7 @@ trackNumericStmt : TRACK NUMERIC identifier ( START AT number ) ? ;
 trackLinkedStmt : TRACK LINKED identifier ;
 
 updateNumericStmt : UPDATE NUMERIC identifier ( ADD | SUBTRACT | TO ) number ;
+
+decideBlock : DECIDE BETWEEN chooseBlock + END DECIDE ;
+
+chooseBlock : CHOOSE string statement + ;
