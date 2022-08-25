@@ -13,7 +13,7 @@ Sometimes it's because they're sick, sometimes it's because they're no longer le
 
 I get a call, which I have to return in under 15 minutes, and I have to be at the airport and ready to go in under two hours. 
 More often than not they want me there even faster than that. 
-Sometimes I get called into an airport because weather is going crazy and it's almost a sure thing that at least a few other crew won't be legal to finish their line after they land. 
+Sometimes I get called into an airport because weather is going crazy, and it's almost a sure thing that at least a few other crew won't be legal to finish their line after they land. 
 I might sit in a chair, reading my textbook, for four hours before I'm told to go back home, or told to catch a shuttle to a nearby airport because I'm finally needed elsewhere.
 
 Reserve isn't something everyone can handle. 

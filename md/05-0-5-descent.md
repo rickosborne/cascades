@@ -3,16 +3,17 @@
 I was in the First Class galley when the tail of the plane exploded.
 
 You don't have to see something like that happen to know that it did. 
-When there's a sudden loud booming noise that reverb-fades into a howling wind just before your ears pop and you find that you can't breathe too-cold air, well, what else could have happened?
+When there's a sudden loud booming noise that reverb-fades into a howling wind just before your ears pop, and you find that you can't breathe too-cold air, well, what else could have happened?
 
 The ground fell away from my feet and the bulkhead rushed sideways to meet my face. 
 I got my arms up in time, but I felt something snap in my right forearm before it stopped feeling anything. 
 A second later and someone was screaming into my ear.
 
-"Lily!  Are you okay?"
-My brain was working in reverse and I knew it was a she who was shaking me before I could come up with a name or face. 
+"Alex!  Are you okay?"
+My brain was working in reverse.
+I knew it was a woman who was shaking me before I could come up with a name or face. 
 Pamela. 
-"Are? You? O? Kay?"
+"Are‽ You‽ O‽ Kay‽"
 Each syllable was its own question, punctuated with another shake, underlined with a jolt up my right arm.
 
 I struggled to pull frozen razor-blade air into my lungs.
@@ -20,7 +21,8 @@ I struggled to pull frozen razor-blade air into my lungs.
 "Yeah. 
 I'm here."
 
-I'd barely gotten the first word out before she'd let me go and I heard the PA crackle to life. 
+I'd barely gotten the first word out before she'd let me go.
+I heard the PA crackle to life. 
 It was only then that I noticed the steady increase in screaming. 
 People were waking up to not being able to breathe and everyone around them screaming. 
 What else were they going to do?
@@ -36,7 +38,7 @@ Air would be good.
 
 Pamela's voice was in my ear again instead of the over PA.
 
-"Lily, I need your help!"
+"Alex, I need your help!"
 
 She was manhandling me. 
 Doing something to my head.
@@ -44,14 +46,14 @@ Doing something to my head.
 A blast of stale something hit my face and the brain fog cleared. 
 Pamela was standing over me, ridiculous mask over her face, trying to wedge an elastic strap between my lolling head and the carpet.
 
-"Lily!  Come on, girl!"
+"Alex!  Come on!"
 
 "I'm here."
 I shook my head to try to clear more cobwebs, but that made my vision go red. 
 "I'm here."
 
 "Can you stand?
-Can? You? Stand?"
+Can‽ You‽ Stand‽"
 
 I closed my eyes, not wanting to think about how much this was going to hurt.
 
@@ -66,7 +68,7 @@ Pamela was waving a small oxygen tank in front of me.
 I was almost thinking straight again and realized the bottle was connected to my own mask. 
 She had another bottle in her hands. 
 She'd gotten the kits from storage and had thought to make us both portable, all while I was recovering from my introduction to the wall. 
-Holy cow, this woman had her stuff together.
+Damn, this woman had her stuff together.
 
 "Yeah," and I took it from her, swapping to my left hand after lightning bolts shot up my right from the effort of gripping the tank.
 
@@ -95,7 +97,7 @@ Oh well.
 
 "KEEP YOUR MASK ON.
 CROSS YOUR ARMS," I performed the maneuver as best I could with one shoulder glued to the bulkhead though it didn't seem like anyone was watching, "AND BEND TO PUT YOUR HEAD ON YOUR KNEES."
-Heads ducked out of view and some of the screams were muffled. 
+Heads ducked out of view and some screams dropped to muffled wailing. 
 "ARMS CROSSED. 
 HEAD ON YOUR KNEES."
 
@@ -110,7 +112,7 @@ Her free hand waved toward the passengers.
 I stretched out my right arm—I was now sure that wrist was fractured as it screamed at me when I tried to bend it—toward Pamela. 
 We locked elbows, reached for the back of the first row of seats, and hauled ourselves what felt like uphill.
 
-As we passed each row we forcibly rolled people into crash positions. 
+We forcibly rolled people into crash positions as we passed each row. 
 Some passengers didn't have masks, and they didn't stir when we pulled their masks on for them. 
 I had a moment when I wanted to stop and shake them, but Pamela's steady tug on my elbow kept me moving.
 
@@ -129,16 +131,18 @@ I could see sky through it.
 I can't describe it, because I couldn't wrap my head around it. 
 What was supposed to be there—rows of seating, people, overhead shelves with carry-on bags—was instead a dark and cloudy sky.
 
-Pamela didn't stop, but my arm went slack and we unlinked. 
+Pamela didn't stop, but my arm went slack as we unlinked. 
 I watched her continue down the rows, unaffected by the sight.
 
 My knees gave out a second time and hit the deck. 
-The pitch rolled me back against the divider and I couldn't do anything but sit there.
+The pitch rolled me back against the divider.
+I couldn't do anything but sit there.
 
 I could feel my heart working faster and faster in my chest until the sound of my pulse in my ears drowned out even the shriek of the wind.
 
-My fingers went numb and I lost what little grip I had on the divider. 
-I tried to bring my hands to my now-pounding temples, but they were uncontrollable weights on the ends of arms that were now too long and unwieldy to control.
+My fingers went numb.
+I lost what little grip I had on the divider. 
+I tried to bring my hands to my now-pounding temples, but they were uncontrollable weights on the ends of arms that were now too long and unwieldy to move.
 
 The buzzing, percussive pounding in my head built until I didn't think I could stand it and my eyes lost focus as I stared at the ceiling.
 
@@ -146,4 +150,3 @@ I couldn't even form enough coherent thought to wonder what was happening to me.
 I was dying. 
 We were all dying. 
 What else was there?
-

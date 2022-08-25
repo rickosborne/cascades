@@ -12,11 +12,11 @@ I thought it would help me connect with the people in row 27.
 I also considered that someone in 26 could have slid a bomb under their seat and kicked it backwards to 27.
 
 The three ladies in 26 have different last names, but I've seen them chatting and comfortable with each other.
-The manifest lists them as Lydia Horne in 26A, Abigail Tremont in 26B, and Katherine Montgomery in 26C.
+The manifest lists them as Lydia Horne in A, Abigail Tremont in B, and Katherine Montgomery in C.
 Each of them seems to be somewhere in their late forties, or maybe early fifties.
 
 Row 27 is easier: the businesswoman in 27A is Irene Peters, while both the father and son are listed as Harold Grant, presumably Junior in 27B and Senior in 27C.
-Harold Jr. looks to be several year older than me, probably early thirties.
+Harold Jr. looks to be several years older than me, probably early thirties.
 Harold Sr. looks very good for his age—I would have guessed mid-forties if his son hadn't been sitting next to him, but early fifties was more likely.
 
 The departure clock in the First Class galley showed 10:20 as I headed back to Coach.
@@ -72,7 +72,7 @@ I stepped to 27 and addressed Harold Jr. and Irene.
 
 "Anything for you two?"
 
-Junior had overheard at least some of the conversation as he was shaking his head at the ladies in 26.
+Junior had overheard at least a bit of the conversation as he was shaking his head at the ladies in 26.
 He put his magazine into the back of the seat in front of him, careful not to disturb Abby.
 
 "Actually, an extra blanket sounds good," he said.
@@ -80,7 +80,7 @@ He put his magazine into the back of the seat in front of him, careful not to di
 I pulled one from the storage closet and passed it to him.
 He unfolded it and draped it across his father.
 The older man stirred but did not wake.
-It was a very sweet gesture and I gained a more genuine smile than I've had in a while.
+It was a very sweet gesture, and I gained a more genuine smile than I've had in a while.
 
 "Ms. Peters?
 Anything for you?"
@@ -102,20 +102,20 @@ I hope I won't be up too much longer, but thank you."
 I couldn't tell her that she was wrong, nor could I think of anything else to say, so I nodded and walked back to the galley.
 
 It wasn't the most fruitful of exercises.
-I didn't get any more back story on any of them.
+I didn't get any additional back-story on any of them.
 If I'm being generous I'd say that I got a few insights into their personalities that might make it easier to tack on future memories.
 But that's a stretch.
 
 _I'll get more in the next loop._
 
-It occurs to me that I'm a few hours into loop three.
-That means I've been at this for something like 24 hours straight already.
+It occurred to me that I was a few hours into loop three.
+That means I'd been at this for something like 24 hours straight already.
 My headache and appetite continue to grow, but my alertness and fatigue seem to reset with each loop.
 Well, for the most part, anyway.
 
 It's a vague inkling right now, but I have the sense that it's getting harder to keep a train of thought.
-With all of the input I'm trying to keep track of, and juggling and sorting three and four versions of the same events, I guess I shouldn't be surprised that I'm distracted.
+With all the input I'm trying to keep track of, and juggling and sorting three and four versions of the same events, I guess I shouldn't be surprised that I'm distracted.
 
-For now I'm going back to my consideration of sight lines.
+For now, I'm going back to my consideration of sight lines.
 
 I grabbed some aspirin from the galley and settled into my jump seat to wait out the weather.

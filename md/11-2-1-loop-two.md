@@ -1,6 +1,8 @@
+# Service Cart. Again.
+
 I gasped and fell to my knees as the pressure in my head vanished.
 
-The sound of breaking glass and the sugary smell of cheap rum were followed by Terry's exclamation of "Lily!"
+The sound of breaking glass and the sugary smell of cheap rum were followed by Terry's exclamation of "Alex!"
 
 The pressure may have gone, but I still couldn't quite focus.
 I shook my head to clear out the cobwebs.
@@ -51,7 +53,8 @@ And let's be honest: the HDA fleet wasn't shiny and new.
 
 In the first iteration of the loop the explosion had happened around 6:45 Eastern.
 In the second it was around 4:15—two and a half hours earlier.
-What changed?
+
+_What changed?_
 
 Wait, if it changed … that means it probably wasn't mechanical failure or weather related.
 It was intentional.
@@ -61,7 +64,8 @@ Of course it was intentional!_
 
 I saw _Airport_ with my grandparents when it came out a few years ago.
 My grandmother had been so excited to see a movie about air travel.
-I had asked her how realistic it was and she had waggled her hand at me.
+I had asked her how realistic it was.
+She had waggled her hand at me.
 
 "It is and it isn't."
 
@@ -77,7 +81,7 @@ But we can always tell if they are up to no good."
 
 I had been dubious at the time, and I don't know if my experience as a flight attendant had changed that opinion.
 Yes, we saw so many travelers that we did begin to get a sense for troublemakers or people who needed an extra comforting smile.
-I'd also handled my fair share of drunk and rowdy passengers—I'd learned how to handle them in my time as a waitress and bartender.
+I'd also handled my fair share of drunk and rowdy passengers—I'd learned how to handle them in my time as a server and bartender.
 But I had never been faced with someone like that bomber: someone who wanted to harm himself or others.
 
 Had I seen anyone acting suspicious enough that I thought they could be capable of trying to blow up the airplane?
@@ -156,7 +160,7 @@ Like you said, rum will just keep people awake."
 Terry nodded in agreement.
 "Bloody Marys."
 He leaned across the cart, conspiratorial.
-"I think the tomato mix is on it's way out, anyway."
+"I think the tomato mix is on its way out, anyway."
 
 "I was thinking the same thing," I said, holding up the replacement bottles of vodka and dropping them into place on the cart.
 

@@ -6,7 +6,7 @@ There was no way for me to get her purse—it was on the floor between her feet,
 
 Harold Sr. was not thrilled that I woke him when I saw Irene nod off.
 I whispered into his ear that it was an emergency and asked him to follow me, quietly.
-His eyes got big but he pushed himself out of his seat without a word.
+His eyes got big, but he pushed himself out of his seat without a word.
 
 "Mr. Grant, I need your help," I told him in a low voice when we got back to the exit door.
 "We have a situation with the woman who is sitting in your row.
@@ -14,7 +14,7 @@ We believe she may have an explosive device in her purse."
 
 If possible, his eyes got even wider.
 
-"You can't be serious," he said.
+"You can't be serious," he said, his voice dry and cracking.
 
 "Unfortunately I am, sir."
 
@@ -92,12 +92,12 @@ As much as I wanted to upend the purse into the sink, I knew it would make too m
 The clocks behind the purse read 2:18 and 5:18.
 
 The items were completely normal: a compact mirror, a tube of lipstick, a travel-sized box of tissues, a wallet, several pens, an eyeliner pencil and sharpener, a checkbook and ledger, two tampons, a bag of peanuts, and some loose change.
-The lipstick was in the same merlot as her shirt, while the compact had a powder base just a shade darker than her pale skin tone.
+The lipstick was in the same merlot as her top, while the compact had a powder base just a shade darker than her pale skin tone.
 Her wallet had her identification, Irene Peters of Macon, Georgia, which matched up to the address on her personal checks.
 The ledger for the checkbook had only a single entry with a payee of "Groceries".
 
 It occurred to me that we hadn't given out peanuts on this flight, we'd given out cookie wafers.
-The bag of peanuts had a label for Bering World Wide Airlines, which I guessed offered flights in and around Alaska.
+The bag of peanuts had a label for Bering World-Wide Airlines, which I guessed offered flights in and around Alaska.
 
 "I don't see anything," Harold Sr. said.
 "What does that mean?"
@@ -113,14 +113,15 @@ One was empty, but the other held an expensive-looking pen in black and gold.
 
 Using the pens from the main compartment, I wrote the word "loop" with each onto the napkin.
 I flipped open the checkbook ledger and saw the ink and stroke didn't match any of those pens.
-I switched to the expensive fountain pen with the screw top and it matched perfectly.
+I switched to the expensive fountain pen with the screw top.
+It matched perfectly.
 
 "That's odd, don't you think?" I asked Harold Sr.
 
 "What?"
 
 "When I'm at the grocery store, if I pay with a check I probably will use whatever pen they have at the cash register.
-If not, I'm going to take a pen out of my purse at the same time I take out my checkbook.
+If not, I'm probably going to have a pen in that little loop in the checkbook.
 And I would never use an expensive fountain pen instead of a ballpoint.
 Fountain pens are slow and messy, for birthday cards and letters, not for paying for groceries."
 
@@ -132,7 +133,7 @@ Something else began to slide out, but I rotated the case to keep it inside.
 His curiosity got the better of him and he did so immediately.
 I turned the pen casing to let its contents slide into his outstretched palm.
 
-On Harold's hand sat a small aluminum tube, about the length of one of Harold's long fingers, and as big around as my pinky.
+On Harold's hand sat a small aluminum tube, about the length of one of Harold's long fingers, and as big around as a pinky.
 It had a screw-cap on one end that looked almost identical to the screw caps on our single serve liquor bottles.
 
 "What is that?" Harold asked.
@@ -140,7 +141,8 @@ It had a screw-cap on one end that looked almost identical to the screw caps on 
 "I have no idea," I responded, "but we need to know if it's the detonator."
 
 I picked the tube out of his hand and gingerly unscrewed the cap, half-expecting to hear the familiar boom of explosion.
-The cap released and I lifted it away from the tube to reveal a small white button surrounded by black plastic.
+The cap released.
+I lifted it away from the tube to reveal a small white button surrounded by black plastic.
 
 "Sweet Jesus," Harold exhaled.
 
@@ -148,6 +150,7 @@ The cap released and I lifted it away from the tube to reveal a small white butt
 
 "Put the top back on.
 Please."
+His voice was shaky.
 
 But I only half heard him.
 Staring at the button I realized that the black plastic around it wasn't just an edge—it had markings on it and a cut-out arc through which showed a tiny sliver of red plastic below.

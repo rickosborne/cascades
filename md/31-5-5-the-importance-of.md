@@ -11,10 +11,10 @@ I stood up and stared at him, extending my hand as if to present the Smoking sec
 "Right this way, sir," I said for the audience.
 
 One look at Mary told me all that I needed to know.
-There was no rise and fall of her blankets as she breathed.
+There was no rise and fall of her blankets.
 I let my gaze linger on her, then over to Ernest, to underline the situation.
 
-It was detente, our own little Cold War right there in the aisle.
+It was détente, our own little Cold War right there in the aisle.
 Except that no one else could see the growing anger on his face, and what they could see of mine looked as pleasant as ever.
 
 He unbuckled and rose, hunching to avoid the overhead.
@@ -26,11 +26,12 @@ She was pale, staring at us as we passed.
 "I need to chat with Mr. Dearborn,"
 I said to her, escorting him past to the forward exit.
 "Can you make sure we're not disturbed?"
+
 It meant the First Class passengers just waking up would have to use the Coach lavatories.
 Pamela frowned, but I kept walking and didn't give her the opportunity to object.
 
 Dearborn spun on his heel as we approached the exit, leaning in to intimidate me.
-In my heels I was just as tall as him, if not quite as wide.
+I was almost as tall as him, if not quite as wide.
 I didn't flinch.
 
 "What the—"
@@ -65,7 +66,8 @@ The color drained out of him as he fell back against the wall.
 It was my turn to point an accusatory finger.
 "What's worth killing people for?"
 
-His eyes looked like they would pop out of his sockets and he began to choke, sobbing.
+His eyes looked like they would pop out of his sockets.
+He began to choke, sobbing.
 
 "You can't … how … I had to …"
 

@@ -3,7 +3,8 @@
 Beverage service was interesting.
 
 Terry was distracted, disengaged from what he was doing.
-This was the fifth time I'd worked with him on this service and I'd gotten used to hearing his lip service about Bloody Marys.
+This was the fifth time I'd worked with him on this service.
+I'd gotten used to hearing his lip service about Bloody Marys.
 This time there was none and except for taking orders he worked almost in silence.
 This threw off our alcohol balance, twice causing him to go back to the galley to restock.
 
@@ -18,7 +19,9 @@ I found it tough to talk my way around the things I couldn't possibly know, from
 
 We continued as normal until the weather cleared, at which point I walked up to the cockpit and explained the plan to the others.
 Two things were unanimous and clear.
+
 First, no one liked the plan.
+
 Second, no one could come up with anything better.
 
 The clocks read 1:15 and 4:15 as I started my walk back to Coach.
@@ -28,10 +31,11 @@ I saw that Mary was still breathing, slow and deep.
 Jim Duchesne was already asleep, leaving Irene as the only other person awake in Coach.
 She didn't look up as I passed her.
 
-The minutes ticked by and I started making coffee, adding some cold water at the end to reduce the temperature from scalding to uncomfortable.
+The minutes ticked by.
+I started making coffee, adding some cold water at the end to reduce the temperature from scalding to uncomfortable.
 Terry and I stood together in the galley, watching the clocks.
 
-We hit twenty-five after and Terry announced, just a little too loud, "I'm going to take some coffee to Pamela and then I'm going to go on break."
+We hit twenty-five after and Terry announced, just a little too loud, "I'm going to take some coffee to Pamela, and then I'm going to go on break."
 
 "Sounds good," I said.
 "I've got things back here."
@@ -48,7 +52,8 @@ You look like you're going to be up for a while?"
 "Oh, you're so sweet," she said, reaching for the cup.
 
 I moved to meet her half-way, but released the cup a fraction of a second too soon, just over her leg.
-The cup tumbled in the air and she almost caught it, but it hit her thigh and splashed coffee in a wide spray.
+The cup tumbled in the air.
+She almost caught it, but it hit her thigh and splashed coffee in a wide spray.
 
 She started, seizing the cup before it could flip and spill even more liquid across her.
 
@@ -97,7 +102,7 @@ I stood back up to face her.
 "I need to get this out before it's too late.
 You're shorter than me, but not by much."
 I was also stockier and at least two sizes larger, but there was no need to say aloud what we could both see.
-"I have a blouse and pants in my carry-on that you can change into while I wash these for you.
+"I have a shirt and pants in my carry-on that you can change into while I wash these for you.
 I can even dry them in an oven and have you back in them before we land."
 
 "There's no need for that," she said.
@@ -112,7 +117,7 @@ Here," I pointed to the galley wall by the exit door, "my bag's stored over ther
 I stepped around her and to the wall, keeping her attention toward the back of the aircraft.
 She continued to protest but I waved her off.
 
-"No, that's a very nice top and I refuse to have it ruined because I'm clumsy.
+"No, that's a very nice top, and I refuse to have it ruined because I'm clumsy.
 My bag is in here—"
 
 I didn't get to finish, which was good because I was running out of ideas.
@@ -121,29 +126,30 @@ Terry stepped in behind Irene.
 He had his apron twisted into a thick cord, which he threw over Irene's head and into her mouth, cutting off her ability to scream.
 His eyes were wide, terrified of what he was doing.
 
-Irene's head fell back and she flailed her arms around, looking for purchase on the smooth walls and closet door.
+Irene's head fell back.
+She flailed her arms around, looking for purchase on the smooth walls and closet door.
 
 Pamela stepped around Terry and grabbed for Irene's arm.
 In a calm voice meant to be soothing she said, "We're not going to hurt you, Irene, but we can't let you hurt ev—"
 
 In a blur of motion, Irene kicked off the wall and knocked Terry off balance into Pamela.
-The apron came out of her mouth and she hissed something gutteral in a language I didn't understand.
+The apron came out of her mouth as she hissed something guttural in a language I didn't understand.
 Her hands found the apron, now around her neck, and yanked it free of Terry's grip as he struggled to stay upright.
 
 "Idiots!" Irene spat at us, her Southern accent gone, replaced by something vaguely European.
 "Amateurs!"
-She clamped both of her hands around one of Pamela's wrists and twisted, wrenching Pamela's arm and forcing her to hunch over to relieve the pressure.
+She clamped both of her hands around one of Pamela's wrists and twisted, wrenching the attendant's arm and forcing her to hunch over to relieve the pressure.
 Irene dropped into a rotating squat, spinning Pamela back into Terry, who had just managed to regain his balance.
 The flight attendants tumbled into a mass of limbs on the floor in front of the galley.
 
-As Irene turned her back to me I dove at her, intending to wrap my arms around hers and keep her on the ground until the other two could get up.
+As Irene turned her back to me, I dove at her, intending to wrap my arms around hers and keep her on the ground until the other two could get up.
 She must have anticipated my move as she rolled away just enough out of range that I couldn't get purchase on her as I slammed into the wall.
 My head snapped back and I saw only red.
 
 When my vision cleared I felt a pressure on my neck.
 My eyes opened to find Irene standing above me, one high-heeled foot planted solidly below my jaw.
 
-"If you move," she snarled at Terry and Pamela who were pulling themselves to their feet, "I will break her neck."
+"If you move," she snarled at Terry and Pamela who were pulling themselves to their feet, "I will break your friend's neck."
 
 It was the weirdest thing.
 I didn't dare to move, and even attempted to control my breathing.
@@ -197,14 +203,15 @@ Her blade bobbed and indicated the back of the galley, so the two moved back aga
 
 "Forward," she said to me, relaxing her grip.
 
-I turned to walk forward and she let my neck spin in her hand.
+I turned to walk forward, and she let my neck spin in her hand.
 I felt something cool press against my skin just below her thumb and got the hint.
 She clamped down again to let me know to move.
 
 "Stay," I heard her hiss to the others.
 
 We walked slowly, a step at a time up the aisle.
-I moved to draw aside the curtain to Smoking and she shifted her grip to crush my windpipe.
+I moved to draw aside the curtain to Smoking.
+She shifted her grip to crush my windpipe.
 
 "Stop," she whispered.
 "The briefcase.
@@ -278,7 +285,7 @@ Hoping they were unlocked, I tried to open them, to no avail.
 
 Irene saw and poked the knife back to the far corner of the galley.
 I stepped back, putting my hands between us again.
-In this position my palm leaked rivulets of hot blood down my wrist, creeping up my blouse sleeves to my elbow.
+In this position my palm leaked rivulets of hot blood down my wrist, creeping up my sleeves to my elbow.
 
 Irene stabbed at one of the locks and twisted.
 There was a pop and the cheap clasp snapped open.
@@ -297,15 +304,15 @@ I picked up a folder from Dearborn's case and was about to put it on top of the 
 Remove those first," she said, pointing at the folders in her own case.
 
 Putting the banded folder back into the cheap case, I did as she instructed, emptying the contents of her case into the galley sink.
-With the cases and the ridiculously small space since the galley, there wasn't much room.
+With the cases and the ridiculously small space in the galley, there wasn't much room.
 The procedure involved quite a bit of jockeying and juggling before I had everything cleaned out of the larger case.
 
 I picked up the banded folder and paused to ask, "okay?"
 
 She nodded, not saying anything.
 
-The banded folders took up an even smaller portion of her oversized case.
-I transferred all of the files, then pointed at the original group of files in the sink.
+The banded folders took up an even smaller portion of her over-sized case.
+I transferred all the files, then pointed at the original group of files in the sink.
 
 "Those, too?"
 
@@ -389,7 +396,8 @@ Irene went limp.
 I gave her a three count to start struggling again before unlocking my leg and rolling away from the door.
 Every shift of my wound was an agony as the blade twisted and scraped against bone.
 
-My jaw started to ache and I realized I was grinding my teeth, breathing in gasps through taut lips.
+My jaw started to ache.
+I realized I was grinding my teeth, breathing in gasps through taut lips.
 I made the mistake of looking at my leg.
 It was covered in blood that ebbed and flowed in time with my racing pulse.
 I retched and squeezed my eyes closed when I saw the knife's pearl butterfly handle twitching to the same beat.
@@ -414,7 +422,7 @@ I jerked my head back toward the passengers and reached my arms above me.
 
 Harold Sr. nodded and wrapped his arms around mine, grabbing me below the elbows.
 I matched his grip, feeling considerable muscles flex to take my weight.
-He started dragging and the motion of my leg whited out my vision, catching a scream in my throat.
+He started dragging and the motion of my leg fuzzed out my vision, catching a scream in my throat.
 
 "Terry!"
 I snapped.

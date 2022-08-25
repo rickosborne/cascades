@@ -31,7 +31,7 @@ With the wall where it is, I'd have to be standing almost in line with row 27 to
 
 I can't see it from the front, either.
 The curtain separating Smoking from Non is a brown and gold number heavy enough to keep most smoke out but sheer enough to be able to see general outlines on the opposite side.
-The 707 doesn't have the mid-body galley that some of the 747 builds use, so there isn't anywhere to stand between the fore and aft galleys where I wouldn't look conspicuous.
+The 707 doesn't have the mid-body galley that some 747 builds use, so there isn't anywhere to stand between the fore and aft galleys where I wouldn't look conspicuous.
 
 I've got two and a half hours before we're clear of the weather.
 In that time I need to come up with a way to see what someone doesn't want me to see.

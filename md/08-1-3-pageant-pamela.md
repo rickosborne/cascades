@@ -6,9 +6,7 @@ There's a reason I've always seen her work First Class, and for once it has noth
 
 In my mind, Pamela's full name is Pageant Pamela.
 I don't think I even know her last name, though I admit I must have seen it on a manifest at some point.
-It doesn't matter, because her real last name is immaterial.
-Pageant Pamela.
-That's who she is, and anyone who met her would come to the same conclusion.
+I should ask, or otherwise she'll just always be Pageant Pamela.
 
 To be clear, I name her this out of respect, awe, appreciation, and no small amount of jealousy.
 
@@ -33,10 +31,6 @@ When I say Pamela made it look effortless what I mean is that I'd never seen her
 I, on the other hand … where to begin?
 
 Look, I know I'm not bad on the eyes, but nor am I even in the same league as Pamela.
-
-When I'm not hunched over a book I hit a respectable five-seven in my work heels.
-I don't fill out my uniform in the same statuesque proportions—I feel like I have weak, round shoulders and my waist doesn't hourglass inwards inasmuch as drop straight down from bust to hips.
-The straight black hair I got from my father, or so I'm told, is thick and straight enough that I can do a very professional braid or bun that will stay under control for all but the longest of flights without giving me a driving headache.
 
 If I'm honest, I know I'm to the left side of the mean on the flight attendant curve.
 I didn't get the job because I'm the fairest of them all.

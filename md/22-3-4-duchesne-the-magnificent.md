@@ -19,13 +19,13 @@ He didn't say anything to me, but paused expectantly, leaning against the bulkhe
 "What do you mean?"
 His brow furrowed at the unexpected question.
 
-"I've seen the," I paused and looked back toward the tail, "schedule you keep.
+"I've seen the, um," I paused and looked back toward the tail, "schedule you keep.
 I didn't know if there was anything I could do to make your flight easier.
 Something for your stomach, perhaps?"
 
 He frowned, though after a moment I realized it wasn't directed at me.
 
-"No, missy, there's nothing you can do.
+"No, thank you, there's nothing you can do.
 It's just the same problem any old man has.
 I shouldn't have had so much to drink—it certainly didn't help."
 
@@ -48,7 +48,7 @@ I reached for it out of habit.
 "I can take care of—"
 
 By the time my hand touched his the bottle was gone.
-I was watching the whole time and I have no idea how he did it.
+I was watching the whole time, and I had no idea how he did it.
 One moment it was there and the next there was nothing but air.
 
 My hand dropped back to the counter top.
@@ -147,7 +147,7 @@ We got his seat reclined and his pillow how he wanted.
 I tucked his blanket around his shoulders for him.
 
 "Sleep tight, Jim.
-Wake up call is in just a few hours."
+Wake-up call is in just a few hours."
 
 He nodded and closed his eyes, head rolling to the side moments later.
 The poor guy—I really hadn't meant to keep him on his feet for twenty minutes.

@@ -4,12 +4,12 @@ Terry brought the lights up on schedule while I started up both coffee machines.
 Between the lights, activity, and caffeinated aroma, most passengers were already awake by the time Captain Lawrence got on the PA.
 
 "Good morning everyone and welcome to Florida.
-We hope you got some good sleep through last night's weather—we did our best to keep it smooth.
+We hope you got some good sleep through last night's storms—we did our best to keep it smooth.
 We're a half-hour out from Miami International, where the weather is clear and the locals think it's cold at 72 degrees."
 
 That earned him sleepy chuckles which probably woke up a few more passengers.
 
-"The high for today is 80 and we're looking at beautiful sunny weather all day.
+"The high for today is 80, and we're looking at beautiful sunny weather all day.
 We're going to start our descent in about fifteen minutes."
 
 The Coach galley arrival clock read 6:35.
@@ -21,7 +21,7 @@ The line picked up when everyone had heard the announcement Lawrence had just gi
 Sure enough, a half-dozen passengers had gotten up and started filing back towards me.
 
 Instead of running coffee and other beverages this time, I left that up to Terry.
-I told him I'd make drinks for him while also keeping the lavatory line in order.
+I told him I'd make drinks for him, while also keeping the lavatory line in order.
 He'd looked dubious but hadn't argued.
 
 I wanted to be back in the galley when it happened.
@@ -30,10 +30,10 @@ It would give me the best view of events, which I hoped would lead to some sort 
 For every person who left the lavatories and squeezed their way out past the line, another person got out of their seat and kept the queue from shrinking.
 Without realizing how much time had passed, I looked up to find the business-suited man in front of me.
 
-"Excuse me, miss," he said in a voice that went from normal volume to a whisper.
-"Lily.
+"Excuse me," he said in a voice that went from normal volume to a whisper.
+"Alex.
 I was wondering if you could do me a favor."
-He stepped into the galley with me, a tight enough fit when I know the other person.
+He stepped into the galley with me, a tight enough fit even when I know the other person.
 
 I knew what he wanted, but I had to let it play out.
 It took an act of will to not look at the clocks to mark the time, which might have been misinterpreted by the man.
@@ -65,7 +65,7 @@ He looked like he wanted to say something, but thought better of it and squeezed
 
 In loop zero it had taken me a few minutes to finish delivering coffees and collecting trash before I had been able to walk up front.
 I continued to organize the now-dwindling line, keeping my eyes on everything around me.
-I watched each passenger as they walked into a lavatory, as they exited again, and as they walked past rows 25 through 27, the rows hit hardest in the previous loops.
+I watched each passenger as they walked into a lavatory, as they exited again, and as they walked past rows 27 through 25, the rows hit hardest in the previous loops.
 
 Nothing interesting happened.
 
@@ -73,7 +73,7 @@ Terry continued to walk the aisle, garbage bag now in hand, collecting used coff
 
 The father and son in row 27 chatted between yawns.
 
-The businesswoman, now wrapped in her avocado green coat which I had retrieved for her an hour ago, again had her briefcase on her lap and was sorting through its stack of papers.
+The businesswoman, now wrapped in her avocado green coat, which I had retrieved for her an hour ago, again had her briefcase on her lap and was sorting through its stack of papers.
 
 Suit-and-towel man stepped forward as the line continued to move, looking down at the ground between his feet.
 
@@ -85,8 +85,8 @@ He stepped into the galley and raised an eyebrow at me.
 "Is everything all right?" he asked.
 "Still not feeling well?"
 
-I realized that I had a death grip on the edge of the countertop and my eyes were darting all over the place.
-I must look like a crazy person.
+I realized that I had a death grip on the edge of the counter top and my eyes were darting all over the place.
+I must look on edge.
 
 "Yeah, I'm fine.
 It's just been a long flight."
@@ -99,7 +99,7 @@ The line cleared out, no one else joining after the businesswoman.
 She got her turn in the middle lavatory, but exited a moment after.
 She approached us and whispered something into Terry's ear.
 He frowned and nodded, heading back to check it.
-The suited man walked back to his seat somewhere around 20 on the port side, allowing the business woman to take his lavatory closest to the exit door.
+The suited man walked back to his seat somewhere around 20 on the port side, allowing the businesswoman to take the lavatory closest to the exit door.
 The young woman in paisley exited and returned to her seat in the Smoking section.
 
 Terry stepped back out of the middle door and beckoned me over.
@@ -133,7 +133,7 @@ The businesswoman stepped out of the far lavatory and saw us both standing there
 He split off at the galley and grabbed the PA mic.
 
 "Ladies and gentlemen I'll need you to please put up your tray tables and bring your seats to a full upright position.
-Please put out any cigarettes.
+Please extinguish any cigarettes.
 Make sure your safety belts are securely fastened.
 We'll be on the ground shortly."
 
@@ -146,9 +146,7 @@ He hung up the mic and turned back to me.
 We both moved forward into the aisle, Terry at a brisk walk and me more slowly, looking down each aisle and checking for belts and trays.
 Approaching passengers from the rear this time, we'd be able to catch people trying to get away with their tray tables down or their belts unfastened.
 
-Yes, I promise you we do know when you're doing it on purpose.
-
-The businesswoman was still getting into her seat, trying to wedge that oversized briefcase under the seat in front of her.
+The businesswoman was still getting into her seat, trying to wedge that over-sized briefcase under the seat in front of her.
 
 "Seatbelts please," I said in her direction.
 
@@ -162,7 +160,7 @@ I bounced off the back of 19C and landed hard on my elbows.
 My ears popped while also ringing.
 I could hear people screaming, but it sounded wrong and far away, mixing in with the howl of the wind.
 
-What did I miss?
+_What did I miss?_
 
 It happened again!
 And for no reason that I could see.
@@ -206,13 +204,13 @@ The rest of his face was white and had a sheen of perspiration.
 "Terry!" I screamed.
 "Come on!"
 
-I got a shoulder under him and we made it back to the galley.
+I got a shoulder under him, and we made it back to the galley.
 I leaned him against the counter and grabbed for the storage closet door.
 It was jammed, but a few kicks and yanks got it open.
 
 I grabbed two of the three dark green bottles from their shelf, along with the bright yellow masks tethered to them.
 I unraveled one, got the mask strap over my face, and got a blast of that stale metallic smell as I twisted the knob open wide.
-I did the same for Terry, though I had him hold his mask so I wouldn't have to drag elastic across that wound.
+I did the same for Terry, though I had him hold his mask, so I wouldn't have to drag elastic across that wound.
 
 The tail bucked beneath us, whipping Terry's head around.
 He didn't catch himself fast enough and his head slammed into a cupboard.
@@ -240,11 +238,12 @@ In a moment of inspiration, I flung open the door of the lavatory next to us and
 I pulled away the box of tissues that fit there, ripping open its cardboard and extracting the entire stack of paper.
 
 I moved back to Terry, stretched wide the elastic of his mask, and jammed the tissues between it and his face, positioning them along the wound.
-I pulled the elastic tight and he flinched, though he was still too dazed to put up a fight.
+I pulled the elastic tight, eliciting a flinch, though he was still too dazed to put up a fight.
 I hoped the tissues would help staunch the blood, but I wasn't sure.
 
 I pulled myself along the wall back to the galley and looked ahead at the passengers.
-Pamela's voice had stopped and I could see her walking back along the aisle toward me, pausing to push down people into crash positions.
+Pamela's voice had stopped.
+I could see her walking back along the aisle toward me, pausing to push down people into crash positions.
 
 I looked at the arrival clock: 6:58.
 
@@ -261,7 +260,7 @@ Her face fell and I followed her gaze.
 The pre-dawn lights of some city were passing beneath us, but they were wrong: they were sliding left to right instead of receding into the distance.
 The view was hypnotic in its impossibility.
 I wanted to stare at it to understand how such a thing could happen.
-I lost several seconds to it before a dark shape interrupted my view and I came back to myself.
+I lost several seconds to it before a dark shape interrupted my view, and I came back to myself.
 
 Pamela was still entranced.
 I pulled her close to me and spoke into her ear.
@@ -271,7 +270,7 @@ We need to get strapped in."
 She nodded and looked toward the rear.
 
 "We can't—I've got Terry strapped in back there."
-I didn't have to spell out the rest for her, that each jump seat station only had room for two.
+I didn't have to spell out the rest for her, that each jump seat station only had space for two.
 I wanted to go back and strap in next to Terry and make sure he was okay.
 Another part of me wanted to be as far away from that hole as I could get.
 That second voice won as Pamela and I moved as fast as we could back toward the cockpit.
@@ -280,12 +279,12 @@ As we stepped into First Class our world turned sideways.
 A loud crack and shriek of metal was accompanied by a shudder and the floor rolled out from under us.
 The passengers started screaming again as their carry-ons rained down on them from the shelves over their heads.
 
-Pamela fell into the arm rest of a seat and I fell on top of her, all while we continued to rotate.
+Pamela fell into the arm rest of a seat, then I fell on top of her, all while we continued to rotate.
 I rolled past her, over the heads of the passengers, and slammed into the starboard carry-on shelf, bags from the port shelf now falling on me as we passed ninety degrees.
 I threw a purse away from my face to see Pamela scrambling above me, desperate to gain purchase as we were almost upside down.
 She lost her grip, falling into the ceiling next to me.
 
-Her cheek struck a light fixture and her neck snapped to the side with an audible crack.
+Her cheek struck a light fixture and her face whipped to the side with an audible crack.
 I clung to the shelf, seeing her go limp and slide down toward the cockpit.
 I found myself screaming her name uncontrollably.
 
@@ -300,7 +299,7 @@ My headache intensified until I thought my head would split.
 
 _Hang on just a few more seconds._
 
-Even though debris continued to fall into me it felt far away.
+Even though debris continued to fall into me, it felt far away.
 I couldn't hear anything over the kettle drums in my head.
 
 _Just hang—_

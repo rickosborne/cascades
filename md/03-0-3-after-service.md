@@ -6,7 +6,7 @@ When you're used to being behind a bar keeping a half-dozen orders of far more c
 
 We stowed the cart and did one last pass through the cabin before Terry got on the PA.
 
-"Lily's coming through the cabin now to collect any leftover service items. 
+"Alex's coming through the cabin now to collect any leftover service items. 
 We're going to dim the lights so everyone can get some sleep. 
 There's going to be some weather in the next hour, so please be sure to buckle up before you nod off. 
 Good night, and see you tomorrow morning over Florida."
@@ -54,16 +54,16 @@ I've got this."
 
 In truth, I wasn't in the mood to go back to studying, but it wasn't worth discussing. 
 These overnighters could go either way. 
-Most any other flight would find me doing most of the flight work, as I almost always had less seniority than any of the other crew. 
+Most other flights would find me doing the bulk of the flight work, as I almost always had less seniority than any of the other crew. 
 Overnighters, however, were boring beyond belief. 
 For the next six hours or so, only a handful of passengers would be awake at any time, and their demands on the cabin crew would be minimal. 
 If Terry wanted something to do to pass the time, that was his right.
 
-In minutes I was buried back into Chapter 13, of something like 40. 
+In minutes, I was buried back into Chapter 13, of something like 40. 
 We weren't going to get through the entire book this semester, as the next course would cover the second half. 
 At least that's what the clerk in the bookstore had said to calm me down when I'd gotten emotional and loud about textbook prices. 
-I was a little behind—the final exam was in two weeks and I was supposed to have everything up to Chapter 20 under my belt. 
-The holidays had been good for my wallet with extra lines that no one else had wanted, but that extra flight time had meant less study time.
+I was a little behind—the final exam was in two weeks, and I was supposed to have everything up to Chapter 20 under my belt. 
+The holidays had been good for my wallet with extra lines that no one else had wanted, but that added flight time had meant less study time.
 
 Chapter 13 of "Algorithms and Architecture" was about caching, the idea that you could make the trade-off to use some fast but expensive memory to hold data that might be requested from slower but cheaper hard disk drives. 
 Caching seemed to me like something of a dark art: there was no way to guess exactly which data might be requested more often than others, making the most sense to cache, and which would just waste precious cache space.
@@ -74,10 +74,10 @@ I'd predicted poorly, so we'd lost a few minutes here and there to evicting stal
 
 The analogy wasn't perfect. 
 In a cache, accessing an item doesn't consume it like it did for our drink cart. 
-But it's close enough.
+But it was close enough.
 
 I liked that this chapter was easy enough to apply to my work. 
-Some of the other chapters were much less so. 
+Some other chapters were much less so. 
 I've yet to figure out how recursion, for example, could apply to anything in my job.
 
 I'd been rubbing at my temples for a while before I realized it. 
@@ -103,10 +103,10 @@ And it felt like it kept rolling around up there, unlike the stationary heartbea
 _It's the book, genius. 
 How many times has grandma told you not to read those tiny letters in this low light?_
 
-I could hear her voice, chiding me: "Lily, put down that book. 
+I could hear her voice, chiding me: "Alex, put down that book. 
 I can't get you to eat enough carrots to fix what you're doing to your eyes."
 
-I put my bookmark back in place and looked up to find Terry gone from the galley. 
+I put my bookmark back in place and looked up to find Terry no longer in the galley. 
 A glance to the clocks there, one set to Pacific, told me that I'd lost maybe 45 minutes to reading. 
 The galley was immaculate, so I checked the lavatories. 
 All were in reasonable order, with only a few drops of water on the counter here and there to keep them from being considered spotless. 

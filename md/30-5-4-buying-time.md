@@ -2,7 +2,7 @@
 
 "How much longer can we stay up here?"
 
-"Excuse me?" Simon retorted.
+"Excuse me?" Simon retorted, looking away from the instrument panel.
 
 "I am certain there is pressure switch on the bomb.
 It will explode if we descend."
@@ -29,7 +29,7 @@ The bomb is positioned to take out the avionics to the tail."
 
 Pamela gasped and ran out of the cockpit.
 
-Lawrence reached down to the panel marked RADIO and hovered his finger over a switch.
+Lawrence reached down to the panel marked `RADIO` and hovered his finger over a switch.
 "I'm calling this in."
 
 "I think you should.
@@ -84,7 +84,7 @@ They didn't know about it, and now I was sure I didn't want to tell them.
 I walked out of the cockpit, furious at Simon for being such a jerk.
 
 If I was honest with myself, I was furious not just at him, but at the situation.
-This was my sixth time through the same events and I still hadn't solved anything.
+This was my sixth time through the same events, yet I still hadn't solved anything.
 
 I'm not a religious person, but nor do I dismiss the concept of a higher power.
 My grandmother's faith was extremely important to her, and to this day I respect those beliefs.

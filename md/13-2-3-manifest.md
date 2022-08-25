@@ -18,11 +18,11 @@ The rote physical task was comforting, so my thoughts turned to my situation.
 _You're looping.
 Or you're loopy._
 
-Crazy would feel different, wouldn't it?
-I was beginning to wonder if I was crazy during the first repeat.
+Having a breakdown would feel different, wouldn't it?
+I was beginning to wonder if I was during the first repeat.
 This one made it clear I wasn't.
 
-It was a loop.
+_It's a loop._
 
 I didn't know how it started or why or who did it or what was causing it or even when it was going to happen again.
 All I knew is that it was real.
@@ -34,6 +34,7 @@ I knew when and where the beginning of the loop was: standing in the Coach galle
 I also knew when and where I'd ended each of the previous loops.
 The first one ended around 6:45am Eastern, or six and a half hours later.
 The second one ended some time before 4:30am Eastern, or four hours and some change later.
+Two hours different.
 
 Both times, I had found myself on the floor, staring out that unbelievable hole in the side of the aircraft.
 
@@ -98,14 +99,14 @@ The gaping hole had been distracting enough—I had been too out of it to pay at
 The second explosion had disintegrated the coat closet and half of the storage closet.
 I stared at them, tracing their edges and building a mental model of the space.
 
-My eyes closed and I tried to overlay what I had seen only a short while ago.
+My eyes closed as I tried to overlay what I had seen only a short while ago.
 
 The galley storage wall was, in effect, just a large frame into which plugged a number of crates, carts, and small shelf compartments.
 We used it to store meals, dishes, drinks, and everything else we'd need throughout the flight.
 The wall faced the lavatories, running from the door to the aisle.
 
 Around the corner, there was a closet that opened onto the aisle itself.
-This meant the port side compartments, closer to the door, were deeper than the aisle-side, as the shallow closet took up some of that space.
+This meant the port-side compartments, closer to the door, were deeper than the aisle-side, as the shallow closet took up some of that space.
 
 Still with my eyes closed, I rummaged through my memories of what was behind the doors.
 
@@ -141,10 +142,10 @@ If something I had done differently between loops one and two had caused that eq
 _So you're back to square one._
 
 I looked down to see that the cart was empty, the dishes and pitchers stowed.
-I wheeled the cart into its storage space and flipped down the oversized locking handle that would keep it in place.
+I wheeled the cart into its storage space and flipped down the over-sized locking handle that would keep it in place.
 
 Terry noticed the motion, folded his newspaper backwards to mark his place, and tucked it away into his jump seat as he flipped it up and locked it.
-He glanced at that oversized watch and nodded.
+He glanced at that tennis-ball-sized watch of his and nodded.
 
 "Lights out?"
 
@@ -189,7 +190,7 @@ Despite the slow pace of the conversation, the man was still struggling with his
 "Heart problems?
 Will she need more medication before we land?"
 
-Jennifer's frown deepened and she repeated her smoke-before-answering trick.
+Jennifer's frown deepened as she repeated her smoke-before-answering trick.
 
 "Ah, right, that was you."
 She turned to look at the man in 17C, found him asleep, opened the ashtray in his armrest, and flicked off her accumulated ash.
@@ -208,11 +209,11 @@ The man snorted, took off his glasses, and closed his eyes.
 I looked to Jennifer, who was now half-way through her cigarette.
 She squinted at the man and shook her head.
 
-"I'm fine, thank you," she said, turning to stub out her cigarette and drop it into the ash tray, flicking the lid closed.
+"I'm fine, thank you," she said, turning to stub out her cigarette and drop it into the ashtray, flicking the lid closed.
 
 We stepped through the curtain.
 Mr. Dearborn had his tray down and had collected both empty drink cups and wadded napkins.
-I opened the garbage bag and he tossed them in.
+I opened the garbage bag, and he tossed them in.
 He flipped the tray up but then didn't stand to let her in, instead pulling back his legs and holding his magazine to his chest.
 Jennifer didn't seem to care and stepped gingerly past him and the sleeping Mrs. Hamilton.
 She brushed against the blankets as she passed, revealing Mrs. Hamilton's side and an unbuckled belt.
@@ -239,7 +240,7 @@ Jim?"
 
 He looked pale, even for a man of what I guessed to be late seventies.
 I gave it even odds that he'd been born before the turn of the century.
-I realized that this man had seen the birth of aviation and had been alive for decades before the job of Flight Attendant, at that time Stewardess, had even existed.
+I realized that this man had seen the birth of aviation and had been alive for decades before the job of Flight Attendant, at that time Steward and Stewardess, had even existed.
 
 "Do you know how bad the weather will be?"
 
@@ -283,7 +284,8 @@ I found Pamela in her jump seat, reading.
 
 It was disconcerting for a moment to see how she looked at me: with her mask on.
 She smiled, but it was a different smile than I had been expecting.
-We'd gotten to know each other in the previous loop and she'd opened up, but in this loop I was back to being someone she didn't know.
+We'd gotten to know each other in the previous loop.
+She'd opened up before, but in this loop I was back to being someone she didn't know.
 
 "Do you mind some company for the weather?"
 

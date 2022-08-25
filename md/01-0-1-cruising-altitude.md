@@ -15,7 +15,7 @@ As you do, please close the curtains behind you for the comfort of those in the 
 The PA clicked off but no one stood.
 From my position behind them all, I could see dozens of heads swivel to look up at similar, vague places, straining to understand the garbled message the pilot's tone of voice indicated would continue.
 I have to admit that I only know what he's saying because I've heard it so many times.
-There was a burst of static before the pilot's voice continued.
+A burst of static preceded the pilot's voice.
 
 "It looks like we have some weather over the midwest, so we're going to head south for a bit instead of taking our usual direct route. 
 It's going to get bumpy in an hour so plan ahead and have that last smoke for the night before then. 
@@ -23,7 +23,8 @@ We'll be in the air just over 8 hours tonight, which will put us into Miami shor
 Until then, have a drink, get some sleep, and we'll handle the rest."
 
 I hadn't even unbuckled my seat belt before I heard the next _ding!_, this one in a different tone and accompanied by a small blue light on a panel on the starboard galley wall. 
-I stowed my thick textbook in its usual place, wedged into the jump seat's recessed alcove as I closed it. 
+I stowed my thick textbook in its usual place, wedged into the jump seat's recessed alcove as I closed it.
+We're not technically supposed to do that, but everyone does.
 I double-checked that my face was on before I peeked around the corner and scanned for a matching blue light above the passengers. 
 A few rows back from the smoking section: 18E. 
 No one in the area looked frantic, so I made a mental note to follow up after my service prep.
@@ -38,9 +39,9 @@ I felt someone's presence behind me and spoke without turning around.
 There was an almost inaudible snort before responding.
 
 "It looks like you've got prep started."
-It came out "stah-tid" with the Australian's accent erasing the "r" while drawing out the first syllable. 
+The Australian's accent erased the "r" and drew out the first syllable. 
 "The cart's behind you."
-Except it came out "ca-at" and "ya". 
+It came out "ca-at" and something between "ya" and "yer". 
 I couldn't help but smile at it.
 
 Another voice came over the PA, this time a woman's.
@@ -51,30 +52,32 @@ We know it took longer than anyone liked to get off the ground, so High Desert A
 There was a small cheer and the background noise in the cabin went up a notch. 
 
 I knew about the offer and had already started loading the cart with tiny bottles of rum, gin, whisky, and vodka. 
-HDA didn't have the operating budget to stock the good stuff, nor anything too outside of the norm. 
+HDA didn't have the operating budget to stock the good stuff, nor anything too outside the norm. 
 I doubt the decision to give away what would probably amount to 50 to 75 free alcoholic drinks was easy, but it didn't take a Harvard Business degree to know that losing customers over a two-hour delay on the tarmac was not an option for the already struggling airline.
 
 "We'll bring out the cart in just a moment. 
 And like the captain said, if you're going to smoke you should do it now before we hit the weather—the cart's going to make it tricky."
 
 I heard the sound of a dozen seat belts unbuckling at once, followed by several fumbled "excuse me" voices. 
-I continued to load the cart on auto-pilot, my awareness focused on my schoolwork. 
+I continued to load the cart on autopilot, my awareness focused on my schoolwork. 
 The ten minutes between takeoff and cruising altitude hadn't gotten me far into the chapter, and I still couldn't see the path from what I'd read to what I knew my homework was.
 
 _It's a cache priming problem_, I thought as I pulled a bag of ice out of the freezer. 
-_There are N passengers, each with a probability P of ordering a drink. 
-The range of drink orders is the set O, which includes all combinations of rum R, whiskey W, vodka V, gin G, tonic T, soda water S, cola C, and most important of all: ice I. 
-How do you stock the beverage cart B, which is really just a cache, to maximize the orders that can be filled from the cart, minimizing the number of cache misses M—how many times I have to walk back here to the galley to restock the cart—without knowing the drink orders up front?_
+_There are `N` passengers, each with a probability `P` of ordering a drink. 
+The range of drink orders is the set `O`, which includes all combinations of rum `R`, whiskey `W`, vodka `V`, gin `G`, tonic `T`, soda water `S`, cola `C`, and most important of all: ice `I`. 
+How do you stock the beverage cart `B`, which is really just a cache, to maximize the orders that can be filled from the cart, minimizing the number of cache misses `M`—how many times I have to walk back here to the galley to restock the cart—without knowing the drink orders up front?_
+
+It's an unsolvable question, of course.
+You couldn't possibly know the answer beforehand, with that many variables.
+And every flight is different.
 
 Speaking of up front, I knew Pamela would already be in First Class doing exactly that: taking drink orders with her cactus-green HDA notepad and natural brown pencil. 
 She could get away with that with her 22 souls. 
-Terry and I had Coach and 129 souls—it was just more efficient, and visible, to make a best guess with the cart and restock later.
+Terry and I had Coach and 129 souls—it was just more efficient, and visible, to make our best guess with the cart and restock later.
 
 A throat cleared behind me, followed by an interrogatory "excuse me".
 I turned to find a young man—a few years younger than me anyway. 
-I seemed to remember him seated somewhere to port in the low teens, in one of the exit rows, maybe?  I made eye contact with him and he immediately looked down. 
-His eyes landed on my chest and locked on my name badge before he blushed and looked away. 
-I'd seen eyes follow that path for the six months I'd been flying and no longer reacted to it.
+I seemed to remember him seated somewhere to port in the low teens, in one of the exit rows, maybe?  I made eye contact with him, and he immediately looked down. 
 
 "Yes, sir?"
 
@@ -87,17 +90,16 @@ He looked 22, but he sounded more like 17.
 I'd have to card him if he ordered alcohol, even with the free drink offer.
 
 "I mean, um, what's the movie tonight?"
-He added a hasty "ma'am?" at the end that made me think he was straight out of an Indiana corn field.
 
 "Sorry, but we won't be offering a film tonight. 
 We don't usually offer them on our overnight flights, so the bright screens won't keep anyone up."  I also knew a third of HDA's 707 fleet had busted projection equipment, and fewer in-flight movies meant less money paid out in royalties.
 
-His face dropped, and his eyes did the face-chest-floor skip again. 
+His face dropped, and his eyes did the face-nameplate-floor skip again. 
 He mumbled an awkward "thanks" before turning around and walking back toward his seat. 
 But he only got a few steps before he stopped and his shoulders slumped. 
 He turned around and stepped back to me.
 
-"Lily?"
+"Alex?"
 
 My name. 
 Here comes the special request.
@@ -123,7 +125,7 @@ You could ask one of them to switch with you."
 
 He turned to look and seemed to perk up at the sight of a crowd jockeying for positions just beyond the divider.
 "Yeah, I can do that. 
-Thanks, uh, Lily."
+Thanks, uh, Alex."
 
 "Of course. 
 Let me know if you can't find someone. 
@@ -142,7 +144,8 @@ He seemed more at ease than when he'd gone in, so the worry that I'd have to cle
 "Do you have a paper?"
 
 Something about how he chewed on that trailing _R_ made me think he'd been from some Eastern European country before coming Stateside, probably around the same time as my grandparents.
-His eyes never left my face and I couldn't help but compare that comfortable gaze with the nervous and shifting gaze of 13A. 
+His eyes never left my face.
+I couldn't help but compare that comfortable gaze with the nervous and shifting gaze of 13A. 
 I turned to look in the rack on the door of the coat closet next to the galley. 
 It had a handful of magazines but no paper. 
 As I turned back to the man I caught a blur of motion by the cart. 
@@ -179,7 +182,8 @@ HDA didn't stock them, but it was a common enough request that we kept a lookout
 He inclined his head in thanks and turned to make his way back to his seat.
 
 A few minutes and a few more questions later and the cart was stocked. 
-By the time Terry made it back to me my brain had finished the shift from homework to flight work and I was ready to get service done so we could put people to sleep.
+By the time Terry made it back to me my brain had finished the shift from homework to flight work.
+I was ready to get service done, so we could put people to sleep.
 
 "What did 18E want?"
 
@@ -219,8 +223,8 @@ She didn't look sick, but by no accounts did she look well.
 
 I reached under the overhead and deactivated the call light. 
 Something told me to squat down in the aisle to get eye level with the woman. 
-I'm a tall girl, and towering over her sent the wrong impression. 
-We're not supposed to squat, and my skirt made it tricky, but I couldn't help myself.
+I'm tall, and towering over her sent the wrong impression. 
+We're not supposed to squat, but I couldn't help myself.
 
 "How may I help you, ma'am?"
 
@@ -236,11 +240,11 @@ Fetching carry-ons from the overhead shelf for passengers was discouraged, and a
 I saw that the man in 18D had put his magazine in his lap and leaned over to the woman.
 
 "Are you sure you're okay?"
-His voice was a whisper which I doubt was heard outside of the three of us.
+His voice was a whisper which I doubt was heard outside the three of us.
 
 The overhead held a briefcase and two purses. 
 Damn. 
-This is why we don't touch passenger items—I couldn't be sure which was hers and I didn't want the lady from 18F to walk back up to us and see me holding her bag.
+This is why we don't touch passenger items—I couldn't be sure which was hers, I didn't want the lady from 18F to walk back up to us and see me holding her bag.
 
 Wait, I could tell. 
 One purse was leather, bulky and professional. 
@@ -253,7 +257,7 @@ The other was cotton, well-worn, and the same shade of lavender as the collar st
 The bag was wedged between the leather purse and briefcase, and took some shimmying to get loose. 
 I reached up to put a second hand around it when I felt a buzz and the ring finger on my right hand went numb. 
 My hand jerked back and I stared at it. 
-Nothing was wrong with it and it was already regaining feeling. 
+Nothing was wrong with it, and it was already regaining feeling. 
 I shook it, flexing and curling it in front of my eyes.
 
 The man in 18D looked up at me, snapping me back into what I had been doing. 
@@ -264,7 +268,7 @@ I looked to the woman for confirmation, and only released my hold on the bag aft
 I looked back at the man, staring into his eyes, searching for something that would make me feel okay about leaving him to care for the woman.
 
 He seemed to realize what I wanted and his eyes widened for a brief moment before he smiled at me and looked to my name tag.
-"Thanks, Lily. 
+"Thanks, Alex. 
 I didn't realize she'd forgotten, but I can help her from here. 
 Could she get some water?"
 
@@ -280,9 +284,9 @@ I bit my lip, considering my response while pouring water from the pitcher into 
 She doesn't look well." 
 I held up a finger to signal that I'd be right back, then walked to 18.
 
-The man in 18D had the purse open on his lap. 
+The man in D had the purse open on his lap. 
 It had the usual detritus I'd gotten used to seeing in my grandmother's purse: makeup cases, tissues, something in a royal purple leather that was probably the corner of a wallet. 
-18D was struggling to open a dark orange prescription bottle. 
+He was struggling to open a dark orange prescription bottle. 
 I reached past him to put down the tray from the seat in front of her, placing the water into its divot.
 
 The pills in the bottle were huge, dry and chalky-looking things. 
@@ -291,21 +295,22 @@ The man had gotten the top off and was reviewing the label.
 
 "Two?" he asked her, receiving a nod.
 
-His eyes came back to mine and he gave me a nod before returning his focus to the woman.
+His eyes came back to mine.
+He gave me a nod before returning his focus to the woman.
 
 I looked to Terry and gave him a similar nod. 
-He acknowledged and unlocked the cart wheels, pushing it toward me. 
+He acknowledged and unlocked the cart's brakes, pushing it toward me. 
 He didn't speak until we'd gotten to 7, the first row in the smoking section.
 
 "Good to go?" he asked me.
 
 I wasn't sure what I thought about the encounter, so I gave him a squint and head tilt meant to communicate _let's talk later_. 
 He acknowledged it with a mirrored head tilt before putting on his face and turning to 9A to take a drink order from the man sitting there. 
-I took a moment to do the same, though I admit it took longer than I would have liked.
+I took a moment to do the same, though I admit it took longer to compose myself than I would have liked.
 
 The man in 7A was already looking at me, cigarette between his fingers dangling lazy and half-forgotten next to his face.
 
 "Good evening, sir. 
 What can—"
 
-"Vodka tonic, sweetie."
+"Vodka tonic, Alex."

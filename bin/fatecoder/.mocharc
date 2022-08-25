@@ -1,1 +1,0 @@
---register ts-node/register --extension ts test/**.spec.ts

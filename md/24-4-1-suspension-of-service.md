@@ -14,12 +14,12 @@ I put a finger across my lips and threw my eyes at the passengers.
 
 I opened the coat closet door as quietly as I could, continuing to talk as I flipped through the hanging clothes.
 
-"We should swap it out for vodka so it doesn't keep everyone awake."
+"We should swap it out for vodka, so it doesn't keep everyone awake."
 
 Terry stared at me, unmoving.
 I found the coat I was looking for: avocado green cashmere.
 I pulled it free and slid the door shut, hooking a finger at Terry to follow me down the aisle to the jump seats.
-I tapped the drink cart brakes free and slid it to block the aisle before relocking it.
+I tapped the drink cart brakes free and slid it to block the aisle before re-locking it.
 
 Terry looked mystified, whispering "What is going on?"
 
@@ -43,7 +43,7 @@ I know what I saw.
 
 "Wait—" Terry started to say.
 
-A growl escaped my lips.
+A low growl escaped my lips.
 I grabbed the nylon in one hand and the cashmere in the other and yanked as hard as I could.
 A seam gave way, easier than I was expecting, ripping apart the fabrics from collar to hem in a single motion.
 A stream of black nylon poured out onto the floor from between the two layers.
@@ -61,7 +61,7 @@ He turned his head to look at me, but his mind was stuck on the parachute, his e
 I grabbed his shoulders and stared at him.
 "Come on, Terry!"
 
-A flash of insight hit and I turned to open a lavatory.
+A flash of insight hit, and I turned to open a lavatory.
 I scooped up the nylon, shoveling it a hunk at a time through the doorway.
 There was far more fabric than should have been possible.
 Terry stood there, shaking his head.
@@ -75,7 +75,8 @@ I grabbed the PA mic and toggled it active.
 
 "Ladies and gentlemen, we're having some trouble with the wheels on the beverage cart.
 It's blocking the aisle back here, so please remain in your seats for now.
-Give us just a few more minutes and we'll get it straightened out."
+Give us just a few more minutes.
+We'll get it straightened out."
 
 That seemed to appease a few passengers, though not all.
 
@@ -147,7 +148,7 @@ They don't have all the details, so we can't let that happen until we're ready."
 Lawrence didn't like this at all.
 "What exactly do you expect us to do?"
 
-"We need to subdue her so she can't detonate the bomb.
+"We need to subdue her, so she can't detonate the bomb.
 And I think it needs to be just the cabin crew—if she sees you two back there she may figure out that something is happening."
 
 Lawrence liked this even less.

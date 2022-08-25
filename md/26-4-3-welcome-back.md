@@ -75,7 +75,7 @@ Terry and Pamela shared a look, then both looked at Dr. Michelson.
 "There's nothing you can do.
 Go ahead."
 She waved them away.
-Turning back to me she said, "Just breathe, honey."
+Turning back to me she said, "Just breathe."
 
 She shifted to get into a sitting position next to me, grabbing my hand and interlocking her fingers with mine.
 My ears popped and I worked my jaw.
@@ -116,7 +116,8 @@ Hurry!"
 My heart rate climbed, made all the more noticeable by a dull thump in my leg with each beat.
 I pushed Edna over, determined to drag myself to the closet if I had to.
 She snapped out of it and rolled to a crawl, disappearing around the corner.
-I heard her let out a yelp and I knew what she was seeing.
+I heard her let out a yelp.
+I knew what she was seeing.
 
 "Green bottles!" I yelled.
 
@@ -156,4 +157,5 @@ I lost purchase on the fabric twice before I realized that my hands had gone num
 I alternated between screams of pain and laughter as I felt the reset starting.
 Instead of trying to unravel myself I switched to just getting my arms over my head to protect it.
 
-The drumbeat pulse in my ears blocked out everything else and I was gone.
+The drumbeat pulse in my ears blocked out everything else.
+I was gone.

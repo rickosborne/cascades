@@ -1,16 +1,16 @@
 # Awake
 
-"Lily."
+"Alex."
 
 Oh, hey, that's me.
 
-"Lily."
+"Alex."
 
 Why was someone hissing my name? 
 And saying it with a weird accent.
 
-"Talk to me, girl." 
-Except it was _gihl_. 
+"Talk to me." 
+That accent. 
 Terry?
 
 I struggled to open my eyes. 
@@ -23,7 +23,7 @@ Sound: Where was the wind?
 It's so quiet now.
 
 Smell: Cheap rum.
-It smelled like sticky fingers and poor choices.
+It smelled like brown sugar, sticky fingers, and poor choices.
 
 Sight: Terry's face couldn't have been more than a few inches from mine, eyes darting left and right between my own.
 
@@ -40,7 +40,7 @@ My hands gripped his arms in return.
 But as more around me came into focus, I realized where I was: sitting in the jump seat by the Coach lavatories. 
 I was no more than three feet from where a gaping, cloud-filled hole had been only moments before.
 
-"There's a girl!" 
+"There we go!" 
 He rocked back and stood up before me, pulling out of my grip. 
 "You alright? 
 You gave me quite a scare."
@@ -91,11 +91,11 @@ A question fair enough that I answered it without thinking.
 "Sandwich. 
 When I got the call."
 
-Stewardesses, flight attendants, whatever, were not exactly known for our stellar eating habits. 
-We weren't home often enough or long enough to keep well-stocked pantries and we didn't make enough money to dine out everywhere we went. 
-Many of us subsisted on in-flight food, and I knew some who flew literally so they could feed themselves. 
-It didn't help that we were expected to stay model-thin. 
-Oh sure, the airlines weren't allowed to fire us for hitting a size six, but we all knew exactly what would happen.
+Flight attendants were not exactly known for our stellar eating habits. 
+We weren't home often enough or long enough to keep well-stocked pantries, and we didn't make enough money to dine out everywhere we went. 
+Many of us subsisted on in-flight food, and I knew some who flew literally to feed themselves. 
+It didn't help that we were expected to stay "appealing", the less offensive version of "thin". 
+Oh sure, the airlines weren't allowed to fire us for putting on visible weight, but we all knew exactly what would happen.
 
 Terry looked at me, dubious.
 
@@ -124,7 +124,8 @@ The neck had sheared off and half of the liquid had spilled onto the carpet.
 
 Seeing the mess, something clicked inside. 
 I stood up, walked to the galley for a towel, and stooped to mop up the mess. 
-It took a moment to realize that my head was clear—the drumbeat was gone and I wasn't at all dizzy or nauseous. 
+It took a moment to realize that my head was clear—the drumbeat was gone.
+I wasn't at all dizzy or nauseous. 
 Other than being a bit confused, I was perfectly fine.
 
 Terry returned, small plastic container in his hand. 
@@ -151,7 +152,7 @@ Terry smiled at a passenger I couldn't see and inclined his head toward me to sh
 
 "Coming up on nine-thirty, Pacific." 
 Terry's watch was a huge gold-plated monstrosity that I could almost read from six feet away. 
-It had an almost vertical bar of hands on the 12 and 6—he kept his watch on Eastern time and translated without thinking about it.
+It had a just-off-vertical bar of hands on the 12 and 6—he kept his watch on Eastern time and translated without thinking about it.
 
 I wolfed down the other two bites of my salad.
 
@@ -163,10 +164,10 @@ He nodded and unlocked the wheels of the cart, pulling it forward as he backed u
 I gave my mouth a quick dab with a paper napkin and caught up to him a few rows later, pushing the cart to allow him to face forward.
 
 We reached the front of Coach, him at row 7 and me next to 9. 
-I had the strangest feeling of _deja vu_ that I couldn't nail down. 
+I had the strangest feeling of _déjà vu_ that I couldn't nail down. 
 It felt like I had done this all before, and I remembered doing it before, but …
 
-But I've done this hundreds of times in the last six months.
+But I've done this same thing hundreds of times in the last six months.
 
 And of course I recognize these people—I helped them board, got them pillows, looked them each in the eyes as I performed the safety demonstration.
 

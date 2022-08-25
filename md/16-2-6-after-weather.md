@@ -27,7 +27,9 @@ Or had I done or said something that led to that difference?
 
 Or did Terry know we were looping?
 Like me?
-But he was doing a really good job of hiding it?
+But was doing an astoundingly good job of hiding it?
+
+_Well, you're doing a good job hiding it, right?  Why can't he be, too?_
 
 My eyes widened in sudden realization: I hadn't seen Terry at the end of either loop.
 A half-dozen scenarios flitted across my mind's eye: Terry by the rear exit, unconscious from a head wound.
@@ -54,7 +56,7 @@ Well, that and the cranium-splitter that came on each time just before I looped.
 _That's a good point._
 
 It could be that my headache is linked to my looping, but right now it felt like a normal headache.
-Well, like I said I rarely get headaches, but on the occasions when I had they weren't too different.
+While I rarely get headaches, on the occasions when I had they weren't too different.
 I found the galley stash of aspirin and tossed back a pair of pills.
 
 "Everything all right?" Terry asked from behind me.
@@ -72,11 +74,11 @@ I don't remember that from loop zero._
 "Be right back."
 
 Pamela was in the First Class galley, picking her way into a sandwich.
-I caught her mid-bite so she gave me a half-wave for a greeting.
+I caught her mid-bite, so she gave me a half-wave for a greeting.
 
 "I was just thinking the same thing," I told her.
 
-High Desert Air may be a bargain basement airline, but they try to do right by us.
+High Desert Air may be a bargain-basement airline, but they try to do right by us.
 It was one of the upsides to working for an airline owned and run by pilots and not suits.
 Even on flights without meal service there is always something provided for the flight attendants.
 
@@ -147,8 +149,8 @@ She had a light tan leather purse snugged up under her left shoulder that looked
 Terry, still in the jump seat working on his paperback, exchanged hellos with her as she chose a lavatory.
 His eyes didn't linger on her objectively nice outfit or form.
 
-I stepped out of the galley and snuck a glance at the briefcase now occupying her seat.
-It was a deep cabernet leather, oversized even for a man, with polished brass accents and locks that looked as expensive as I'd expect from her outfit.
+I stepped out of the galley and stole a glance at the briefcase now occupying her seat.
+It was a deep cabernet leather, over-sized even for a man, with polished brass accents and locks that looked as expensive as I'd expect from her outfit.
 The woman couldn't have been much more than 5'4", so when she walked it probably looked like she was carrying a steamer trunk.
 
 She looked to be in her late twenties, maybe a few years older than me.
@@ -176,7 +178,7 @@ The woman stepped out of the lavatory and walked over to the exit door.
 A passenger walking up to the exit door mid-flight is to a flight attendant what a suspect reaching into his jacket is to a cop.
 Flight attendants and cops both know that the vast majority of people aren't stupid enough to do anything unexpected, but that twist in the gut will always be there.
 
-She didn't do anything crazy, just put her hands to the sides of the small window and pressed her face to it.
+She didn't do anything worrisome, just put her hands to the sides of the small window and pressed her face to it.
 
 "Huh."
 She said.
@@ -243,7 +245,7 @@ I heard the coffee machine click off and turned to grab a cardboard cup with our
 
 "Why thank you, sugar, you're too sweet."
 
-"What kind of a background do you need for that?" I asked as I poured out her cup.
+"What kind of background do you need for that?" I asked as I poured out her cup.
 There was no point in letting this pot cook for the next two hours, so I turned off the machine.
 
 She laughed to herself before answering.
@@ -294,7 +296,7 @@ I don't have the mask that Pamela does.
 "Oh, I'm so sorry, sweetie."
 
 An awkward beat passed when I regained my smile.
-It hurt that she was gone, but I had meant what I said.
+It hurt that grandma was gone, but I had meant what I said.
 She'd have beamed to hear those words, and picturing her expression raised my spirits.
 
 The woman spoke first.
@@ -310,19 +312,22 @@ The woman spoke first.
 
 She nodded, taking the last pull on her coffee before handing the cup back to me.
 
-"It was lovely talking with you, Lily."
+"It was lovely talking with you, Alex."
 
 "It was mutual."
-I winked at her.
+I widened my smile.
 "I appreciate the company."
 
 I watched her walk up the aisle, digging in her purse as she did so.
 She wasn't watching where she was going and stumbled into one of the rows close to the curtain.
-A man turned to face her and I had another gut-twisting moment of panic.
+A man turned to face her, and I had another gut-twisting moment of panic.
 From his thick neck and salt and pepper hair I realized that it was Dearborn.
-She made the exaggerated gesticulations of an apology and it looked like Dearborn waved her off.
+She made the exaggerated gesticulations of an apology, but it looked like Dearborn waved her off.
 
 She'd been lucky—I knew Dearborn was one of only a few people still awake.
 It could have gotten ugly if she had woken someone up.
 
-The curtain closed behind the woman and I grabbed for my sandwich, tearing into it.
+The curtain closed behind the woman.
+I grabbed for my sandwich, tearing into it.
+
+_Damn.  I still hadn't gotten her name._

@@ -1,7 +1,7 @@
 # Authoritative
 
 "It's a textbook."
-I flipped it up so she could read the title.
+I flipped it up to let her read the title.
 "I'm going to night school."
 
 "Really?"
@@ -20,7 +20,7 @@ I'm just wrapping up a course in two weeks, but then I have 6 more semesters to 
 "So … two more years?"
 
 Her expression was still off-putting.
-Not because there was anything wrong with it—there was not—but because I couldn't parse it.
+Not because there was anything wrong with it—there was not—but because I couldn't read it.
 I found myself holding my breath, waiting for the other conversational shoe to drop.
 
 "Class of '78 if I can stick with it."
@@ -91,7 +91,7 @@ I groped around the inside of my brain, but I couldn't come up with the right wo
 
 She looked stunned for a moment before throwing her head back and letting out a short, quiet gasp of a single laugh.
 
-"I am certain I have never heard anyone say I was authoritative."
+"I am quite certain no one has ever called me authoritative."
 
 She didn't seem offended, so I continued.
 
@@ -104,7 +104,7 @@ Had you said fire chief or news anchor I would have been less surprised."
 Not the graphs and angles and geometry, but the hard numbers."
 
 "I took a statistics course last year.
-I didn't hate it, but it didn't blow my skirt up."
+I didn't hate it, but it wasn't something I really loved."
 
 Her smile deepened.
 
@@ -120,9 +120,9 @@ No way."
 That same gasp of a laugh escaped her.
 
 "Everything is statistics.
-When I have down time, I look out to see all those faces.
+When I have downtime, I look out to see all those faces.
 I think about this group compared to the group on my last flight.
-It becomes a sort of a guessing game.
+It becomes a kind of guessing game.
 How many women will sit in First Class on my next flight?
 How many old or young people?
 Does the spread change more based on our city of departure or our city of arrival?
@@ -159,13 +159,14 @@ If they were going through a hard time, I could help them or their business figu
 I'd get to make a difference."
 
 "I … I know exactly what you mean."
-I held up the textbook and she tipped her head to acknowledge it.
+I held up the textbook between us.
+She tipped her head to acknowledge it.
 
 "But I had an … interruption in my time at college.
-You can't be an accountant without a degree and I couldn't make a college schedule work out.
+You can't be an accountant without a degree, and I couldn't make a college schedule work out.
 I didn't want to live with my parents for the rest of my life, so one day I answered an ad in the paper.
 It was on a whim, really.
-I started out in this tiny airline you've never heard of, doing three quick turns a day so I could be home in time for dinner.
+I started out in this tiny airline you've never heard of, doing three quick turns a day, so I could be home in time for dinner.
 Along the way I realized that I'd already gotten what I'd wanted."
 
 "How's that?"
@@ -177,12 +178,13 @@ But at the end of the day I know I've done my best and at least a few people are
 
 "Seriously?"
 
-My incredulity broke the spell and she stared at me.
+My incredulity broke the spell.
+The stare she threw at me was chilly.
 
 "No!
 I mean, I'm just impressed that you can keep that attitude."
 I fanned my fingers toward the bulkhead between us and Coach.
-"Must of them aren't inclined to cheer."
+"Most of them aren't inclined to cheer."
 
 "It wouldn't be much of a challenge if they were."
 
@@ -214,9 +216,10 @@ I should have asked."
 
 The plane trembled, followed by a _ding!_ a few seconds later.
 We both turned to look at the indicator lights in the galley.
-A Fasten Seat Belts icon now glowed a pale yellow-brown.
+The FSB icon now glowed a pale yellow-brown.
 
-I turned to her and asked, "I can check Smoking?"
+I turned to her and offered, "I can check Smoking?"
+
 We needed to ensure passengers were belted-in, even if we had to wake them up to do it.
 She knew what I meant and nodded.
 I flashed to my dream version of this moment.
@@ -226,8 +229,8 @@ The floor vibrated again, still only a warning of what was ahead.
 I should have done this check before we hit the weather—if I have to wake anyone just to get them buckled, I'm going to feel awful.
 
 We did our slow reconnaissance.
-Of the sixty-six passengers in the Smoking section, all but two were secured.
-I had to wake the mother in 14E to buckle her ten-year-old boy sleeping in 14F.
+Of the sixty-six souls in the Smoking section, all but two were secured.
+I had to wake the mother in 14E to buckle her ten-year-old boy sleeping in F.
 She didn't take much, just a gentle hand on her shoulder.
 I pointed to her son and whispered "seat belt" as the plane shook beneath us.
 
@@ -260,7 +263,7 @@ The man considered arguing with me but a second shake, forceful enough to make m
 I said a silent prayer of thanks for the good timing.
 
 He fumbled around between himself and the seat as I stood up next to him.
-I've seen enough play acting to know to not walk away until I saw him buckled, so I just beamed him my warmest smile.
+I've seen enough play-acting to know to not walk away until I saw him buckled, so I just beamed him my warmest smile.
 He managed to extract the belt after some time, buckled, and made a show of closing his eyes and ignoring me.
 
 "Thank you sir.
@@ -309,7 +312,7 @@ But I couldn't be sure, so I shook my head.
 "Have you spoken with them tonight?"
 
 "Yeah.
-The older woman was having heart problems and I helped get her medication from the overhead.
+The older woman was having heart problems, so I helped get her medication from the overhead.
 Is she okay?"
 
 Pamela was silent.

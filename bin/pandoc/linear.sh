@@ -5,22 +5,22 @@ set -u
 pandoc md/??-*.md \
   -f markdown+smart \
   -t docx \
-  -s --self-contained \
+  -s --embed-resources --standalone \
   --reference-doc bin/pandoc/template.docx \
   --indented-code-classes=fatecode \
   --no-highlight \
   --listings \
   -o target/linear.docx
 #pandoc -t epub \
-#  -s --self-contained \
+#  -s  --embed-resources --standalone \
 #  --reference-doc bin/pandoc/template.docx \
 #  -o target/linear.epub \
 #  --css md/epub.css \
-#  --epub-embed-font md/GentiumPlus-R.ttf \
-#  --epub-embed-font md/GentiumPlus-I.ttf \
-#  --epub-embed-font md/RobotoMono-Regular.ttf \
-#  --epub-embed-font md/Roboto-Medium.ttf \
-#  --epub-embed-font md/Roboto-MediumItalic.ttf \
-#  --epub-cover-image cover/cascades-1920x2880.png \
+#  --epub-embed-font font/GentiumPlus-R.ttf \
+#  --epub-embed-font font/GentiumPlus-I.ttf \
+#  --epub-embed-font font/RobotoMono-Regular.ttf \
+#  --epub-embed-font font/Roboto-Medium.ttf \
+#  --epub-embed-font font/Roboto-MediumItalic.ttf \
+#  --epub-cover-image cover/Cascades-1600x2400.jpg \
 #  md/title.txt \
 #  md/??-*.md

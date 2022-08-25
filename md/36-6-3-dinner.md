@@ -44,7 +44,7 @@ My stomach rolled at the thought that I had helped him.
 Did you get an electric shock?
 Made your hand go numb?"
 
-Fries, half way to my mouth but forgotten, hung in the air between us.
+Fries, half-way to my mouth but forgotten, hung in the air between us.
 
 "Yeah, exactly that.
 What was that?"
@@ -97,7 +97,7 @@ That was the answer: each time I'd looped it had been because of—
 
 She finished off her first burger, picking up her second.
 
-"What do you know about Apollo 1?"
+"What do you know about Apollo I?"
 
 The tangent didn't throw me as much this time.
 
@@ -109,12 +109,12 @@ I was in high school."
 "No clue."
 
 "Five and a half hours.
-Then when the call of fire was made, it took rescue crews another five minutes to get the hatch open.
+Then, when the call of fire was made, it took rescue crews another five minutes to get the hatch open.
 _And they were on the pad._"
 
 "Okay …"
 
-"Apollo 13 was three years later and one hundred seventy thousand miles away.
+"Apollo XIII was three years later and one hundred seventy thousand miles away.
 Another three years and Skylab went up, damaged on launch.
 The space program is hard.
 We're pushing as fast as we can, but we don't always get it right."
@@ -187,7 +187,7 @@ It fixes itself through a neural cascade, reverting the resonance to a time when
 She took a long drag of her drink, reminding me of how she smoked.
 
 "Say instead that the initiation and the critical energy of an agitation are linked.
-When the cascade unwinds the agitation back to the initiation, much of your brain's bioelectricity comes along for the ride.
+When the cascade unwinds the agitation back to the initiation, much of your brain's bio-electricity comes along for the ride.
 Memories and emotions, mostly."
 
 Slack-jawed, I couldn't do much more than stare.
@@ -208,7 +208,7 @@ She nodded, polishing off her second burger.
 "Six repeats, seven times through."
 
 "Be glad you didn't make it to ten.
-That bioelectricity that hitches a ride?
+That bio-electricity that hitches a ride?
 It accumulates, like a residue.
 At eight or nine you start to lose the ability to tell the difference between what's happening now and what you half-remember happening from before.
 At ten or eleven, you don't want to know."
@@ -216,3 +216,6 @@ At ten or eleven, you don't want to know."
 She shivered in her seat.
 
 "When they asked you how you knew about the bomb, what did you tell them?"
+
+
+<center>THE END</center>

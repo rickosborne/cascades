@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/md/Markdown.iml" filepath="$PROJECT_DIR$/md/Markdown.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bin/bin.iml" filepath="$PROJECT_DIR$/bin/bin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cover/cover.iml" filepath="$PROJECT_DIR$/cover/cover.iml" />
-      <module fileurl="file://$PROJECT_DIR$/target/target.iml" filepath="$PROJECT_DIR$/target/target.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cascades.iml" filepath="$PROJECT_DIR$/Cascades.iml" />
     </modules>
   </component>
 </project>

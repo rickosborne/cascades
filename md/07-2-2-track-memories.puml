@@ -1,9 +1,0 @@
-@startuml
-
-skinparam shadowing false
-skinparam dpi 300
-scale 10
-
-(foo bar) ->> (bar)
-
-@enduml

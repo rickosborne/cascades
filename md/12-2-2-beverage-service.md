@@ -4,7 +4,7 @@ I made sure to take the front of the drink cart this time.
 I wanted to talk to Mr. Dearborn and Mrs. Hamilton in 18.
 
 It was a weird experience, serving from the front of the cart for the second time.
-I hadn't been paying much attention the first time so I didn't have the orders memorized, but some of them were … just there.
+I hadn't been paying much attention the first time, so I didn't have the orders memorized, but some of them were … just there.
 Like a half-remembered exchange of dialogue from a favorite movie or book.
 You don't quite have it until someone starts saying it, then the words line up and tumble out after each other.
 
@@ -16,8 +16,9 @@ I also tried to keep an ear out for what Terry's passengers were ordering and ho
 That was harder to keep in my head at the same time, but I found the challenge invigorating.
 I felt like a spy on a secret mission, gathering intelligence.
 
-We finished with the Smoking section and I pulled the translucent curtains shut behind me.
-A number of passengers had lit up as soon as they'd gotten their drinks, so the smoke was becoming palpable.
+We finished with the Smoking section.
+I pulled the translucent curtains shut behind me.
+A number of passengers lit up as soon as they got their drinks, so the smoke was becoming palpable.
 The air filters would catch up, but these first few minutes of beverage service were always like this.
 
 I served 18A, B, and C, then turned to my left, holding out a drink napkin.
@@ -72,7 +73,7 @@ The smell of salty hops tickled the inside of my nose.
 I filled a plastic cup, replacing the now-half-full can on the cart beside the rest.
 
 She accepted the cup and took a sip.
-Her eyes fluttered closed and she inhaled through her nose.
+Her eyes fluttered closed as she inhaled through her nose.
 The beer wasn't anything to write home about, so she must not have had one in a long time.
 I saw myself drop out of her awareness as she leaned back against her seat.
 My focus shifted to Dearborn.
@@ -84,7 +85,7 @@ For all of Jennifer's striking traits, Dearborn's were that much more average.
 Thinning black hair shot through with a fair amount of grey, not shaggy our unkempt, but not styled.
 Thick-rimmed glasses that were simple and functional, without being cheap.
 Dark eyes that may have been brown or black, it was impossible to tell in this light.
-A black suit that didn't have the flared collar or busy patterns that were in right now, but would still be wearable in five or even ten years.
+A black suit that didn't have the flared collar or busy patterns that were in right now, but would probably still be wearable in five or even ten years.
 
 I tried to think of a more interesting word than "average" to describe him, but came up blank.
 
@@ -112,7 +113,7 @@ I didn't say anything but pointed at the empty cup in front of Mrs. Hamilton and
 
 Again he considered it before answering.
 
-"You know what, Lily?
+"You know what, Alex?
 I could use some water to go with this."
 He pointed at the cup I'd just given him.
 "May I?"

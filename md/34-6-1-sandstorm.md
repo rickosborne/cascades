@@ -13,9 +13,9 @@ Simon answered.
 
 "That's not funny.
 Who is this?
-Reserve girl?"
+The reserve?"
 
-"Lily.
+"Alex.
 I'm not kidding."
 I cupped my hand over the mouthpiece and said, "There's a bomb.
 Get us on the ground now.
@@ -57,12 +57,12 @@ The floor pitched as the aircraft banked into a tight turn.
 "Doesn't matter.
 It's got to happen now before we descend."
 
-I kicked my shoes off, turned and ran around the corner, and dove into row 27.
+I turned and ran around the corner, diving into row 27.
 Instead of going face first, I rotated and landed as if to sit in her lap.
 I grabbed at her purse with my left hand, attempting to pull it out of the way as I landed.
 It didn't come away clean—she managed to catch one of the straps with her own left hand.
 My back slammed into her chest, catching that arm against the wall.
-I jammed my feet into the cracks between the row 26 seats, leveraging back into her with all of my strength.
+Jamming my feet into the cracks between the row 26 seats, I leveraged back into her with all of my strength.
 
 Her right arm was trapped between us, so I used my own right elbow to try to keep it from escaping.
 I managed to get both hands around the straps on the purse and yanked while slamming my head back into hers.
@@ -76,10 +76,10 @@ I tossed the purse to Terry, screaming at him over the passengers.
 Irene struggled behind me, so I slammed my head back into hers, trying to wedge it into the corner.
 "One of them has an expensive fountain pen!"
 
-Her struggle intensified, so I head-butted her a third time and a fourth.
+Her struggle intensified, so I headbutted her a third time and a fourth.
 I heard her head slam into the wall on the third, then felt it rebound from the wall on the fourth.
 Her struggling ceased and her arms went limp.
-My own brain was fuzzy and it took a second to clear.
+My own brain was fuzzy, taking a second to clear.
 
 "I've got it!" Terry exclaimed.
 
@@ -88,7 +88,7 @@ I held out my hand to him.
 
 The pitch of the turn leveled and my stomach dropped.
 
-Terry snapped the pen into my palm and I went to work on it.
+Terry snapped the pen into my palm, and I went to work on it.
 The cap and nib flew off, the tube sliding out into my hand.
 I unscrewed the cap and looked at the switch.
 It was set to the red 'P' position.
@@ -133,7 +133,7 @@ We'll explain shortly."
 
 Alan and Edna got up and hurried back to us.
 
-"Doctor," I said looking at Alan, "I need to make sure she's okay, but she's dangerous and I need her to stay down.
+"Doctor," I said looking at Alan, "I need to make sure she's okay, but she's dangerous. I need her to stay down.
 Can you do that?"
 
 He stared at me and swallowed.
@@ -186,7 +186,7 @@ Bear with me for just a few more minutes."
 
 Not giving them a chance to object, I strode up the aisle, through first class, and knocked on the cockpit door.
 
-"It's Lily.
+"It's Alex.
 I'm alone."
 
 The door unlocked and opened.
@@ -234,8 +234,9 @@ As I exited the cockpit I heard his voice come over the PA.
 "Ladies and gentlemen, this is the pilot speaking.
 We've got a medical emergency and are rerouting to Portland.
 We're already descending and will touch down in about fifteen minutes.
-Don't worry, the folks on the ground will get your tickets sorted out and we'll get you to Miami as soon as we can.
-For now we need you to get secured so we can all land safely."
+Don't worry, the folks on the ground will get your tickets sorted out.
+We'll get you to Miami as soon as we can.
+For now, we need you to get secured, so we can all land safely."
 
 The FSB indicator flashed on with a _ding!_ as the PA clicked off.
 
@@ -249,7 +250,7 @@ I smiled and waved as I looked down the aisle to see Terry and Pamela heading to
 I asked Terry, "Can you make sure everyone is buckled in?
 I need to check on them," I nodded to the clump of people standing in the tail.
 
-The applause died, but people said thank yous as I passed them in the aisle.
+The applause died, but people said thank-yous as I passed them in the aisle.
 
 "Mr. Grant and Mr. Grant," I said as I approached them.
 "Thank you for your cooperation.
@@ -261,7 +262,8 @@ The two men nodded, Junior speaking up in a low whisper.
 "Is there really a bomb?"
 
 "The situation has been taken care of," I offered instead of a direct confirmation.
-"We'll be landing shortly and you should get buckled in."
+"We'll be landing shortly.
+You should get buckled in."
 
 Junior looked like he wanted to ask more, but Senior put a hand on his shoulder and walked him past me.
 
@@ -292,12 +294,11 @@ How's the elderly woman?"
 "I'm just about to find out."
 
 I walked back to the lavatory, where the moaning had reduced to more of a whimper.
-Edna was helping Mary to a sitting position on the toilet.
+Edna was helping Mary to a sitting position.
 
 "Doctor," I said softly.
 Both women looked up at me.
-Mary's eyes were still
-vague and wandering.
+Mary's eyes were still vague and wandering.
 "Mrs. Hamilton."
 I looked to Edna.
 "Will she be okay?"
@@ -316,18 +317,19 @@ I'd like to get you strapped in."
 
 I flipped down the seats and picked up my textbook.
 Each of us reaching into the lavatory, Edna and I got Mary to her feet and shuffled her into the jump seats.
-Mary picked at the book in my arm while we buckled her in, like a baby grasping for its bottle.
+Mary picked at the book in my arm while we buckled her in, oddly interested in it.
 I pulled it away from her and tossed it into one of the empty storage compartments on the wall.
 Mary was holding her stomach when I turned back.
 
 "Don't … feel …"
 
 I knelt next to her, brushing her cheek with the back of my fingers.
+Reaching into another compartment on the wall, I extracted a pair of airsick bags and handed them to Edna while keeping my eyes on Mary.
 
 "I know.
 We're going to make it better, I promise."
 I looked to Edna.
-"Is there anything I can get you for her?"
+"Is there anything else I can get you for her?"
 
 "No, thank you."
 
