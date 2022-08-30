@@ -1,6 +1,6 @@
 # Descent
 
-I was in the First Class galley when the tail of the plane exploded.
+I was in the First Class galley when the tail of the plane came apart.
 
 You don't have to see something like that happen to know that it did. 
 When there's a sudden loud booming noise that reverb-fades into a howling wind just before your ears pop, and you find that you can't breathe too-cold air, well, what else could have happened?

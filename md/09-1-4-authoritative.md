@@ -40,8 +40,8 @@ I can stick it out for two more years, but another four or more on top of that a
 No way."
 
 There was a longer pause in which I didn't get the sense that the conversation was over.
-I was nice, actually.
-It gave me a chance to get used to the idea of talking to her.
+It was nice, actually.
+The pause gave me a chance to get used to the idea of talking to her.
 Socially, that is.
 I didn't hate the idea, I just hadn't thought it would ever happen.
 

@@ -128,6 +128,11 @@ It took a moment to realize that my head was clear—the drumbeat was gone.
 I wasn't at all dizzy or nauseous. 
 Other than being a bit confused, I was perfectly fine.
 
+I was also using my right arm and hand, without any pain.
+The sound of its wrenching snap when I'd hit the bulkhead still reverberated in my ears.
+And I could still feel the lightning bolts of pain I got from trying to grab the oxygen bottle.
+But now ... there was no pain at all.
+
 Terry returned, small plastic container in his hand. 
 I recognized it as a single-serving salad from one of the First Class meal packs. 
 He waved me around behind the cart and into the galley, flourishing a metal fork from nowhere.

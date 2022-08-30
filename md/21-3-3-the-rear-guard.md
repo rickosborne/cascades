@@ -6,6 +6,9 @@ I don't want to think about how awful those three minutes must be for those peop
 
 I don't want to think about it, but a vision of the businesswoman, the man, and his son screaming and flailing threatens to take over my thoughts.
 
+To distract myself, I try to work out a computer program to do the Newtonian physics calculation for such a descent, given inputs of altitude and drag.
+It's morbid, but the intellectual exercise helps wall off the raw imagery of my imagination.
+
 Between beverage service and lights-out I pulled the manifest ruse again and filled in a new half-dozen names.
 This time I focused on the six people on the port size of rows 26 and 27, seats A through C.
 I thought it would help me connect with the people in row 27.
@@ -119,3 +122,96 @@ With all the input I'm trying to keep track of, and juggling and sorting three a
 For now, I'm going back to my consideration of sight lines.
 
 I grabbed some aspirin from the galley and settled into my jump seat to wait out the weather.
+
+Terry thumped down heavily next to me, once again with his paper.
+We sat in a companionable silence, until Terry runs out of things to read.
+He pointed at my schoolbook.
+
+"That looks like heavy stuff."
+
+I realized I'd had it open to the same page for at least a half hour.
+A giant block-lettered `LOOPS` chapter header stood out at the top of the page.
+
+"It's not so bad once you get used to it," was all I could think to say.
+
+"May I?" he asks, holding his hands out for the thick book.
+
+I pulled my bookmark out from between my thigh and my seat and dropped it into place.
+
+"Sure," I said as I handed over the book which had cost me more than I'd probably make for this entire, unending flight.
+
+He read, tracing his index finger down the page.
+Shaking his head, he flipped the pages back until he found the `INTRODUCTION` section at the beginning.
+Again, his finger dew slowly down the paper.
+Shaking his head and checking the bookmark, he flipped the book closed and handed it back to me.
+
+"Impressive.
+I have no idea what any of it means."
+His smile seemed genuine.
+"I don't know how you can read that without taking notes, though.
+Can you actually remember all of it?"
+
+I chuckled.
+"When I'm not flying, I take a ton of notes.
+But no pockets in the uniforms means no pens or highlighters.
+I tried keeping them with the book, but I knew I'd eventually get in trouble for leaving one in a jump seat and didn't want to risk it."
+
+Terry rolled his eyes.
+"Tell me about it.
+I can't believe they took pockets off these new uniforms.
+Just an awful decision."
+
+"Oh?
+Did the uniforms have pockets before?"
+
+"Until, uh," he scratched his chin, "about two years ago, yeah.
+When they got rid of skirts and put everyone into trousers.
+They called it," he curled his fingers in the air, "_unisex design_, but we all knew the real reason."
+
+"What's that?" I asked.
+
+"Fellas kept their wallets in their pockets.
+It," again he curled his fingers, "_ruined the lines_.
+Someone realized women passengers like to stare at bums as much as men passengers.
+So here we are."
+
+"Huh," I say.
+I couldn't think of anything else, so I fell back to small talk.
+"How long have you worked for HDA?"
+
+His finger and thumb again went to his chin.
+"Maybe six years now?  Seven?"
+
+"What did you do before?
+If you don't mind me asking."
+
+"No worries—I don't mind.
+Professional surfer.
+Since I was this big."
+He hovered his hand at a height which implied it may have been before he learned how to walk.
+
+He looked like he wanted to continue, so I sat quiet and waited.
+
+"Blew out my knee about ten years ago.
+I was in L.A. for a small comp.
+Too small, really.
+After I'd already been through three surgeries, there was a problem with the insurance, and I was stuck in the U.S."
+
+His face tightened, but he kept going.
+
+"There were also some family problems back home, so there wasn't anything really left for me there, anyway.
+I stayed here, bouncing around a few odd jobs until I got solid on my feet again.
+I always enjoyed traveling for comps, so I thought this job might be close enough."
+
+Looking to redirect from what was clearly a painful memory, I asked, "How long have you, Pamela, and Archie been flying together?"
+
+"Maybe a year now?
+A bit less, I think."
+
+His mood shifted at the mention of Archie.
+
+"I want to head forward to check on something, if you don't mind.
+You okay back here for a while?"
+
+The FSB was still on for the weather, but he knew this as well as I did.
+I nodded, and he unbuckled and walked away without another word.
